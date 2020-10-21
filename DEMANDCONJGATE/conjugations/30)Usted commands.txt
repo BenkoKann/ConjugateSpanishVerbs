@@ -1,0 +1,80 @@
+ABRIR | to open
+usted	abra/no abra
+ACOSTARSE | to go to bed (lie down)
+usted	acuéstese/no se acueste
+ALMORZAR | to have lunch
+usted	almuerce/no almuerce
+BEBER | to drink
+usted	beba/no beba
+CALLARSE | to be silent
+usted	cállese/no se calle
+CEPILLARSE | to brush oneself
+usted	cepíllese/no se cepille
+CERRAR | to close
+usted	cierre/no cierre
+COMER | to eat
+usted	coma/no coma
+DECIR | to say
+usted	diga/no diga
+DESPERTARSE | to wake up
+usted	despiértese/no se despierte
+DUCHARSE | to take a shower
+usted	dúchese/no se duche
+ENTRAR | to enter
+usted	entre/no entre
+ESCOGER | to choose
+usted	escoja/no escoja
+ESCRIBIR | to write
+usted	escriba/no escriba
+FREGAR | to wash dishes
+usted	friegue/no friegue
+HABLAR | to talk
+usted	hable/no hable
+HACER | to do/to make
+usted	haga/no haga
+IR | to go
+usted	vaya/no vaya
+IRSE | to leave
+usted	váyase/no se vaya
+JUGAR | to play
+usted	juegue/no juegue
+LEVANTARSE | to get up
+usted	levántese/no se levante
+LIMPIAR | to clean
+usted	limpie/no limpie
+MAQUILLARSE | to put on make-up
+usted	maquíllese/no se maquille
+MIRAR | to look
+usted	mire/no mire
+PEINARSE | to comb one's hair
+usted	péinese/no se peine
+PENSAR | to think
+usted	piense/no piense
+PONERSE | to put on/to become (emotion)
+usted	póngase/no se ponga
+QUITARSE | to take off
+usted	quítese/no se quite
+SACAR | to take out
+usted	saque/no saque
+SALIR | to depart
+usted	salga/no salga
+SECARSE | to dry oneself
+usted	séquese/no se seque
+SENTARSE | to sit down
+usted	siéntese/no se siente
+SER | to be (permanent)
+usted	sea/no sea
+SUBIR | to go up/to rise
+usted	suba/no suba
+TENER | to have
+usted	tenga/no tenga
+TOMAR | to take/to drink
+usted	tome/no tome
+VENIR | to come
+usted	venga/no venga
+VER | to see
+usted	vea/no vea
+VESTIRSE | to get dressed
+usted	vístase/no se vista
+VIVIR | to live
+usted	viva/no viva

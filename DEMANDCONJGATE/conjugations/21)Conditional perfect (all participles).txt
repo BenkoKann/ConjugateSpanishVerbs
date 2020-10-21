@@ -1,0 +1,246 @@
+ABRIR | to open
+yo	habría abierto	nosotros	habríamos abierto
+tú	habrías abierto	vosotros	habríais abierto
+él	habría abierto	ellos	habrían abierto
+ella	habría abierto	ellas	habrían abierto
+usted	habría abierto	ustedes	habrían abierto
+AGUANTAR | to endure/to hold
+yo	habría aguantado	nosotros	habríamos aguantado
+tú	habrías aguantado	vosotros	habríais aguantado
+él	habría aguantado	ellos	habrían aguantado
+ella	habría aguantado	ellas	habrían aguantado
+usted	habría aguantado	ustedes	habrían aguantado
+APRENDER | to learn
+yo	habría aprendido	nosotros	habríamos aprendido
+tú	habrías aprendido	vosotros	habríais aprendido
+él	habría aprendido	ellos	habrían aprendido
+ella	habría aprendido	ellas	habrían aprendido
+usted	habría aprendido	ustedes	habrían aprendido
+ASISTIR | to attend
+yo	habría asistido	nosotros	habríamos asistido
+tú	habrías asistido	vosotros	habríais asistido
+él	habría asistido	ellos	habrían asistido
+ella	habría asistido	ellas	habrían asistido
+usted	habría asistido	ustedes	habrían asistido
+BEBER | to drink
+yo	habría bebido	nosotros	habríamos bebido
+tú	habrías bebido	vosotros	habríais bebido
+él	habría bebido	ellos	habrían bebido
+ella	habría bebido	ellas	habrían bebido
+usted	habría bebido	ustedes	habrían bebido
+BORRAR | to erase
+yo	habría borrado	nosotros	habríamos borrado
+tú	habrías borrado	vosotros	habríais borrado
+él	habría borrado	ellos	habrían borrado
+ella	habría borrado	ellas	habrían borrado
+usted	habría borrado	ustedes	habrían borrado
+CANTAR | to sing
+yo	habría cantado	nosotros	habríamos cantado
+tú	habrías cantado	vosotros	habríais cantado
+él	habría cantado	ellos	habrían cantado
+ella	habría cantado	ellas	habrían cantado
+usted	habría cantado	ustedes	habrían cantado
+COMER | to eat
+yo	habría comido	nosotros	habríamos comido
+tú	habrías comido	vosotros	habríais comido
+él	habría comido	ellos	habrían comido
+ella	habría comido	ellas	habrían comido
+usted	habría comido	ustedes	habrían comido
+COMPRENDER | to understand
+yo	habría comprendido	nosotros	habríamos comprendido
+tú	habrías comprendido	vosotros	habríais comprendido
+él	habría comprendido	ellos	habrían comprendido
+ella	habría comprendido	ellas	habrían comprendido
+usted	habría comprendido	ustedes	habrían comprendido
+DAR | to give
+yo	habría dado	nosotros	habríamos dado
+tú	habrías dado	vosotros	habríais dado
+él	habría dado	ellos	habrían dado
+ella	habría dado	ellas	habrían dado
+usted	habría dado	ustedes	habrían dado
+DECIR | to say
+yo	habría dicho	nosotros	habríamos dicho
+tú	habrías dicho	vosotros	habríais dicho
+él	habría dicho	ellos	habrían dicho
+ella	habría dicho	ellas	habrían dicho
+usted	habría dicho	ustedes	habrían dicho
+DESPERTARSE | to wake up
+yo	me habría despertado	nosotros	nos habríamos despertado
+tú	te habrías despertado	vosotros	os habríais despertado
+él	se habría despertado	ellos	se habrían despertado
+ella	se habría despertado	ellas	se habrían despertado
+usted	se habría despertado	ustedes	se habrían despertado
+ESCRIBIR | to write
+yo	habría escrito	nosotros	habríamos escrito
+tú	habrías escrito	vosotros	habríais escrito
+él	habría escrito	ellos	habrían escrito
+ella	habría escrito	ellas	habrían escrito
+usted	habría escrito	ustedes	habrían escrito
+ESCUCHAR | to listen (to)
+yo	habría escuchado	nosotros	habríamos escuchado
+tú	habrías escuchado	vosotros	habríais escuchado
+él	habría escuchado	ellos	habrían escuchado
+ella	habría escuchado	ellas	habrían escuchado
+usted	habría escuchado	ustedes	habrían escuchado
+ESTAR | to be (location)
+yo	habría estado	nosotros	habríamos estado
+tú	habrías estado	vosotros	habríais estado
+él	habría estado	ellos	habrían estado
+ella	habría estado	ellas	habrían estado
+usted	habría estado	ustedes	habrían estado
+ESTUDIAR | to study
+yo	habría estudiado	nosotros	habríamos estudiado
+tú	habrías estudiado	vosotros	habríais estudiado
+él	habría estudiado	ellos	habrían estudiado
+ella	habría estudiado	ellas	habrían estudiado
+usted	habría estudiado	ustedes	habrían estudiado
+HABLAR | to talk
+yo	habría hablado	nosotros	habríamos hablado
+tú	habrías hablado	vosotros	habríais hablado
+él	habría hablado	ellos	habrían hablado
+ella	habría hablado	ellas	habrían hablado
+usted	habría hablado	ustedes	habrían hablado
+HACER | to do/to make
+yo	habría hecho	nosotros	habríamos hecho
+tú	habrías hecho	vosotros	habríais hecho
+él	habría hecho	ellos	habrían hecho
+ella	habría hecho	ellas	habrían hecho
+usted	habría hecho	ustedes	habrían hecho
+IR | to go
+yo	habría ido	nosotros	habríamos ido
+tú	habrías ido	vosotros	habríais ido
+él	habría ido	ellos	habrían ido
+ella	habría ido	ellas	habrían ido
+usted	habría ido	ustedes	habrían ido
+LAVAR | to wash
+yo	habría lavado	nosotros	habríamos lavado
+tú	habrías lavado	vosotros	habríais lavado
+él	habría lavado	ellos	habrían lavado
+ella	habría lavado	ellas	habrían lavado
+usted	habría lavado	ustedes	habrían lavado
+LEER | to read
+yo	habría leído	nosotros	habríamos leído
+tú	habrías leído	vosotros	habríais leído
+él	habría leído	ellos	habrían leído
+ella	habría leído	ellas	habrían leído
+usted	habría leído	ustedes	habrían leído
+LEVANTARSE | to get up
+yo	me habría levantado	nosotros	nos habríamos levantado
+tú	te habrías levantado	vosotros	os habríais levantado
+él	se habría levantado	ellos	se habrían levantado
+ella	se habría levantado	ellas	se habrían levantado
+usted	se habría levantado	ustedes	se habrían levantado
+LIMPIAR | to clean
+yo	habría limpiado	nosotros	habríamos limpiado
+tú	habrías limpiado	vosotros	habríais limpiado
+él	habría limpiado	ellos	habrían limpiado
+ella	habría limpiado	ellas	habrían limpiado
+usted	habría limpiado	ustedes	habrían limpiado
+LLEVAR | to wear/to bring
+yo	habría llevado	nosotros	habríamos llevado
+tú	habrías llevado	vosotros	habríais llevado
+él	habría llevado	ellos	habrían llevado
+ella	habría llevado	ellas	habrían llevado
+usted	habría llevado	ustedes	habrían llevado
+MIRAR | to look
+yo	habría mirado	nosotros	habríamos mirado
+tú	habrías mirado	vosotros	habríais mirado
+él	habría mirado	ellos	habrían mirado
+ella	habría mirado	ellas	habrían mirado
+usted	habría mirado	ustedes	habrían mirado
+MONTAR | to get on
+yo	habría montado	nosotros	habríamos montado
+tú	habrías montado	vosotros	habríais montado
+él	habría montado	ellos	habrían montado
+ella	habría montado	ellas	habrían montado
+usted	habría montado	ustedes	habrían montado
+MORIR | to die
+yo	habría muerto	nosotros	habríamos muerto
+tú	habrías muerto	vosotros	habríais muerto
+él	habría muerto	ellos	habrían muerto
+ella	habría muerto	ellas	habrían muerto
+usted	habría muerto	ustedes	habrían muerto
+OÍR | to hear
+yo	habría oído	nosotros	habríamos oído
+tú	habrías oído	vosotros	habríais oído
+él	habría oído	ellos	habrían oído
+ella	habría oído	ellas	habrían oído
+usted	habría oído	ustedes	habrían oído
+PONER | to put
+yo	habría puesto	nosotros	habríamos puesto
+tú	habrías puesto	vosotros	habríais puesto
+él	habría puesto	ellos	habrían puesto
+ella	habría puesto	ellas	habrían puesto
+usted	habría puesto	ustedes	habrían puesto
+QUERER | to want/to love
+yo	habría querido	nosotros	habríamos querido
+tú	habrías querido	vosotros	habríais querido
+él	habría querido	ellos	habrían querido
+ella	habría querido	ellas	habrían querido
+usted	habría querido	ustedes	habrían querido
+QUITARSE | to take off
+yo	me habría quitado	nosotros	nos habríamos quitado
+tú	te habrías quitado	vosotros	os habríais quitado
+él	se habría quitado	ellos	se habrían quitado
+ella	se habría quitado	ellas	se habrían quitado
+usted	se habría quitado	ustedes	se habrían quitado
+ROMPER | to break
+yo	habría roto	nosotros	habríamos roto
+tú	habrías roto	vosotros	habríais roto
+él	habría roto	ellos	habrían roto
+ella	habría roto	ellas	habrían roto
+usted	habría roto	ustedes	habrían roto
+SACAR | to take out
+yo	habría sacado	nosotros	habríamos sacado
+tú	habrías sacado	vosotros	habríais sacado
+él	habría sacado	ellos	habrían sacado
+ella	habría sacado	ellas	habrían sacado
+usted	habría sacado	ustedes	habrían sacado
+SALIR | to depart
+yo	habría salido	nosotros	habríamos salido
+tú	habrías salido	vosotros	habríais salido
+él	habría salido	ellos	habrían salido
+ella	habría salido	ellas	habrían salido
+usted	habría salido	ustedes	habrían salido
+SER | to be (permanent)
+yo	habría sido	nosotros	habríamos sido
+tú	habrías sido	vosotros	habríais sido
+él	habría sido	ellos	habrían sido
+ella	habría sido	ellas	habrían sido
+usted	habría sido	ustedes	habrían sido
+TOMAR | to take/to drink
+yo	habría tomado	nosotros	habríamos tomado
+tú	habrías tomado	vosotros	habríais tomado
+él	habría tomado	ellos	habrían tomado
+ella	habría tomado	ellas	habrían tomado
+usted	habría tomado	ustedes	habrían tomado
+VENIR | to come
+yo	habría venido	nosotros	habríamos venido
+tú	habrías venido	vosotros	habríais venido
+él	habría venido	ellos	habrían venido
+ella	habría venido	ellas	habrían venido
+usted	habría venido	ustedes	habrían venido
+VER | to see
+yo	habría visto	nosotros	habríamos visto
+tú	habrías visto	vosotros	habríais visto
+él	habría visto	ellos	habrían visto
+ella	habría visto	ellas	habrían visto
+usted	habría visto	ustedes	habrían visto
+VESTIRSE | to get dressed
+yo	me habría vestido	nosotros	nos habríamos vestido
+tú	te habrías vestido	vosotros	os habríais vestido
+él	se habría vestido	ellos	se habrían vestido
+ella	se habría vestido	ellas	se habrían vestido
+usted	se habría vestido	ustedes	se habrían vestido
+VIVIR | to live
+yo	habría vivido	nosotros	habríamos vivido
+tú	habrías vivido	vosotros	habríais vivido
+él	habría vivido	ellos	habrían vivido
+ella	habría vivido	ellas	habrían vivido
+usted	habría vivido	ustedes	habrían vivido
+VOLVER | to go back/to do again
+yo	habría vuelto	nosotros	habríamos vuelto
+tú	habrías vuelto	vosotros	habríais vuelto
+él	habría vuelto	ellos	habrían vuelto
+ella	habría vuelto	ellas	habrían vuelto
+usted	habría vuelto	ustedes	habrían vuelto

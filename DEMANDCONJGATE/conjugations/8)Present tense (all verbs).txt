@@ -1,0 +1,522 @@
+ACOSTARSE | to go to bed (lie down)
+yo	me acuesto	nosotros	nos acostamos
+tú	te acuestas	vosotros	os acostáis
+él	se acuesta	ellos	se acuestan
+ella	se acuesta	ellas	se acuestan
+usted	se acuesta	ustedes	se acuestan
+AFEITARSE | to shave oneself
+yo	me afeito	nosotros	nos afeitamos
+tú	te afeitas	vosotros	os afeitáis
+él	se afeita	ellos	se afeitan
+ella	se afeita	ellas	se afeitan
+usted	se afeita	ustedes	se afeitan
+ALMORZAR | to have lunch
+yo	almuerzo	nosotros	almorzamos
+tú	almuerzas	vosotros	almorzáis
+él	almuerza	ellos	almuerzan
+ella	almuerza	ellas	almuerzan
+usted	almuerza	ustedes	almuerzan
+APRENDER | to learn
+yo	aprendo	nosotros	aprendemos
+tú	aprendes	vosotros	aprendéis
+él	aprende	ellos	aprenden
+ella	aprende	ellas	aprenden
+usted	aprende	ustedes	aprenden
+ASISTIR | to attend
+yo	asisto	nosotros	asistimos
+tú	asistes	vosotros	asistís
+él	asiste	ellos	asisten
+ella	asiste	ellas	asisten
+usted	asiste	ustedes	asisten
+BORRAR | to erase
+yo	borro	nosotros	borramos
+tú	borras	vosotros	borráis
+él	borra	ellos	borran
+ella	borra	ellas	borran
+usted	borra	ustedes	borran
+CABER | to fit into
+yo	quepo	nosotros	cabemos
+tú	cabes	vosotros	cabéis
+él	cabe	ellos	caben
+ella	cabe	ellas	caben
+usted	cabe	ustedes	caben
+CAERSE | to fall
+yo	me caigo	nosotros	nos caemos
+tú	te caes	vosotros	os caéis
+él	se cae	ellos	se caen
+ella	se cae	ellas	se caen
+usted	se cae	ustedes	se caen
+CEPILLARSE | to brush oneself
+yo	me cepillo	nosotros	nos cepillamos
+tú	te cepillas	vosotros	os cepilláis
+él	se cepilla	ellos	se cepillan
+ella	se cepilla	ellas	se cepillan
+usted	se cepilla	ustedes	se cepillan
+CERRAR | to close
+yo	cierro	nosotros	cerramos
+tú	cierras	vosotros	cerráis
+él	cierra	ellos	cierran
+ella	cierra	ellas	cierran
+usted	cierra	ustedes	cierran
+COMENZAR | to start
+yo	comienzo	nosotros	comenzamos
+tú	comienzas	vosotros	comenzáis
+él	comienza	ellos	comienzan
+ella	comienza	ellas	comienzan
+usted	comienza	ustedes	comienzan
+COMPRENDER | to understand
+yo	comprendo	nosotros	comprendemos
+tú	comprendes	vosotros	comprendéis
+él	comprende	ellos	comprenden
+ella	comprende	ellas	comprenden
+usted	comprende	ustedes	comprenden
+CONDUCIR | to drive
+yo	conduzco	nosotros	conducimos
+tú	conduces	vosotros	conducís
+él	conduce	ellos	conducen
+ella	conduce	ellas	conducen
+usted	conduce	ustedes	conducen
+CONFESAR | to confess
+yo	confieso	nosotros	confesamos
+tú	confiesas	vosotros	confesáis
+él	confiesa	ellos	confiesan
+ella	confiesa	ellas	confiesan
+usted	confiesa	ustedes	confiesan
+CONOCER | to know (someone)
+yo	conozco	nosotros	conocemos
+tú	conoces	vosotros	conocéis
+él	conoce	ellos	conocen
+ella	conoce	ellas	conocen
+usted	conoce	ustedes	conocen
+CONSEGUIR | to get/to obtain
+yo	consigo	nosotros	conseguimos
+tú	consigues	vosotros	conseguís
+él	consigue	ellos	consiguen
+ella	consigue	ellas	consiguen
+usted	consigue	ustedes	consiguen
+CONTAR | to count/to tell
+yo	cuento	nosotros	contamos
+tú	cuentas	vosotros	contáis
+él	cuenta	ellos	cuentan
+ella	cuenta	ellas	cuentan
+usted	cuenta	ustedes	cuentan
+CONTENER | to contain
+yo	contengo	nosotros	contenemos
+tú	contienes	vosotros	contenéis
+él	contiene	ellos	contienen
+ella	contiene	ellas	contienen
+usted	contiene	ustedes	contienen
+COSTAR | to cost
+yo	cuesto	nosotros	costamos
+tú	cuestas	vosotros	costáis
+él	cuesta	ellos	cuestan
+ella	cuesta	ellas	cuestan
+usted	cuesta	ustedes	cuestan
+DAR | to give
+yo	doy	nosotros	damos
+tú	das	vosotros	dais
+él	da	ellos	dan
+ella	da	ellas	dan
+usted	da	ustedes	dan
+DECIR | to say
+yo	digo	nosotros	decimos
+tú	dices	vosotros	decís
+él	dice	ellos	dicen
+ella	dice	ellas	dicen
+usted	dice	ustedes	dicen
+DEFENDER | to defend
+yo	defiendo	nosotros	defendemos
+tú	defiendes	vosotros	defendéis
+él	defiende	ellos	defienden
+ella	defiende	ellas	defienden
+usted	defiende	ustedes	defienden
+DESAPARECER | to disappear
+yo	desaparezco	nosotros	desaparecemos
+tú	desapareces	vosotros	desaparecéis
+él	desaparece	ellos	desaparecen
+ella	desaparece	ellas	desaparecen
+usted	desaparece	ustedes	desaparecen
+DESPERTARSE | to wake up
+yo	me despierto	nosotros	nos despertamos
+tú	te despiertas	vosotros	os despertáis
+él	se despierta	ellos	se despiertan
+ella	se despierta	ellas	se despiertan
+usted	se despierta	ustedes	se despiertan
+DEVOLVER | to give back
+yo	devuelvo	nosotros	devolvemos
+tú	devuelves	vosotros	devolvéis
+él	devuelve	ellos	devuelven
+ella	devuelve	ellas	devuelven
+usted	devuelve	ustedes	devuelven
+DIRIGIR | to direct
+yo	dirijo	nosotros	dirigimos
+tú	diriges	vosotros	dirigís
+él	dirige	ellos	dirigen
+ella	dirige	ellas	dirigen
+usted	dirige	ustedes	dirigen
+DISTINGUIR | to distinguish
+yo	distingo	nosotros	distinguimos
+tú	distingues	vosotros	distinguís
+él	distingue	ellos	distinguen
+ella	distingue	ellas	distinguen
+usted	distingue	ustedes	distinguen
+DORMIR | to sleep
+yo	duermo	nosotros	dormimos
+tú	duermes	vosotros	dormís
+él	duerme	ellos	duermen
+ella	duerme	ellas	duermen
+usted	duerme	ustedes	duermen
+EMPEZAR | to start
+yo	empiezo	nosotros	empezamos
+tú	empiezas	vosotros	empezáis
+él	empieza	ellos	empiezan
+ella	empieza	ellas	empiezan
+usted	empieza	ustedes	empiezan
+ENCONTRAR | to encounter (meet)
+yo	encuentro	nosotros	encontramos
+tú	encuentras	vosotros	encontráis
+él	encuentra	ellos	encuentran
+ella	encuentra	ellas	encuentran
+usted	encuentra	ustedes	encuentran
+ENTENDER | to understand
+yo	entiendo	nosotros	entendemos
+tú	entiendes	vosotros	entendéis
+él	entiende	ellos	entienden
+ella	entiende	ellas	entienden
+usted	entiende	ustedes	entienden
+ESCOGER | to choose
+yo	escojo	nosotros	escogemos
+tú	escoges	vosotros	escogéis
+él	escoge	ellos	escogen
+ella	escoge	ellas	escogen
+usted	escoge	ustedes	escogen
+ESCRIBIR | to write
+yo	escribo	nosotros	escribimos
+tú	escribes	vosotros	escribís
+él	escribe	ellos	escriben
+ella	escribe	ellas	escriben
+usted	escribe	ustedes	escriben
+ESTABLECER | to establish
+yo	establezco	nosotros	establecemos
+tú	estableces	vosotros	establecéis
+él	establece	ellos	establecen
+ella	establece	ellas	establecen
+usted	establece	ustedes	establecen
+ESTAR | to be (location)
+yo	estoy	nosotros	estamos
+tú	estás	vosotros	estáis
+él	está	ellos	están
+ella	está	ellas	están
+usted	está	ustedes	están
+HABLAR | to talk
+yo	hablo	nosotros	hablamos
+tú	hablas	vosotros	habláis
+él	habla	ellos	hablan
+ella	habla	ellas	hablan
+usted	habla	ustedes	hablan
+HACER | to do/to make
+yo	hago	nosotros	hacemos
+tú	haces	vosotros	hacéis
+él	hace	ellos	hacen
+ella	hace	ellas	hacen
+usted	hace	ustedes	hacen
+IR | to go
+yo	voy	nosotros	vamos
+tú	vas	vosotros	vais
+él	va	ellos	van
+ella	va	ellas	van
+usted	va	ustedes	van
+LAVARSE | to wash oneself
+yo	me lavo	nosotros	nos lavamos
+tú	te lavas	vosotros	os laváis
+él	se lava	ellos	se lavan
+ella	se lava	ellas	se lavan
+usted	se lava	ustedes	se lavan
+LLAMARSE | to call oneself
+yo	me llamo	nosotros	nos llamamos
+tú	te llamas	vosotros	os llamáis
+él	se llama	ellos	se llaman
+ella	se llama	ellas	se llaman
+usted	se llama	ustedes	se llaman
+LLEVAR | to wear/to bring
+yo	llevo	nosotros	llevamos
+tú	llevas	vosotros	lleváis
+él	lleva	ellos	llevan
+ella	lleva	ellas	llevan
+usted	lleva	ustedes	llevan
+MANTENER | to maintain
+yo	mantengo	nosotros	mantenemos
+tú	mantienes	vosotros	mantenéis
+él	mantiene	ellos	mantienen
+ella	mantiene	ellas	mantienen
+usted	mantiene	ustedes	mantienen
+MEDIR | to measure
+yo	mido	nosotros	medimos
+tú	mides	vosotros	medís
+él	mide	ellos	miden
+ella	mide	ellas	miden
+usted	mide	ustedes	miden
+MERECER | to deserve (merit)
+yo	merezco	nosotros	merecemos
+tú	mereces	vosotros	merecéis
+él	merece	ellos	merecen
+ella	merece	ellas	merecen
+usted	merece	ustedes	merecen
+MIRAR | to look
+yo	miro	nosotros	miramos
+tú	miras	vosotros	miráis
+él	mira	ellos	miran
+ella	mira	ellas	miran
+usted	mira	ustedes	miran
+MONTAR | to get on
+yo	monto	nosotros	montamos
+tú	montas	vosotros	montáis
+él	monta	ellos	montan
+ella	monta	ellas	montan
+usted	monta	ustedes	montan
+MORIR | to die
+yo	muero	nosotros	morimos
+tú	mueres	vosotros	morís
+él	muere	ellos	mueren
+ella	muere	ellas	mueren
+usted	muere	ustedes	mueren
+MOSTRAR | to show
+yo	muestro	nosotros	mostramos
+tú	muestras	vosotros	mostráis
+él	muestra	ellos	muestran
+ella	muestra	ellas	muestran
+usted	muestra	ustedes	muestran
+OBEDECER | to obey
+yo	obedezco	nosotros	obedecemos
+tú	obedeces	vosotros	obedecéis
+él	obedece	ellos	obedecen
+ella	obedece	ellas	obedecen
+usted	obedece	ustedes	obedecen
+OFRECER | to offer
+yo	ofrezco	nosotros	ofrecemos
+tú	ofreces	vosotros	ofrecéis
+él	ofrece	ellos	ofrecen
+ella	ofrece	ellas	ofrecen
+usted	ofrece	ustedes	ofrecen
+OÍR | to hear
+yo	oigo	nosotros	oímos
+tú	oyes	vosotros	oís
+él	oye	ellos	oyen
+ella	oye	ellas	oyen
+usted	oye	ustedes	oyen
+PEDIR | to ask for
+yo	pido	nosotros	pedimos
+tú	pides	vosotros	pedís
+él	pide	ellos	piden
+ella	pide	ellas	piden
+usted	pide	ustedes	piden
+PEINARSE | to comb one's hair
+yo	me peino	nosotros	nos peinamos
+tú	te peinas	vosotros	os peináis
+él	se peina	ellos	se peinan
+ella	se peina	ellas	se peinan
+usted	se peina	ustedes	se peinan
+PENSAR | to think
+yo	pienso	nosotros	pensamos
+tú	piensas	vosotros	pensáis
+él	piensa	ellos	piensan
+ella	piensa	ellas	piensan
+usted	piensa	ustedes	piensan
+PERDER | to lose
+yo	pierdo	nosotros	perdemos
+tú	pierdes	vosotros	perdéis
+él	pierde	ellos	pierden
+ella	pierde	ellas	pierden
+usted	pierde	ustedes	pierden
+PODER | to be able to
+yo	puedo	nosotros	podemos
+tú	puedes	vosotros	podéis
+él	puede	ellos	pueden
+ella	puede	ellas	pueden
+usted	puede	ustedes	pueden
+PONER | to put
+yo	pongo	nosotros	ponemos
+tú	pones	vosotros	ponéis
+él	pone	ellos	ponen
+ella	pone	ellas	ponen
+usted	pone	ustedes	ponen
+PONERSE | to put on/to become (emotion)
+yo	me pongo	nosotros	nos ponemos
+tú	te pones	vosotros	os ponéis
+él	se pone	ellos	se ponen
+ella	se pone	ellas	se ponen
+usted	se pone	ustedes	se ponen
+PREFERIR | to prefer
+yo	prefiero	nosotros	preferimos
+tú	prefieres	vosotros	preferís
+él	prefiere	ellos	prefieren
+ella	prefiere	ellas	prefieren
+usted	prefiere	ustedes	prefieren
+PREOCUPARSE | to be worried
+yo	me preocupo	nosotros	nos preocupamos
+tú	te preocupas	vosotros	os preocupáis
+él	se preocupa	ellos	se preocupan
+ella	se preocupa	ellas	se preocupan
+usted	se preocupa	ustedes	se preocupan
+PREVENIR | to prevent
+yo	prevengo	nosotros	prevenimos
+tú	previenes	vosotros	prevenís
+él	previene	ellos	previenen
+ella	previene	ellas	previenen
+usted	previene	ustedes	previenen
+PRODUCIR | to produce
+yo	produzco	nosotros	producimos
+tú	produces	vosotros	producís
+él	produce	ellos	producen
+ella	produce	ellas	producen
+usted	produce	ustedes	producen
+QUEDARSE | to remain
+yo	me quedo	nosotros	nos quedamos
+tú	te quedas	vosotros	os quedáis
+él	se queda	ellos	se quedan
+ella	se queda	ellas	se quedan
+usted	se queda	ustedes	se quedan
+QUERER | to want/to love
+yo	quiero	nosotros	queremos
+tú	quieres	vosotros	queréis
+él	quiere	ellos	quieren
+ella	quiere	ellas	quieren
+usted	quiere	ustedes	quieren
+QUITARSE | to take off
+yo	me quito	nosotros	nos quitamos
+tú	te quitas	vosotros	os quitáis
+él	se quita	ellos	se quitan
+ella	se quita	ellas	se quitan
+usted	se quita	ustedes	se quitan
+RECORDAR | to remember/to remind
+yo	recuerdo	nosotros	recordamos
+tú	recuerdas	vosotros	recordáis
+él	recuerda	ellos	recuerdan
+ella	recuerda	ellas	recuerdan
+usted	recuerda	ustedes	recuerdan
+REFERIR | to refer
+yo	refiero	nosotros	referimos
+tú	refieres	vosotros	referís
+él	refiere	ellos	refieren
+ella	refiere	ellas	refieren
+usted	refiere	ustedes	refieren
+REPETIR | to repeat
+yo	repito	nosotros	repetimos
+tú	repites	vosotros	repetís
+él	repite	ellos	repiten
+ella	repite	ellas	repiten
+usted	repite	ustedes	repiten
+RESOLVER | to resolve
+yo	resuelvo	nosotros	resolvemos
+tú	resuelves	vosotros	resolvéis
+él	resuelve	ellos	resuelven
+ella	resuelve	ellas	resuelven
+usted	resuelve	ustedes	resuelven
+SABER | to know (how to)
+yo	sé	nosotros	sabemos
+tú	sabes	vosotros	sabéis
+él	sabe	ellos	saben
+ella	sabe	ellas	saben
+usted	sabe	ustedes	saben
+SALIR | to depart
+yo	salgo	nosotros	salimos
+tú	sales	vosotros	salís
+él	sale	ellos	salen
+ella	sale	ellas	salen
+usted	sale	ustedes	salen
+SECARSE | to dry oneself
+yo	me seco	nosotros	nos secamos
+tú	te secas	vosotros	os secáis
+él	se seca	ellos	se secan
+ella	se seca	ellas	se secan
+usted	se seca	ustedes	se secan
+SEGUIR | to follow
+yo	sigo	nosotros	seguimos
+tú	sigues	vosotros	seguís
+él	sigue	ellos	siguen
+ella	sigue	ellas	siguen
+usted	sigue	ustedes	siguen
+SENTARSE | to sit down
+yo	me siento	nosotros	nos sentamos
+tú	te sientas	vosotros	os sentáis
+él	se sienta	ellos	se sientan
+ella	se sienta	ellas	se sientan
+usted	se sienta	ustedes	se sientan
+SENTIR | to feel ( to feel sorry)
+yo	siento	nosotros	sentimos
+tú	sientes	vosotros	sentís
+él	siente	ellos	sienten
+ella	siente	ellas	sienten
+usted	siente	ustedes	sienten
+SENTIRSE | to feel (well/ ill)
+yo	me siento	nosotros	nos sentimos
+tú	te sientes	vosotros	os sentís
+él	se siente	ellos	se sienten
+ella	se siente	ellas	se sienten
+usted	se siente	ustedes	se sienten
+SER | to be (permanent)
+yo	soy	nosotros	somos
+tú	eres	vosotros	sois
+él	es	ellos	son
+ella	es	ellas	son
+usted	es	ustedes	son
+SERVIR | to serve
+yo	sirvo	nosotros	servimos
+tú	sirves	vosotros	servís
+él	sirve	ellos	sirven
+ella	sirve	ellas	sirven
+usted	sirve	ustedes	sirven
+SOÑAR | to dream
+yo	sueño	nosotros	soñamos
+tú	sueñas	vosotros	soñáis
+él	sueña	ellos	sueñan
+ella	sueña	ellas	sueñan
+usted	sueña	ustedes	sueñan
+TENER | to have
+yo	tengo	nosotros	tenemos
+tú	tienes	vosotros	tenéis
+él	tiene	ellos	tienen
+ella	tiene	ellas	tienen
+usted	tiene	ustedes	tienen
+TRAER | to bring
+yo	traigo	nosotros	traemos
+tú	traes	vosotros	traéis
+él	trae	ellos	traen
+ella	trae	ellas	traen
+usted	trae	ustedes	traen
+VENIR | to come
+yo	vengo	nosotros	venimos
+tú	vienes	vosotros	venís
+él	viene	ellos	vienen
+ella	viene	ellas	vienen
+usted	viene	ustedes	vienen
+VER | to see
+yo	veo	nosotros	vemos
+tú	ves	vosotros	veis
+él	ve	ellos	ven
+ella	ve	ellas	ven
+usted	ve	ustedes	ven
+VESTIRSE | to get dressed
+yo	me visto	nosotros	nos vestimos
+tú	te vistes	vosotros	os vestís
+él	se viste	ellos	se visten
+ella	se viste	ellas	se visten
+usted	se viste	ustedes	se visten
+VIVIR | to live
+yo	vivo	nosotros	vivimos
+tú	vives	vosotros	vivís
+él	vive	ellos	viven
+ella	vive	ellas	viven
+usted	vive	ustedes	viven
+VOLAR | to fly
+yo	vuelo	nosotros	volamos
+tú	vuelas	vosotros	voláis
+él	vuela	ellos	vuelan
+ella	vuela	ellas	vuelan
+usted	vuela	ustedes	vuelan
+VOLVER | to go back/to do again
+yo	vuelvo	nosotros	volvemos
+tú	vuelves	vosotros	volvéis
+él	vuelve	ellos	vuelven
+ella	vuelve	ellas	vuelven
+usted	vuelve	ustedes	vuelven

@@ -1,0 +1,246 @@
+ABRIR | to open
+yo	había abierto	nosotros	habíamos abierto
+tú	habías abierto	vosotros	habíais abierto
+él	había abierto	ellos	habían abierto
+ella	había abierto	ellas	habían abierto
+usted	había abierto	ustedes	habían abierto
+AGUANTAR | to endure/to hold
+yo	había aguantado	nosotros	habíamos aguantado
+tú	habías aguantado	vosotros	habíais aguantado
+él	había aguantado	ellos	habían aguantado
+ella	había aguantado	ellas	habían aguantado
+usted	había aguantado	ustedes	habían aguantado
+APRENDER | to learn
+yo	había aprendido	nosotros	habíamos aprendido
+tú	habías aprendido	vosotros	habíais aprendido
+él	había aprendido	ellos	habían aprendido
+ella	había aprendido	ellas	habían aprendido
+usted	había aprendido	ustedes	habían aprendido
+ASISTIR | to attend
+yo	había asistido	nosotros	habíamos asistido
+tú	habías asistido	vosotros	habíais asistido
+él	había asistido	ellos	habían asistido
+ella	había asistido	ellas	habían asistido
+usted	había asistido	ustedes	habían asistido
+BEBER | to drink
+yo	había bebido	nosotros	habíamos bebido
+tú	habías bebido	vosotros	habíais bebido
+él	había bebido	ellos	habían bebido
+ella	había bebido	ellas	habían bebido
+usted	había bebido	ustedes	habían bebido
+BORRAR | to erase
+yo	había borrado	nosotros	habíamos borrado
+tú	habías borrado	vosotros	habíais borrado
+él	había borrado	ellos	habían borrado
+ella	había borrado	ellas	habían borrado
+usted	había borrado	ustedes	habían borrado
+CANTAR | to sing
+yo	había cantado	nosotros	habíamos cantado
+tú	habías cantado	vosotros	habíais cantado
+él	había cantado	ellos	habían cantado
+ella	había cantado	ellas	habían cantado
+usted	había cantado	ustedes	habían cantado
+COMER | to eat
+yo	había comido	nosotros	habíamos comido
+tú	habías comido	vosotros	habíais comido
+él	había comido	ellos	habían comido
+ella	había comido	ellas	habían comido
+usted	había comido	ustedes	habían comido
+COMPRENDER | to understand
+yo	había comprendido	nosotros	habíamos comprendido
+tú	habías comprendido	vosotros	habíais comprendido
+él	había comprendido	ellos	habían comprendido
+ella	había comprendido	ellas	habían comprendido
+usted	había comprendido	ustedes	habían comprendido
+DAR | to give
+yo	había dado	nosotros	habíamos dado
+tú	habías dado	vosotros	habíais dado
+él	había dado	ellos	habían dado
+ella	había dado	ellas	habían dado
+usted	había dado	ustedes	habían dado
+DECIR | to say
+yo	había dicho	nosotros	habíamos dicho
+tú	habías dicho	vosotros	habíais dicho
+él	había dicho	ellos	habían dicho
+ella	había dicho	ellas	habían dicho
+usted	había dicho	ustedes	habían dicho
+DESPERTARSE | to wake up
+yo	me había despertado	nosotros	nos habíamos despertado
+tú	te habías despertado	vosotros	os habíais despertado
+él	se había despertado	ellos	se habían despertado
+ella	se había despertado	ellas	se habían despertado
+usted	se había despertado	ustedes	se habían despertado
+ESCRIBIR | to write
+yo	había escrito	nosotros	habíamos escrito
+tú	habías escrito	vosotros	habíais escrito
+él	había escrito	ellos	habían escrito
+ella	había escrito	ellas	habían escrito
+usted	había escrito	ustedes	habían escrito
+ESCUCHAR | to listen (to)
+yo	había escuchado	nosotros	habíamos escuchado
+tú	habías escuchado	vosotros	habíais escuchado
+él	había escuchado	ellos	habían escuchado
+ella	había escuchado	ellas	habían escuchado
+usted	había escuchado	ustedes	habían escuchado
+ESTAR | to be (location)
+yo	había estado	nosotros	habíamos estado
+tú	habías estado	vosotros	habíais estado
+él	había estado	ellos	habían estado
+ella	había estado	ellas	habían estado
+usted	había estado	ustedes	habían estado
+ESTUDIAR | to study
+yo	había estudiado	nosotros	habíamos estudiado
+tú	habías estudiado	vosotros	habíais estudiado
+él	había estudiado	ellos	habían estudiado
+ella	había estudiado	ellas	habían estudiado
+usted	había estudiado	ustedes	habían estudiado
+HABLAR | to talk
+yo	había hablado	nosotros	habíamos hablado
+tú	habías hablado	vosotros	habíais hablado
+él	había hablado	ellos	habían hablado
+ella	había hablado	ellas	habían hablado
+usted	había hablado	ustedes	habían hablado
+HACER | to do/to make
+yo	había hecho	nosotros	habíamos hecho
+tú	habías hecho	vosotros	habíais hecho
+él	había hecho	ellos	habían hecho
+ella	había hecho	ellas	habían hecho
+usted	había hecho	ustedes	habían hecho
+IR | to go
+yo	había ido	nosotros	habíamos ido
+tú	habías ido	vosotros	habíais ido
+él	había ido	ellos	habían ido
+ella	había ido	ellas	habían ido
+usted	había ido	ustedes	habían ido
+LAVAR | to wash
+yo	había lavado	nosotros	habíamos lavado
+tú	habías lavado	vosotros	habíais lavado
+él	había lavado	ellos	habían lavado
+ella	había lavado	ellas	habían lavado
+usted	había lavado	ustedes	habían lavado
+LEER | to read
+yo	había leído	nosotros	habíamos leído
+tú	habías leído	vosotros	habíais leído
+él	había leído	ellos	habían leído
+ella	había leído	ellas	habían leído
+usted	había leído	ustedes	habían leído
+LEVANTARSE | to get up
+yo	me había levantado	nosotros	nos habíamos levantado
+tú	te habías levantado	vosotros	os habíais levantado
+él	se había levantado	ellos	se habían levantado
+ella	se había levantado	ellas	se habían levantado
+usted	se había levantado	ustedes	se habían levantado
+LIMPIAR | to clean
+yo	había limpiado	nosotros	habíamos limpiado
+tú	habías limpiado	vosotros	habíais limpiado
+él	había limpiado	ellos	habían limpiado
+ella	había limpiado	ellas	habían limpiado
+usted	había limpiado	ustedes	habían limpiado
+LLEVAR | to wear/to bring
+yo	había llevado	nosotros	habíamos llevado
+tú	habías llevado	vosotros	habíais llevado
+él	había llevado	ellos	habían llevado
+ella	había llevado	ellas	habían llevado
+usted	había llevado	ustedes	habían llevado
+MIRAR | to look
+yo	había mirado	nosotros	habíamos mirado
+tú	habías mirado	vosotros	habíais mirado
+él	había mirado	ellos	habían mirado
+ella	había mirado	ellas	habían mirado
+usted	había mirado	ustedes	habían mirado
+MONTAR | to get on
+yo	había montado	nosotros	habíamos montado
+tú	habías montado	vosotros	habíais montado
+él	había montado	ellos	habían montado
+ella	había montado	ellas	habían montado
+usted	había montado	ustedes	habían montado
+MORIR | to die
+yo	había muerto	nosotros	habíamos muerto
+tú	habías muerto	vosotros	habíais muerto
+él	había muerto	ellos	habían muerto
+ella	había muerto	ellas	habían muerto
+usted	había muerto	ustedes	habían muerto
+OÍR | to hear
+yo	había oído	nosotros	habíamos oído
+tú	habías oído	vosotros	habíais oído
+él	había oído	ellos	habían oído
+ella	había oído	ellas	habían oído
+usted	había oído	ustedes	habían oído
+PONER | to put
+yo	había puesto	nosotros	habíamos puesto
+tú	habías puesto	vosotros	habíais puesto
+él	había puesto	ellos	habían puesto
+ella	había puesto	ellas	habían puesto
+usted	había puesto	ustedes	habían puesto
+QUERER | to want/to love
+yo	había querido	nosotros	habíamos querido
+tú	habías querido	vosotros	habíais querido
+él	había querido	ellos	habían querido
+ella	había querido	ellas	habían querido
+usted	había querido	ustedes	habían querido
+QUITARSE | to take off
+yo	me había quitado	nosotros	nos habíamos quitado
+tú	te habías quitado	vosotros	os habíais quitado
+él	se había quitado	ellos	se habían quitado
+ella	se había quitado	ellas	se habían quitado
+usted	se había quitado	ustedes	se habían quitado
+ROMPER | to break
+yo	había roto	nosotros	habíamos roto
+tú	habías roto	vosotros	habíais roto
+él	había roto	ellos	habían roto
+ella	había roto	ellas	habían roto
+usted	había roto	ustedes	habían roto
+SACAR | to take out
+yo	había sacado	nosotros	habíamos sacado
+tú	habías sacado	vosotros	habíais sacado
+él	había sacado	ellos	habían sacado
+ella	había sacado	ellas	habían sacado
+usted	había sacado	ustedes	habían sacado
+SALIR | to depart
+yo	había salido	nosotros	habíamos salido
+tú	habías salido	vosotros	habíais salido
+él	había salido	ellos	habían salido
+ella	había salido	ellas	habían salido
+usted	había salido	ustedes	habían salido
+SER | to be (permanent)
+yo	había sido	nosotros	habíamos sido
+tú	habías sido	vosotros	habíais sido
+él	había sido	ellos	habían sido
+ella	había sido	ellas	habían sido
+usted	había sido	ustedes	habían sido
+TOMAR | to take/to drink
+yo	había tomado	nosotros	habíamos tomado
+tú	habías tomado	vosotros	habíais tomado
+él	había tomado	ellos	habían tomado
+ella	había tomado	ellas	habían tomado
+usted	había tomado	ustedes	habían tomado
+VENIR | to come
+yo	había venido	nosotros	habíamos venido
+tú	habías venido	vosotros	habíais venido
+él	había venido	ellos	habían venido
+ella	había venido	ellas	habían venido
+usted	había venido	ustedes	habían venido
+VER | to see
+yo	había visto	nosotros	habíamos visto
+tú	habías visto	vosotros	habíais visto
+él	había visto	ellos	habían visto
+ella	había visto	ellas	habían visto
+usted	había visto	ustedes	habían visto
+VESTIRSE | to get dressed
+yo	me había vestido	nosotros	nos habíamos vestido
+tú	te habías vestido	vosotros	os habíais vestido
+él	se había vestido	ellos	se habían vestido
+ella	se había vestido	ellas	se habían vestido
+usted	se había vestido	ustedes	se habían vestido
+VIVIR | to live
+yo	había vivido	nosotros	habíamos vivido
+tú	habías vivido	vosotros	habíais vivido
+él	había vivido	ellos	habían vivido
+ella	había vivido	ellas	habían vivido
+usted	había vivido	ustedes	habían vivido
+VOLVER | to go back/to do again
+yo	había vuelto	nosotros	habíamos vuelto
+tú	habías vuelto	vosotros	habíais vuelto
+él	había vuelto	ellos	habían vuelto
+ella	había vuelto	ellas	habían vuelto
+usted	había vuelto	ustedes	habían vuelto

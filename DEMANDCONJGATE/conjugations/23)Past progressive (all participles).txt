@@ -1,0 +1,180 @@
+APRENDER | to learn
+yo	estaba aprendiendo	nosotros	estábamos aprendiendo
+tú	estabas aprendiendo	vosotros	estabais aprendiendo
+él	estaba aprendiendo	ellos	estaban aprendiendo
+ella	estaba aprendiendo	ellas	estaban aprendiendo
+usted	estaba aprendiendo	ustedes	estaban aprendiendo
+ASISTIR | to attend
+yo	estaba asistiendo	nosotros	estábamos asistiendo
+tú	estabas asistiendo	vosotros	estabais asistiendo
+él	estaba asistiendo	ellos	estaban asistiendo
+ella	estaba asistiendo	ellas	estaban asistiendo
+usted	estaba asistiendo	ustedes	estaban asistiendo
+BORRAR | to erase
+yo	estaba borrando	nosotros	estábamos borrando
+tú	estabas borrando	vosotros	estabais borrando
+él	estaba borrando	ellos	estaban borrando
+ella	estaba borrando	ellas	estaban borrando
+usted	estaba borrando	ustedes	estaban borrando
+CANTAR | to sing
+yo	estaba cantando	nosotros	estábamos cantando
+tú	estabas cantando	vosotros	estabais cantando
+él	estaba cantando	ellos	estaban cantando
+ella	estaba cantando	ellas	estaban cantando
+usted	estaba cantando	ustedes	estaban cantando
+COMER | to eat
+yo	estaba comiendo	nosotros	estábamos comiendo
+tú	estabas comiendo	vosotros	estabais comiendo
+él	estaba comiendo	ellos	estaban comiendo
+ella	estaba comiendo	ellas	estaban comiendo
+usted	estaba comiendo	ustedes	estaban comiendo
+COMPRENDER | to understand
+yo	estaba comprendiendo	nosotros	estábamos comprendiendo
+tú	estabas comprendiendo	vosotros	estabais comprendiendo
+él	estaba comprendiendo	ellos	estaban comprendiendo
+ella	estaba comprendiendo	ellas	estaban comprendiendo
+usted	estaba comprendiendo	ustedes	estaban comprendiendo
+CREER | to believe
+yo	estaba creyendo	nosotros	estábamos creyendo
+tú	estabas creyendo	vosotros	estabais creyendo
+él	estaba creyendo	ellos	estaban creyendo
+ella	estaba creyendo	ellas	estaban creyendo
+usted	estaba creyendo	ustedes	estaban creyendo
+DAR | to give
+yo	estaba dando	nosotros	estábamos dando
+tú	estabas dando	vosotros	estabais dando
+él	estaba dando	ellos	estaban dando
+ella	estaba dando	ellas	estaban dando
+usted	estaba dando	ustedes	estaban dando
+DESPERTARSE | to wake up
+yo	me estaba despertando	nosotros	nos estábamos despertando
+tú	te estabas despertando	vosotros	os estabais despertando
+él	se estaba despertando	ellos	se estaban despertando
+ella	se estaba despertando	ellas	se estaban despertando
+usted	se estaba despertando	ustedes	se estaban despertando
+DORMIR | to sleep
+yo	estaba durmiendo	nosotros	estábamos durmiendo
+tú	estabas durmiendo	vosotros	estabais durmiendo
+él	estaba durmiendo	ellos	estaban durmiendo
+ella	estaba durmiendo	ellas	estaban durmiendo
+usted	estaba durmiendo	ustedes	estaban durmiendo
+ESCUCHAR | to listen (to)
+yo	estaba escuchando	nosotros	estábamos escuchando
+tú	estabas escuchando	vosotros	estabais escuchando
+él	estaba escuchando	ellos	estaban escuchando
+ella	estaba escuchando	ellas	estaban escuchando
+usted	estaba escuchando	ustedes	estaban escuchando
+ESTAR | to be (location)
+yo	estaba estando	nosotros	estábamos estando
+tú	estabas estando	vosotros	estabais estando
+él	estaba estando	ellos	estaban estando
+ella	estaba estando	ellas	estaban estando
+usted	estaba estando	ustedes	estaban estando
+ESTUDIAR | to study
+yo	estaba estudiando	nosotros	estábamos estudiando
+tú	estabas estudiando	vosotros	estabais estudiando
+él	estaba estudiando	ellos	estaban estudiando
+ella	estaba estudiando	ellas	estaban estudiando
+usted	estaba estudiando	ustedes	estaban estudiando
+HABLAR | to talk
+yo	estaba hablando	nosotros	estábamos hablando
+tú	estabas hablando	vosotros	estabais hablando
+él	estaba hablando	ellos	estaban hablando
+ella	estaba hablando	ellas	estaban hablando
+usted	estaba hablando	ustedes	estaban hablando
+IR | to go
+yo	estaba yendo	nosotros	estábamos yendo
+tú	estabas yendo	vosotros	estabais yendo
+él	estaba yendo	ellos	estaban yendo
+ella	estaba yendo	ellas	estaban yendo
+usted	estaba yendo	ustedes	estaban yendo
+LEER | to read
+yo	estaba leyendo	nosotros	estábamos leyendo
+tú	estabas leyendo	vosotros	estabais leyendo
+él	estaba leyendo	ellos	estaban leyendo
+ella	estaba leyendo	ellas	estaban leyendo
+usted	estaba leyendo	ustedes	estaban leyendo
+LEVANTARSE | to get up
+yo	me estaba levantando	nosotros	nos estábamos levantando
+tú	te estabas levantando	vosotros	os estabais levantando
+él	se estaba levantando	ellos	se estaban levantando
+ella	se estaba levantando	ellas	se estaban levantando
+usted	se estaba levantando	ustedes	se estaban levantando
+MIRAR | to look
+yo	estaba mirando	nosotros	estábamos mirando
+tú	estabas mirando	vosotros	estabais mirando
+él	estaba mirando	ellos	estaban mirando
+ella	estaba mirando	ellas	estaban mirando
+usted	estaba mirando	ustedes	estaban mirando
+MONTAR | to get on
+yo	estaba montando	nosotros	estábamos montando
+tú	estabas montando	vosotros	estabais montando
+él	estaba montando	ellos	estaban montando
+ella	estaba montando	ellas	estaban montando
+usted	estaba montando	ustedes	estaban montando
+PEDIR | to ask for
+yo	estaba pidiendo	nosotros	estábamos pidiendo
+tú	estabas pidiendo	vosotros	estabais pidiendo
+él	estaba pidiendo	ellos	estaban pidiendo
+ella	estaba pidiendo	ellas	estaban pidiendo
+usted	estaba pidiendo	ustedes	estaban pidiendo
+QUERER | to want/to love
+yo	estaba queriendo	nosotros	estábamos queriendo
+tú	estabas queriendo	vosotros	estabais queriendo
+él	estaba queriendo	ellos	estaban queriendo
+ella	estaba queriendo	ellas	estaban queriendo
+usted	estaba queriendo	ustedes	estaban queriendo
+QUITARSE | to take off
+yo	me estaba quitando	nosotros	nos estábamos quitando
+tú	te estabas quitando	vosotros	os estabais quitando
+él	se estaba quitando	ellos	se estaban quitando
+ella	se estaba quitando	ellas	se estaban quitando
+usted	se estaba quitando	ustedes	se estaban quitando
+SALIR | to depart
+yo	estaba saliendo	nosotros	estábamos saliendo
+tú	estabas saliendo	vosotros	estabais saliendo
+él	estaba saliendo	ellos	estaban saliendo
+ella	estaba saliendo	ellas	estaban saliendo
+usted	estaba saliendo	ustedes	estaban saliendo
+SENTIR | to feel ( to feel sorry)
+yo	estaba sintiendo	nosotros	estábamos sintiendo
+tú	estabas sintiendo	vosotros	estabais sintiendo
+él	estaba sintiendo	ellos	estaban sintiendo
+ella	estaba sintiendo	ellas	estaban sintiendo
+usted	estaba sintiendo	ustedes	estaban sintiendo
+SER | to be (permanent)
+yo	estaba siendo	nosotros	estábamos siendo
+tú	estabas siendo	vosotros	estabais siendo
+él	estaba siendo	ellos	estaban siendo
+ella	estaba siendo	ellas	estaban siendo
+usted	estaba siendo	ustedes	estaban siendo
+TOMAR | to take/to drink
+yo	estaba tomando	nosotros	estábamos tomando
+tú	estabas tomando	vosotros	estabais tomando
+él	estaba tomando	ellos	estaban tomando
+ella	estaba tomando	ellas	estaban tomando
+usted	estaba tomando	ustedes	estaban tomando
+TRAER | to bring
+yo	estaba trayendo	nosotros	estábamos trayendo
+tú	estabas trayendo	vosotros	estabais trayendo
+él	estaba trayendo	ellos	estaban trayendo
+ella	estaba trayendo	ellas	estaban trayendo
+usted	estaba trayendo	ustedes	estaban trayendo
+VENIR | to come
+yo	estaba viniendo	nosotros	estábamos viniendo
+tú	estabas viniendo	vosotros	estabais viniendo
+él	estaba viniendo	ellos	estaban viniendo
+ella	estaba viniendo	ellas	estaban viniendo
+usted	estaba viniendo	ustedes	estaban viniendo
+VESTIRSE | to get dressed
+yo	me estaba vistiendo	nosotros	nos estábamos vistiendo
+tú	te estabas vistiendo	vosotros	os estabais vistiendo
+él	se estaba vistiendo	ellos	se estaban vistiendo
+ella	se estaba vistiendo	ellas	se estaban vistiendo
+usted	se estaba vistiendo	ustedes	se estaban vistiendo
+VIVIR | to live
+yo	estaba viviendo	nosotros	estábamos viviendo
+tú	estabas viviendo	vosotros	estabais viviendo
+él	estaba viviendo	ellos	estaban viviendo
+ella	estaba viviendo	ellas	estaban viviendo
+usted	estaba viviendo	ustedes	estaban viviendo

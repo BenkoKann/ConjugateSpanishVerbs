@@ -1,0 +1,174 @@
+APRENDER | to learn
+yo	he aprendido	nosotros	hemos aprendido
+tú	has aprendido	vosotros	habéis aprendido
+él	ha aprendido	ellos	han aprendido
+ella	ha aprendido	ellas	han aprendido
+usted	ha aprendido	ustedes	han aprendido
+ASISTIR | to attend
+yo	he asistido	nosotros	hemos asistido
+tú	has asistido	vosotros	habéis asistido
+él	ha asistido	ellos	han asistido
+ella	ha asistido	ellas	han asistido
+usted	ha asistido	ustedes	han asistido
+BEBER | to drink
+yo	he bebido	nosotros	hemos bebido
+tú	has bebido	vosotros	habéis bebido
+él	ha bebido	ellos	han bebido
+ella	ha bebido	ellas	han bebido
+usted	ha bebido	ustedes	han bebido
+BORRAR | to erase
+yo	he borrado	nosotros	hemos borrado
+tú	has borrado	vosotros	habéis borrado
+él	ha borrado	ellos	han borrado
+ella	ha borrado	ellas	han borrado
+usted	ha borrado	ustedes	han borrado
+CANTAR | to sing
+yo	he cantado	nosotros	hemos cantado
+tú	has cantado	vosotros	habéis cantado
+él	ha cantado	ellos	han cantado
+ella	ha cantado	ellas	han cantado
+usted	ha cantado	ustedes	han cantado
+COMER | to eat
+yo	he comido	nosotros	hemos comido
+tú	has comido	vosotros	habéis comido
+él	ha comido	ellos	han comido
+ella	ha comido	ellas	han comido
+usted	ha comido	ustedes	han comido
+COMPRENDER | to understand
+yo	he comprendido	nosotros	hemos comprendido
+tú	has comprendido	vosotros	habéis comprendido
+él	ha comprendido	ellos	han comprendido
+ella	ha comprendido	ellas	han comprendido
+usted	ha comprendido	ustedes	han comprendido
+DAR | to give
+yo	he dado	nosotros	hemos dado
+tú	has dado	vosotros	habéis dado
+él	ha dado	ellos	han dado
+ella	ha dado	ellas	han dado
+usted	ha dado	ustedes	han dado
+DESPERTARSE | to wake up
+yo	me he despertado	nosotros	nos hemos despertado
+tú	te has despertado	vosotros	os habéis despertado
+él	se ha despertado	ellos	se han despertado
+ella	se ha despertado	ellas	se han despertado
+usted	se ha despertado	ustedes	se han despertado
+ESCUCHAR | to listen (to)
+yo	he escuchado	nosotros	hemos escuchado
+tú	has escuchado	vosotros	habéis escuchado
+él	ha escuchado	ellos	han escuchado
+ella	ha escuchado	ellas	han escuchado
+usted	ha escuchado	ustedes	han escuchado
+ESTAR | to be (location)
+yo	he estado	nosotros	hemos estado
+tú	has estado	vosotros	habéis estado
+él	ha estado	ellos	han estado
+ella	ha estado	ellas	han estado
+usted	ha estado	ustedes	han estado
+ESTUDIAR | to study
+yo	he estudiado	nosotros	hemos estudiado
+tú	has estudiado	vosotros	habéis estudiado
+él	ha estudiado	ellos	han estudiado
+ella	ha estudiado	ellas	han estudiado
+usted	ha estudiado	ustedes	han estudiado
+HABLAR | to talk
+yo	he hablado	nosotros	hemos hablado
+tú	has hablado	vosotros	habéis hablado
+él	ha hablado	ellos	han hablado
+ella	ha hablado	ellas	han hablado
+usted	ha hablado	ustedes	han hablado
+IR | to go
+yo	he ido	nosotros	hemos ido
+tú	has ido	vosotros	habéis ido
+él	ha ido	ellos	han ido
+ella	ha ido	ellas	han ido
+usted	ha ido	ustedes	han ido
+LAVAR | to wash
+yo	he lavado	nosotros	hemos lavado
+tú	has lavado	vosotros	habéis lavado
+él	ha lavado	ellos	han lavado
+ella	ha lavado	ellas	han lavado
+usted	ha lavado	ustedes	han lavado
+LEVANTARSE | to get up
+yo	me he levantado	nosotros	nos hemos levantado
+tú	te has levantado	vosotros	os habéis levantado
+él	se ha levantado	ellos	se han levantado
+ella	se ha levantado	ellas	se han levantado
+usted	se ha levantado	ustedes	se han levantado
+LIMPIAR | to clean
+yo	he limpiado	nosotros	hemos limpiado
+tú	has limpiado	vosotros	habéis limpiado
+él	ha limpiado	ellos	han limpiado
+ella	ha limpiado	ellas	han limpiado
+usted	ha limpiado	ustedes	han limpiado
+LLEVAR | to wear/to bring
+yo	he llevado	nosotros	hemos llevado
+tú	has llevado	vosotros	habéis llevado
+él	ha llevado	ellos	han llevado
+ella	ha llevado	ellas	han llevado
+usted	ha llevado	ustedes	han llevado
+MIRAR | to look
+yo	he mirado	nosotros	hemos mirado
+tú	has mirado	vosotros	habéis mirado
+él	ha mirado	ellos	han mirado
+ella	ha mirado	ellas	han mirado
+usted	ha mirado	ustedes	han mirado
+MONTAR | to get on
+yo	he montado	nosotros	hemos montado
+tú	has montado	vosotros	habéis montado
+él	ha montado	ellos	han montado
+ella	ha montado	ellas	han montado
+usted	ha montado	ustedes	han montado
+QUERER | to want/to love
+yo	he querido	nosotros	hemos querido
+tú	has querido	vosotros	habéis querido
+él	ha querido	ellos	han querido
+ella	ha querido	ellas	han querido
+usted	ha querido	ustedes	han querido
+QUITARSE | to take off
+yo	me he quitado	nosotros	nos hemos quitado
+tú	te has quitado	vosotros	os habéis quitado
+él	se ha quitado	ellos	se han quitado
+ella	se ha quitado	ellas	se han quitado
+usted	se ha quitado	ustedes	se han quitado
+SACAR | to take out
+yo	he sacado	nosotros	hemos sacado
+tú	has sacado	vosotros	habéis sacado
+él	ha sacado	ellos	han sacado
+ella	ha sacado	ellas	han sacado
+usted	ha sacado	ustedes	han sacado
+SALIR | to depart
+yo	he salido	nosotros	hemos salido
+tú	has salido	vosotros	habéis salido
+él	ha salido	ellos	han salido
+ella	ha salido	ellas	han salido
+usted	ha salido	ustedes	han salido
+SER | to be (permanent)
+yo	he sido	nosotros	hemos sido
+tú	has sido	vosotros	habéis sido
+él	ha sido	ellos	han sido
+ella	ha sido	ellas	han sido
+usted	ha sido	ustedes	han sido
+TOMAR | to take/to drink
+yo	he tomado	nosotros	hemos tomado
+tú	has tomado	vosotros	habéis tomado
+él	ha tomado	ellos	han tomado
+ella	ha tomado	ellas	han tomado
+usted	ha tomado	ustedes	han tomado
+VENIR | to come
+yo	he venido	nosotros	hemos venido
+tú	has venido	vosotros	habéis venido
+él	ha venido	ellos	han venido
+ella	ha venido	ellas	han venido
+usted	ha venido	ustedes	han venido
+VESTIRSE | to get dressed
+yo	me he vestido	nosotros	nos hemos vestido
+tú	te has vestido	vosotros	os habéis vestido
+él	se ha vestido	ellos	se han vestido
+ella	se ha vestido	ellas	se han vestido
+usted	se ha vestido	ustedes	se han vestido
+VIVIR | to live
+yo	he vivido	nosotros	hemos vivido
+tú	has vivido	vosotros	habéis vivido
+él	ha vivido	ellos	han vivido
+ella	ha vivido	ellas	han vivido
+usted	ha vivido	ustedes	han vivido

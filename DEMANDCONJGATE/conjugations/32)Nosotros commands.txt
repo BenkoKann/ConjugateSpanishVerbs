@@ -1,0 +1,80 @@
+ABRIR | to open
+nosotros	abramos/no abramos
+ACOSTARSE | to go to bed (lie down)
+nosotros	acostémonos/no nos acostemos
+ALMORZAR | to have lunch
+nosotros	almorcemos/no almorcemos
+BEBER | to drink
+nosotros	bebamos/no bebamos
+CALLARSE | to be silent
+nosotros	callémonos/no nos callemos
+CEPILLARSE | to brush oneself
+nosotros	cepillémonos/no nos cepillemos
+CERRAR | to close
+nosotros	cerremos/no cerremos
+COMER | to eat
+nosotros	comamos/no comamos
+DECIR | to say
+nosotros	digamos/no digamos
+DESPERTARSE | to wake up
+nosotros	despertémonos/no nos despertemos
+DUCHARSE | to take a shower
+nosotros	duchémonos/no nos duchemos
+ENTRAR | to enter
+nosotros	entremos/no entremos
+ESCOGER | to choose
+nosotros	escojamos/no escojamos
+ESCRIBIR | to write
+nosotros	escribamos/no escribamos
+FREGAR | to wash dishes
+nosotros	freguemos/no freguemos
+HABLAR | to talk
+nosotros	hablemos/no hablemos
+HACER | to do/to make
+nosotros	hagamos/no hagamos
+IR | to go
+nosotros	vamos/no vayamos
+IRSE | to leave
+nosotros	vámonos/no nos vayamos
+JUGAR | to play
+nosotros	juguemos/no juguemos
+LEVANTARSE | to get up
+nosotros	levantémonos/no nos levantemos
+LIMPIAR | to clean
+nosotros	limpiemos/no limpiemos
+MAQUILLARSE | to put on make-up
+nosotros	maquillémonos/no nos maquillemos
+MIRAR | to look
+nosotros	miremos/no miremos
+PEINARSE | to comb one's hair
+nosotros	peinémonos/no nos peinemos
+PENSAR | to think
+nosotros	pensemos/no pensemos
+PONERSE | to put on/to become (emotion)
+nosotros	pongámonos/no nos pongamos
+QUITARSE | to take off
+nosotros	quitémonos/no nos quitemos
+SACAR | to take out
+nosotros	saquemos/no saquemos
+SALIR | to depart
+nosotros	salgamos/no salgamos
+SECARSE | to dry oneself
+nosotros	sequémonos/no nos sequemos
+SENTARSE | to sit down
+nosotros	sentémonos/no nos sentemos
+SER | to be (permanent)
+nosotros	seamos/no seamos
+SUBIR | to go up/to rise
+nosotros	subamos/no subamos
+TENER | to have
+nosotros	tengamos/no tengamos
+TOMAR | to take/to drink
+nosotros	tomemos/no tomemos
+VENIR | to come
+nosotros	vengamos/no vengamos
+VER | to see
+nosotros	veamos/no veamos
+VESTIRSE | to get dressed
+nosotros	vistámonos/no nos vistamos
+VIVIR | to live
+nosotros	vivamos/no vivamos

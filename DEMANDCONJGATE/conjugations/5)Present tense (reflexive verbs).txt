@@ -1,0 +1,156 @@
+ACOSTARSE | to go to bed (lie down)
+yo	me acuesto	nosotros	nos acostamos
+tú	te acuestas	vosotros	os acostáis
+él	se acuesta	ellos	se acuestan
+ella	se acuesta	ellas	se acuestan
+usted	se acuesta	ustedes	se acuestan
+AFEITARSE | to shave oneself
+yo	me afeito	nosotros	nos afeitamos
+tú	te afeitas	vosotros	os afeitáis
+él	se afeita	ellos	se afeitan
+ella	se afeita	ellas	se afeitan
+usted	se afeita	ustedes	se afeitan
+ARREPENTIRSE | to regret
+yo	me arrepiento	nosotros	nos arrepentimos
+tú	te arrepientes	vosotros	os arrepentís
+él	se arrepiente	ellos	se arrepienten
+ella	se arrepiente	ellas	se arrepienten
+usted	se arrepiente	ustedes	se arrepienten
+ASOMBRARSE | to get surprised
+yo	me asombro	nosotros	nos asombramos
+tú	te asombras	vosotros	os asombráis
+él	se asombra	ellos	se asombran
+ella	se asombra	ellas	se asombran
+usted	se asombra	ustedes	se asombran
+CALMARSE | to calm oneself
+yo	me calmo	nosotros	nos calmamos
+tú	te calmas	vosotros	os calmáis
+él	se calma	ellos	se calman
+ella	se calma	ellas	se calman
+usted	se calma	ustedes	se calman
+CEPILLARSE | to brush oneself
+yo	me cepillo	nosotros	nos cepillamos
+tú	te cepillas	vosotros	os cepilláis
+él	se cepilla	ellos	se cepillan
+ella	se cepilla	ellas	se cepillan
+usted	se cepilla	ustedes	se cepillan
+DESPERTARSE | to wake up
+yo	me despierto	nosotros	nos despertamos
+tú	te despiertas	vosotros	os despertáis
+él	se despierta	ellos	se despiertan
+ella	se despierta	ellas	se despiertan
+usted	se despierta	ustedes	se despiertan
+DIVERTIRSE | to have a good time
+yo	me divierto	nosotros	nos divertimos
+tú	te diviertes	vosotros	os divertís
+él	se divierte	ellos	se divierten
+ella	se divierte	ellas	se divierten
+usted	se divierte	ustedes	se divierten
+DORMIRSE | to fall asleep
+yo	me duermo	nosotros	nos dormimos
+tú	te duermes	vosotros	os dormís
+él	se duerme	ellos	se duermen
+ella	se duerme	ellas	se duermen
+usted	se duerme	ustedes	se duermen
+DUCHARSE | to take a shower
+yo	me ducho	nosotros	nos duchamos
+tú	te duchas	vosotros	os ducháis
+él	se ducha	ellos	se duchan
+ella	se ducha	ellas	se duchan
+usted	se ducha	ustedes	se duchan
+ENFADARSE | to become angry
+yo	me enfado	nosotros	nos enfadamos
+tú	te enfadas	vosotros	os enfadáis
+él	se enfada	ellos	se enfadan
+ella	se enfada	ellas	se enfadan
+usted	se enfada	ustedes	se enfadan
+LAVARSE | to wash oneself
+yo	me lavo	nosotros	nos lavamos
+tú	te lavas	vosotros	os laváis
+él	se lava	ellos	se lavan
+ella	se lava	ellas	se lavan
+usted	se lava	ustedes	se lavan
+LEVANTARSE | to get up
+yo	me levanto	nosotros	nos levantamos
+tú	te levantas	vosotros	os levantáis
+él	se levanta	ellos	se levantan
+ella	se levanta	ellas	se levantan
+usted	se levanta	ustedes	se levantan
+LLAMARSE | to call oneself
+yo	me llamo	nosotros	nos llamamos
+tú	te llamas	vosotros	os llamáis
+él	se llama	ellos	se llaman
+ella	se llama	ellas	se llaman
+usted	se llama	ustedes	se llaman
+MAQUILLARSE | to put on make-up
+yo	me maquillo	nosotros	nos maquillamos
+tú	te maquillas	vosotros	os maquilláis
+él	se maquilla	ellos	se maquillan
+ella	se maquilla	ellas	se maquillan
+usted	se maquilla	ustedes	se maquillan
+MERECERSE | to deserve
+yo	me merezco	nosotros	nos merecemos
+tú	te mereces	vosotros	os merecéis
+él	se merece	ellos	se merecen
+ella	se merece	ellas	se merecen
+usted	se merece	ustedes	se merecen
+PARARSE | to stop (oneself)
+yo	me paro	nosotros	nos paramos
+tú	te paras	vosotros	os paráis
+él	se para	ellos	se paran
+ella	se para	ellas	se paran
+usted	se para	ustedes	se paran
+PEINARSE | to comb one's hair
+yo	me peino	nosotros	nos peinamos
+tú	te peinas	vosotros	os peináis
+él	se peina	ellos	se peinan
+ella	se peina	ellas	se peinan
+usted	se peina	ustedes	se peinan
+PONERSE | to put on/to become (emotion)
+yo	me pongo	nosotros	nos ponemos
+tú	te pones	vosotros	os ponéis
+él	se pone	ellos	se ponen
+ella	se pone	ellas	se ponen
+usted	se pone	ustedes	se ponen
+PREOCUPARSE | to be worried
+yo	me preocupo	nosotros	nos preocupamos
+tú	te preocupas	vosotros	os preocupáis
+él	se preocupa	ellos	se preocupan
+ella	se preocupa	ellas	se preocupan
+usted	se preocupa	ustedes	se preocupan
+QUEDARSE | to remain
+yo	me quedo	nosotros	nos quedamos
+tú	te quedas	vosotros	os quedáis
+él	se queda	ellos	se quedan
+ella	se queda	ellas	se quedan
+usted	se queda	ustedes	se quedan
+QUITARSE | to take off
+yo	me quito	nosotros	nos quitamos
+tú	te quitas	vosotros	os quitáis
+él	se quita	ellos	se quitan
+ella	se quita	ellas	se quitan
+usted	se quita	ustedes	se quitan
+SECARSE | to dry oneself
+yo	me seco	nosotros	nos secamos
+tú	te secas	vosotros	os secáis
+él	se seca	ellos	se secan
+ella	se seca	ellas	se secan
+usted	se seca	ustedes	se secan
+SENTARSE | to sit down
+yo	me siento	nosotros	nos sentamos
+tú	te sientas	vosotros	os sentáis
+él	se sienta	ellos	se sientan
+ella	se sienta	ellas	se sientan
+usted	se sienta	ustedes	se sientan
+SENTIRSE | to feel (well/ ill)
+yo	me siento	nosotros	nos sentimos
+tú	te sientes	vosotros	os sentís
+él	se siente	ellos	se sienten
+ella	se siente	ellas	se sienten
+usted	se siente	ustedes	se sienten
+VESTIRSE | to get dressed
+yo	me visto	nosotros	nos vestimos
+tú	te vistes	vosotros	os vestís
+él	se viste	ellos	se visten
+ella	se viste	ellas	se visten
+usted	se viste	ustedes	se visten

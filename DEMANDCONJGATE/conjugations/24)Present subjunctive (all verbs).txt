@@ -1,0 +1,192 @@
+ALMORZAR | to have lunch
+yo	almuerce	nosotros	almorcemos
+tú	almuerces	vosotros	almorcéis
+él	almuerce	ellos	almuercen
+ella	almuerce	ellas	almuercen
+usted	almuerce	ustedes	almuercen
+BORRAR | to erase
+yo	borre	nosotros	borremos
+tú	borres	vosotros	borréis
+él	borre	ellos	borren
+ella	borre	ellas	borren
+usted	borre	ustedes	borren
+COMER | to eat
+yo	coma	nosotros	comamos
+tú	comas	vosotros	comáis
+él	coma	ellos	coman
+ella	coma	ellas	coman
+usted	coma	ustedes	coman
+CONOCER | to know (someone)
+yo	conozca	nosotros	conozcamos
+tú	conozcas	vosotros	conozcáis
+él	conozca	ellos	conozcan
+ella	conozca	ellas	conozcan
+usted	conozca	ustedes	conozcan
+DAR | to give
+yo	dé	nosotros	demos
+tú	des	vosotros	deis
+él	dé	ellos	den
+ella	dé	ellas	den
+usted	dé	ustedes	den
+DECIR | to say
+yo	diga	nosotros	digamos
+tú	digas	vosotros	digáis
+él	diga	ellos	digan
+ella	diga	ellas	digan
+usted	diga	ustedes	digan
+DIVERTIRSE | to have a good time
+yo	me divierta	nosotros	nos divirtamos
+tú	te diviertas	vosotros	os divirtáis
+él	se divierta	ellos	se diviertan
+ella	se divierta	ellas	se diviertan
+usted	se divierta	ustedes	se diviertan
+DORMIR | to sleep
+yo	duerma	nosotros	durmamos
+tú	duermas	vosotros	durmáis
+él	duerma	ellos	duerman
+ella	duerma	ellas	duerman
+usted	duerma	ustedes	duerman
+ESCRIBIR | to write
+yo	escriba	nosotros	escribamos
+tú	escribas	vosotros	escribáis
+él	escriba	ellos	escriban
+ella	escriba	ellas	escriban
+usted	escriba	ustedes	escriban
+ESTAR | to be (location)
+yo	esté	nosotros	estemos
+tú	estés	vosotros	estéis
+él	esté	ellos	estén
+ella	esté	ellas	estén
+usted	esté	ustedes	estén
+HABLAR | to talk
+yo	hable	nosotros	hablemos
+tú	hables	vosotros	habléis
+él	hable	ellos	hablen
+ella	hable	ellas	hablen
+usted	hable	ustedes	hablen
+HACER | to do/to make
+yo	haga	nosotros	hagamos
+tú	hagas	vosotros	hagáis
+él	haga	ellos	hagan
+ella	haga	ellas	hagan
+usted	haga	ustedes	hagan
+IR | to go
+yo	vaya	nosotros	vayamos
+tú	vayas	vosotros	vayáis
+él	vaya	ellos	vayan
+ella	vaya	ellas	vayan
+usted	vaya	ustedes	vayan
+JUGAR | to play
+yo	juegue	nosotros	juguemos
+tú	juegues	vosotros	juguéis
+él	juegue	ellos	jueguen
+ella	juegue	ellas	jueguen
+usted	juegue	ustedes	jueguen
+LEVANTARSE | to get up
+yo	me levante	nosotros	nos levantemos
+tú	te levantes	vosotros	os levantéis
+él	se levante	ellos	se levanten
+ella	se levante	ellas	se levanten
+usted	se levante	ustedes	se levanten
+MERECER | to deserve (merit)
+yo	merezca	nosotros	merezcamos
+tú	merezcas	vosotros	merezcáis
+él	merezca	ellos	merezcan
+ella	merezca	ellas	merezcan
+usted	merezca	ustedes	merezcan
+OÍR | to hear
+yo	oiga	nosotros	oigamos
+tú	oigas	vosotros	oigáis
+él	oiga	ellos	oigan
+ella	oiga	ellas	oigan
+usted	oiga	ustedes	oigan
+PENSAR | to think
+yo	piense	nosotros	pensemos
+tú	pienses	vosotros	penséis
+él	piense	ellos	piensen
+ella	piense	ellas	piensen
+usted	piense	ustedes	piensen
+PODER | to be able to
+yo	pueda	nosotros	podamos
+tú	puedas	vosotros	podáis
+él	pueda	ellos	puedan
+ella	pueda	ellas	puedan
+usted	pueda	ustedes	puedan
+PONER | to put
+yo	ponga	nosotros	pongamos
+tú	pongas	vosotros	pongáis
+él	ponga	ellos	pongan
+ella	ponga	ellas	pongan
+usted	ponga	ustedes	pongan
+QUERER | to want/to love
+yo	quiera	nosotros	queramos
+tú	quieras	vosotros	queráis
+él	quiera	ellos	quieran
+ella	quiera	ellas	quieran
+usted	quiera	ustedes	quieran
+SABER | to know (how to)
+yo	sepa	nosotros	sepamos
+tú	sepas	vosotros	sepáis
+él	sepa	ellos	sepan
+ella	sepa	ellas	sepan
+usted	sepa	ustedes	sepan
+SALIR | to depart
+yo	salga	nosotros	salgamos
+tú	salgas	vosotros	salgáis
+él	salga	ellos	salgan
+ella	salga	ellas	salgan
+usted	salga	ustedes	salgan
+SENTIRSE | to feel (well/ ill)
+yo	me sienta	nosotros	nos sintamos
+tú	te sientas	vosotros	os sintáis
+él	se sienta	ellos	se sientan
+ella	se sienta	ellas	se sientan
+usted	se sienta	ustedes	se sientan
+SER | to be (permanent)
+yo	sea	nosotros	seamos
+tú	seas	vosotros	seáis
+él	sea	ellos	sean
+ella	sea	ellas	sean
+usted	sea	ustedes	sean
+TENER | to have
+yo	tenga	nosotros	tengamos
+tú	tengas	vosotros	tengáis
+él	tenga	ellos	tengan
+ella	tenga	ellas	tengan
+usted	tenga	ustedes	tengan
+TOCAR | to touch/to play an instrument
+yo	toque	nosotros	toquemos
+tú	toques	vosotros	toquéis
+él	toque	ellos	toquen
+ella	toque	ellas	toquen
+usted	toque	ustedes	toquen
+TOMAR | to take/to drink
+yo	tome	nosotros	tomemos
+tú	tomes	vosotros	toméis
+él	tome	ellos	tomen
+ella	tome	ellas	tomen
+usted	tome	ustedes	tomen
+TRAER | to bring
+yo	traiga	nosotros	traigamos
+tú	traigas	vosotros	traigáis
+él	traiga	ellos	traigan
+ella	traiga	ellas	traigan
+usted	traiga	ustedes	traigan
+VISITAR | to visit
+yo	visite	nosotros	visitemos
+tú	visites	vosotros	visitéis
+él	visite	ellos	visiten
+ella	visite	ellas	visiten
+usted	visite	ustedes	visiten
+VIVIR | to live
+yo	viva	nosotros	vivamos
+tú	vivas	vosotros	viváis
+él	viva	ellos	vivan
+ella	viva	ellas	vivan
+usted	viva	ustedes	vivan
+VOLVER | to go back/to do again
+yo	vuelva	nosotros	volvamos
+tú	vuelvas	vosotros	volváis
+él	vuelva	ellos	vuelvan
+ella	vuelva	ellas	vuelvan
+usted	vuelva	ustedes	vuelvan

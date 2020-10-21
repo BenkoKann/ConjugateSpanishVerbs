@@ -1,0 +1,666 @@
+ABRIR | to open
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	abro	abres	abre	abre	abre	abrimos	abrís	abren	abren	abren
+preterite	abrí	abriste	abrió	abrió	abrió	abrimos	abristeis	abrieron	abrieron	abrieron
+imperfect	abría	abrías	abría	abría	abría	abríamos	abríais	abrían	abrían	abrían
+future	abriré	abrirás	abrirá	abrirá	abrirá	abriremos	abriréis	abrirán	abrirán	abrirán
+conditional	abriría	abrirías	abriría	abriría	abriría	abriríamos	abriríais	abrirían	abrirían	abrirían
+present perfect	he abierto	has abierto	ha abierto	ha abierto	ha abierto	hemos abierto	habéis abierto	han abierto	han abierto	han abierto
+future perfect	habré abierto	habrás abierto	habrá abierto	habrá abierto	habrá abierto	habremos abierto	habréis abierto	habrán abierto	habrán abierto	habrán abierto
+present progressive	estoy abriendo	estás abriendo	está abriendo	está abriendo	está abriendo	estamos abriendo	estáis abriendo	están abriendo	están abriendo	están abriendo
+past progressive	estaba abriendo	estabas abriendo	estaba abriendo	estaba abriendo	estaba abriendo	estábamos abriendo	estabais abriendo	estaban abriendo	estaban abriendo	estaban abriendo
+present subjunctive	abra	abras	abra	abra	abra	abramos	abráis	abran	abran	abran
+imperfect subjunctive (-ra)	abriera	abrieras	abriera	abriera	abriera	abriéramos	abrierais	abrieran	abrieran	abrieran
+imperfect subjunctive (-se)	abriese	abrieses	abriese	abriese	abriese	abriésemos	abrieseis	abriesen	abriesen	abriesen
+present perfect subjunctive	haya abierto	hayas abierto	haya abierto	haya abierto	haya abierto	hayamos abierto	hayáis abierto	hayan abierto	hayan abierto	hayan abierto
+past perfect subjunctive (-ra)	hubiera abierto	hubieras abierto	hubiera abierto	hubiera abierto	hubiera abierto	hubiéramos abierto	hubierais abierto	hubieran abierto	hubieran abierto	hubieran abierto
+past perfect subjunctive (-se)	hubiese abierto	hubieses abierto	hubiese abierto	hubiese abierto	hubiese abierto	hubiésemos abierto	hubieseis abierto	hubiesen abierto	hubiesen abierto	hubiesen abierto
+pluperfect	había abierto	habías abierto	había abierto	había abierto	había abierto	habíamos abierto	habíais abierto	habían abierto	habían abierto	habían abierto
+AYUDAR | to help
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	ayudo	ayudas	ayuda	ayuda	ayuda	ayudamos	ayudáis	ayudan	ayudan	ayudan
+preterite	ayudé	ayudaste	ayudó	ayudó	ayudó	ayudamos	ayudasteis	ayudaron	ayudaron	ayudaron
+imperfect	ayudaba	ayudabas	ayudaba	ayudaba	ayudaba	ayudábamos	ayudabais	ayudaban	ayudaban	ayudaban
+future	ayudaré	ayudarás	ayudará	ayudará	ayudará	ayudaremos	ayudaréis	ayudarán	ayudarán	ayudarán
+conditional	ayudaría	ayudarías	ayudaría	ayudaría	ayudaría	ayudaríamos	ayudaríais	ayudarían	ayudarían	ayudarían
+present perfect	he ayudado	has ayudado	ha ayudado	ha ayudado	ha ayudado	hemos ayudado	habéis ayudado	han ayudado	han ayudado	han ayudado
+future perfect	habré ayudado	habrás ayudado	habrá ayudado	habrá ayudado	habrá ayudado	habremos ayudado	habréis ayudado	habrán ayudado	habrán ayudado	habrán ayudado
+present progressive	estoy ayudando	estás ayudando	está ayudando	está ayudando	está ayudando	estamos ayudando	estáis ayudando	están ayudando	están ayudando	están ayudando
+past progressive	estaba ayudando	estabas ayudando	estaba ayudando	estaba ayudando	estaba ayudando	estábamos ayudando	estabais ayudando	estaban ayudando	estaban ayudando	estaban ayudando
+present subjunctive	ayude	ayudes	ayude	ayude	ayude	ayudemos	ayudéis	ayuden	ayuden	ayuden
+imperfect subjunctive (-ra)	ayudara	ayudaras	ayudara	ayudara	ayudara	ayudáramos	ayudarais	ayudaran	ayudaran	ayudaran
+imperfect subjunctive (-se)	ayudase	ayudases	ayudase	ayudase	ayudase	ayudásemos	ayudaseis	ayudasen	ayudasen	ayudasen
+present perfect subjunctive	haya ayudado	hayas ayudado	haya ayudado	haya ayudado	haya ayudado	hayamos ayudado	hayáis ayudado	hayan ayudado	hayan ayudado	hayan ayudado
+past perfect subjunctive (-ra)	hubiera ayudado	hubieras ayudado	hubiera ayudado	hubiera ayudado	hubiera ayudado	hubiéramos ayudado	hubierais ayudado	hubieran ayudado	hubieran ayudado	hubieran ayudado
+past perfect subjunctive (-se)	hubiese ayudado	hubieses ayudado	hubiese ayudado	hubiese ayudado	hubiese ayudado	hubiésemos ayudado	hubieseis ayudado	hubiesen ayudado	hubiesen ayudado	hubiesen ayudado
+pluperfect	había ayudado	habías ayudado	había ayudado	había ayudado	había ayudado	habíamos ayudado	habíais ayudado	habían ayudado	habían ayudado	habían ayudado
+BEBER | to drink
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	bebo	bebes	bebe	bebe	bebe	bebemos	bebéis	beben	beben	beben
+preterite	bebí	bebiste	bebió	bebió	bebió	bebimos	bebisteis	bebieron	bebieron	bebieron
+imperfect	bebía	bebías	bebía	bebía	bebía	bebíamos	bebíais	bebían	bebían	bebían
+future	beberé	beberás	beberá	beberá	beberá	beberemos	beberéis	beberán	beberán	beberán
+conditional	bebería	beberías	bebería	bebería	bebería	beberíamos	beberíais	beberían	beberían	beberían
+present perfect	he bebido	has bebido	ha bebido	ha bebido	ha bebido	hemos bebido	habéis bebido	han bebido	han bebido	han bebido
+future perfect	habré bebido	habrás bebido	habrá bebido	habrá bebido	habrá bebido	habremos bebido	habréis bebido	habrán bebido	habrán bebido	habrán bebido
+present progressive	estoy bebiendo	estás bebiendo	está bebiendo	está bebiendo	está bebiendo	estamos bebiendo	estáis bebiendo	están bebiendo	están bebiendo	están bebiendo
+past progressive	estaba bebiendo	estabas bebiendo	estaba bebiendo	estaba bebiendo	estaba bebiendo	estábamos bebiendo	estabais bebiendo	estaban bebiendo	estaban bebiendo	estaban bebiendo
+present subjunctive	beba	bebas	beba	beba	beba	bebamos	bebáis	beban	beban	beban
+imperfect subjunctive (-ra)	bebiera	bebieras	bebiera	bebiera	bebiera	bebiéramos	bebierais	bebieran	bebieran	bebieran
+imperfect subjunctive (-se)	bebiese	bebieses	bebiese	bebiese	bebiese	bebiésemos	bebieseis	bebiesen	bebiesen	bebiesen
+present perfect subjunctive	haya bebido	hayas bebido	haya bebido	haya bebido	haya bebido	hayamos bebido	hayáis bebido	hayan bebido	hayan bebido	hayan bebido
+past perfect subjunctive (-ra)	hubiera bebido	hubieras bebido	hubiera bebido	hubiera bebido	hubiera bebido	hubiéramos bebido	hubierais bebido	hubieran bebido	hubieran bebido	hubieran bebido
+past perfect subjunctive (-se)	hubiese bebido	hubieses bebido	hubiese bebido	hubiese bebido	hubiese bebido	hubiésemos bebido	hubieseis bebido	hubiesen bebido	hubiesen bebido	hubiesen bebido
+pluperfect	había bebido	habías bebido	había bebido	había bebido	había bebido	habíamos bebido	habíais bebido	habían bebido	habían bebido	habían bebido
+BUSCAR | to look for
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	busco	buscas	busca	busca	busca	buscamos	buscáis	buscan	buscan	buscan
+preterite	busqué	buscaste	buscó	buscó	buscó	buscamos	buscasteis	buscaron	buscaron	buscaron
+imperfect	buscaba	buscabas	buscaba	buscaba	buscaba	buscábamos	buscabais	buscaban	buscaban	buscaban
+future	buscaré	buscarás	buscará	buscará	buscará	buscaremos	buscaréis	buscarán	buscarán	buscarán
+conditional	buscaría	buscarías	buscaría	buscaría	buscaría	buscaríamos	buscaríais	buscarían	buscarían	buscarían
+present perfect	he buscado	has buscado	ha buscado	ha buscado	ha buscado	hemos buscado	habéis buscado	han buscado	han buscado	han buscado
+future perfect	habré buscado	habrás buscado	habrá buscado	habrá buscado	habrá buscado	habremos buscado	habréis buscado	habrán buscado	habrán buscado	habrán buscado
+present progressive	estoy buscando	estás buscando	está buscando	está buscando	está buscando	estamos buscando	estáis buscando	están buscando	están buscando	están buscando
+past progressive	estaba buscando	estabas buscando	estaba buscando	estaba buscando	estaba buscando	estábamos buscando	estabais buscando	estaban buscando	estaban buscando	estaban buscando
+present subjunctive	busque	busques	busque	busque	busque	busquemos	busquéis	busquen	busquen	busquen
+imperfect subjunctive (-ra)	buscara	buscaras	buscara	buscara	buscara	buscáramos	buscarais	buscaran	buscaran	buscaran
+imperfect subjunctive (-se)	buscase	buscases	buscase	buscase	buscase	buscásemos	buscaseis	buscasen	buscasen	buscasen
+present perfect subjunctive	haya buscado	hayas buscado	haya buscado	haya buscado	haya buscado	hayamos buscado	hayáis buscado	hayan buscado	hayan buscado	hayan buscado
+past perfect subjunctive (-ra)	hubiera buscado	hubieras buscado	hubiera buscado	hubiera buscado	hubiera buscado	hubiéramos buscado	hubierais buscado	hubieran buscado	hubieran buscado	hubieran buscado
+past perfect subjunctive (-se)	hubiese buscado	hubieses buscado	hubiese buscado	hubiese buscado	hubiese buscado	hubiésemos buscado	hubieseis buscado	hubiesen buscado	hubiesen buscado	hubiesen buscado
+pluperfect	había buscado	habías buscado	había buscado	había buscado	había buscado	habíamos buscado	habíais buscado	habían buscado	habían buscado	habían buscado
+COMENZAR | to start
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	comienzo	comienzas	comienza	comienza	comienza	comenzamos	comenzáis	comienzan	comienzan	comienzan
+preterite	comencé	comenzaste	comenzó	comenzó	comenzó	comenzamos	comenzasteis	comenzaron	comenzaron	comenzaron
+imperfect	comenzaba	comenzabas	comenzaba	comenzaba	comenzaba	comenzábamos	comenzabais	comenzaban	comenzaban	comenzaban
+future	comenzaré	comenzarás	comenzará	comenzará	comenzará	comenzaremos	comenzaréis	comenzarán	comenzarán	comenzarán
+conditional	comenzaría	comenzarías	comenzaría	comenzaría	comenzaría	comenzaríamos	comenzaríais	comenzarían	comenzarían	comenzarían
+present perfect	he comenzado	has comenzado	ha comenzado	ha comenzado	ha comenzado	hemos comenzado	habéis comenzado	han comenzado	han comenzado	han comenzado
+future perfect	habré comenzado	habrás comenzado	habrá comenzado	habrá comenzado	habrá comenzado	habremos comenzado	habréis comenzado	habrán comenzado	habrán comenzado	habrán comenzado
+present progressive	estoy comenzando	estás comenzando	está comenzando	está comenzando	está comenzando	estamos comenzando	estáis comenzando	están comenzando	están comenzando	están comenzando
+past progressive	estaba comenzando	estabas comenzando	estaba comenzando	estaba comenzando	estaba comenzando	estábamos comenzando	estabais comenzando	estaban comenzando	estaban comenzando	estaban comenzando
+present subjunctive	comience	comiences	comience	comience	comience	comencemos	comencéis	comiencen	comiencen	comiencen
+imperfect subjunctive (-ra)	comenzara	comenzaras	comenzara	comenzara	comenzara	comenzáramos	comenzarais	comenzaran	comenzaran	comenzaran
+imperfect subjunctive (-se)	comenzase	comenzases	comenzase	comenzase	comenzase	comenzásemos	comenzaseis	comenzasen	comenzasen	comenzasen
+present perfect subjunctive	haya comenzado	hayas comenzado	haya comenzado	haya comenzado	haya comenzado	hayamos comenzado	hayáis comenzado	hayan comenzado	hayan comenzado	hayan comenzado
+past perfect subjunctive (-ra)	hubiera comenzado	hubieras comenzado	hubiera comenzado	hubiera comenzado	hubiera comenzado	hubiéramos comenzado	hubierais comenzado	hubieran comenzado	hubieran comenzado	hubieran comenzado
+past perfect subjunctive (-se)	hubiese comenzado	hubieses comenzado	hubiese comenzado	hubiese comenzado	hubiese comenzado	hubiésemos comenzado	hubieseis comenzado	hubiesen comenzado	hubiesen comenzado	hubiesen comenzado
+pluperfect	había comenzado	habías comenzado	había comenzado	había comenzado	había comenzado	habíamos comenzado	habíais comenzado	habían comenzado	habían comenzado	habían comenzado
+COMER | to eat
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	como	comes	come	come	come	comemos	coméis	comen	comen	comen
+preterite	comí	comiste	comió	comió	comió	comimos	comisteis	comieron	comieron	comieron
+imperfect	comía	comías	comía	comía	comía	comíamos	comíais	comían	comían	comían
+future	comeré	comerás	comerá	comerá	comerá	comeremos	comeréis	comerán	comerán	comerán
+conditional	comería	comerías	comería	comería	comería	comeríamos	comeríais	comerían	comerían	comerían
+present perfect	he comido	has comido	ha comido	ha comido	ha comido	hemos comido	habéis comido	han comido	han comido	han comido
+future perfect	habré comido	habrás comido	habrá comido	habrá comido	habrá comido	habremos comido	habréis comido	habrán comido	habrán comido	habrán comido
+present progressive	estoy comiendo	estás comiendo	está comiendo	está comiendo	está comiendo	estamos comiendo	estáis comiendo	están comiendo	están comiendo	están comiendo
+past progressive	estaba comiendo	estabas comiendo	estaba comiendo	estaba comiendo	estaba comiendo	estábamos comiendo	estabais comiendo	estaban comiendo	estaban comiendo	estaban comiendo
+present subjunctive	coma	comas	coma	coma	coma	comamos	comáis	coman	coman	coman
+imperfect subjunctive (-ra)	comiera	comieras	comiera	comiera	comiera	comiéramos	comierais	comieran	comieran	comieran
+imperfect subjunctive (-se)	comiese	comieses	comiese	comiese	comiese	comiésemos	comieseis	comiesen	comiesen	comiesen
+present perfect subjunctive	haya comido	hayas comido	haya comido	haya comido	haya comido	hayamos comido	hayáis comido	hayan comido	hayan comido	hayan comido
+past perfect subjunctive (-ra)	hubiera comido	hubieras comido	hubiera comido	hubiera comido	hubiera comido	hubiéramos comido	hubierais comido	hubieran comido	hubieran comido	hubieran comido
+past perfect subjunctive (-se)	hubiese comido	hubieses comido	hubiese comido	hubiese comido	hubiese comido	hubiésemos comido	hubieseis comido	hubiesen comido	hubiesen comido	hubiesen comido
+pluperfect	había comido	habías comido	había comido	había comido	había comido	habíamos comido	habíais comido	habían comido	habían comido	habían comido
+CONOCER | to know (someone)
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	conozco	conoces	conoce	conoce	conoce	conocemos	conocéis	conocen	conocen	conocen
+preterite	conocí	conociste	conoció	conoció	conoció	conocimos	conocisteis	conocieron	conocieron	conocieron
+imperfect	conocía	conocías	conocía	conocía	conocía	conocíamos	conocíais	conocían	conocían	conocían
+future	conoceré	conocerás	conocerá	conocerá	conocerá	conoceremos	conoceréis	conocerán	conocerán	conocerán
+conditional	conocería	conocerías	conocería	conocería	conocería	conoceríamos	conoceríais	conocerían	conocerían	conocerían
+present perfect	he conocido	has conocido	ha conocido	ha conocido	ha conocido	hemos conocido	habéis conocido	han conocido	han conocido	han conocido
+future perfect	habré conocido	habrás conocido	habrá conocido	habrá conocido	habrá conocido	habremos conocido	habréis conocido	habrán conocido	habrán conocido	habrán conocido
+present progressive	estoy conociendo	estás conociendo	está conociendo	está conociendo	está conociendo	estamos conociendo	estáis conociendo	están conociendo	están conociendo	están conociendo
+past progressive	estaba conociendo	estabas conociendo	estaba conociendo	estaba conociendo	estaba conociendo	estábamos conociendo	estabais conociendo	estaban conociendo	estaban conociendo	estaban conociendo
+present subjunctive	conozca	conozcas	conozca	conozca	conozca	conozcamos	conozcáis	conozcan	conozcan	conozcan
+imperfect subjunctive (-ra)	conociera	conocieras	conociera	conociera	conociera	conociéramos	conocierais	conocieran	conocieran	conocieran
+imperfect subjunctive (-se)	conociese	conocieses	conociese	conociese	conociese	conociésemos	conocieseis	conociesen	conociesen	conociesen
+present perfect subjunctive	haya conocido	hayas conocido	haya conocido	haya conocido	haya conocido	hayamos conocido	hayáis conocido	hayan conocido	hayan conocido	hayan conocido
+past perfect subjunctive (-ra)	hubiera conocido	hubieras conocido	hubiera conocido	hubiera conocido	hubiera conocido	hubiéramos conocido	hubierais conocido	hubieran conocido	hubieran conocido	hubieran conocido
+past perfect subjunctive (-se)	hubiese conocido	hubieses conocido	hubiese conocido	hubiese conocido	hubiese conocido	hubiésemos conocido	hubieseis conocido	hubiesen conocido	hubiesen conocido	hubiesen conocido
+pluperfect	había conocido	habías conocido	había conocido	había conocido	había conocido	habíamos conocido	habíais conocido	habían conocido	habían conocido	habían conocido
+DAR | to give
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	doy	das	da	da	da	damos	dais	dan	dan	dan
+preterite	di	diste	dio	dio	dio	dimos	disteis	dieron	dieron	dieron
+imperfect	daba	dabas	daba	daba	daba	dábamos	dabais	daban	daban	daban
+future	daré	darás	dará	dará	dará	daremos	daréis	darán	darán	darán
+conditional	daría	darías	daría	daría	daría	daríamos	daríais	darían	darían	darían
+present perfect	he dado	has dado	ha dado	ha dado	ha dado	hemos dado	habéis dado	han dado	han dado	han dado
+future perfect	habré dado	habrás dado	habrá dado	habrá dado	habrá dado	habremos dado	habréis dado	habrán dado	habrán dado	habrán dado
+present progressive	estoy dando	estás dando	está dando	está dando	está dando	estamos dando	estáis dando	están dando	están dando	están dando
+past progressive	estaba dando	estabas dando	estaba dando	estaba dando	estaba dando	estábamos dando	estabais dando	estaban dando	estaban dando	estaban dando
+present subjunctive	dé	des	dé	dé	dé	demos	deis	den	den	den
+imperfect subjunctive (-ra)	diera	dieras	diera	diera	diera	diéramos	dierais	dieran	dieran	dieran
+imperfect subjunctive (-se)	diese	dieses	diese	diese	diese	diésemos	dieseis	diesen	diesen	diesen
+present perfect subjunctive	haya dado	hayas dado	haya dado	haya dado	haya dado	hayamos dado	hayáis dado	hayan dado	hayan dado	hayan dado
+past perfect subjunctive (-ra)	hubiera dado	hubieras dado	hubiera dado	hubiera dado	hubiera dado	hubiéramos dado	hubierais dado	hubieran dado	hubieran dado	hubieran dado
+past perfect subjunctive (-se)	hubiese dado	hubieses dado	hubiese dado	hubiese dado	hubiese dado	hubiésemos dado	hubieseis dado	hubiesen dado	hubiesen dado	hubiesen dado
+pluperfect	había dado	habías dado	había dado	había dado	había dado	habíamos dado	habíais dado	habían dado	habían dado	habían dado
+DECIR | to say
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	digo	dices	dice	dice	dice	decimos	decís	dicen	dicen	dicen
+preterite	dije	dijiste	dijo	dijo	dijo	dijimos	dijisteis	dijeron	dijeron	dijeron
+imperfect	decía	decías	decía	decía	decía	decíamos	decíais	decían	decían	decían
+future	diré	dirás	dirá	dirá	dirá	diremos	diréis	dirán	dirán	dirán
+conditional	diría	dirías	diría	diría	diría	diríamos	diríais	dirían	dirían	dirían
+present perfect	he dicho	has dicho	ha dicho	ha dicho	ha dicho	hemos dicho	habéis dicho	han dicho	han dicho	han dicho
+future perfect	habré dicho	habrás dicho	habrá dicho	habrá dicho	habrá dicho	habremos dicho	habréis dicho	habrán dicho	habrán dicho	habrán dicho
+present progressive	estoy diciendo	estás diciendo	está diciendo	está diciendo	está diciendo	estamos diciendo	estáis diciendo	están diciendo	están diciendo	están diciendo
+past progressive	estaba diciendo	estabas diciendo	estaba diciendo	estaba diciendo	estaba diciendo	estábamos diciendo	estabais diciendo	estaban diciendo	estaban diciendo	estaban diciendo
+present subjunctive	diga	digas	diga	diga	diga	digamos	digáis	digan	digan	digan
+imperfect subjunctive (-ra)	dijera	dijeras	dijera	dijera	dijera	dijéramos	dijerais	dijeran	dijeran	dijeran
+imperfect subjunctive (-se)	dijese	dijeses	dijese	dijese	dijese	dijésemos	dijeseis	dijesen	dijesen	dijesen
+present perfect subjunctive	haya dicho	hayas dicho	haya dicho	haya dicho	haya dicho	hayamos dicho	hayáis dicho	hayan dicho	hayan dicho	hayan dicho
+past perfect subjunctive (-ra)	hubiera dicho	hubieras dicho	hubiera dicho	hubiera dicho	hubiera dicho	hubiéramos dicho	hubierais dicho	hubieran dicho	hubieran dicho	hubieran dicho
+past perfect subjunctive (-se)	hubiese dicho	hubieses dicho	hubiese dicho	hubiese dicho	hubiese dicho	hubiésemos dicho	hubieseis dicho	hubiesen dicho	hubiesen dicho	hubiesen dicho
+pluperfect	había dicho	habías dicho	había dicho	había dicho	había dicho	habíamos dicho	habíais dicho	habían dicho	habían dicho	habían dicho
+DORMIR | to sleep
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	duermo	duermes	duerme	duerme	duerme	dormimos	dormís	duermen	duermen	duermen
+preterite	dormí	dormiste	durmió	durmió	durmió	dormimos	dormisteis	durmieron	durmieron	durmieron
+imperfect	dormía	dormías	dormía	dormía	dormía	dormíamos	dormíais	dormían	dormían	dormían
+future	dormiré	dormirás	dormirá	dormirá	dormirá	dormiremos	dormiréis	dormirán	dormirán	dormirán
+conditional	dormiría	dormirías	dormiría	dormiría	dormiría	dormiríamos	dormiríais	dormirían	dormirían	dormirían
+present perfect	he dormido	has dormido	ha dormido	ha dormido	ha dormido	hemos dormido	habéis dormido	han dormido	han dormido	han dormido
+future perfect	habré dormido	habrás dormido	habrá dormido	habrá dormido	habrá dormido	habremos dormido	habréis dormido	habrán dormido	habrán dormido	habrán dormido
+present progressive	estoy durmiendo	estás durmiendo	está durmiendo	está durmiendo	está durmiendo	estamos durmiendo	estáis durmiendo	están durmiendo	están durmiendo	están durmiendo
+past progressive	estaba durmiendo	estabas durmiendo	estaba durmiendo	estaba durmiendo	estaba durmiendo	estábamos durmiendo	estabais durmiendo	estaban durmiendo	estaban durmiendo	estaban durmiendo
+present subjunctive	duerma	duermas	duerma	duerma	duerma	durmamos	durmáis	duerman	duerman	duerman
+imperfect subjunctive (-ra)	durmiera	durmieras	durmiera	durmiera	durmiera	durmiéramos	durmierais	durmieran	durmieran	durmieran
+imperfect subjunctive (-se)	durmiese	durmieses	durmiese	durmiese	durmiese	durmiésemos	durmieseis	durmiesen	durmiesen	durmiesen
+present perfect subjunctive	haya dormido	hayas dormido	haya dormido	haya dormido	haya dormido	hayamos dormido	hayáis dormido	hayan dormido	hayan dormido	hayan dormido
+past perfect subjunctive (-ra)	hubiera dormido	hubieras dormido	hubiera dormido	hubiera dormido	hubiera dormido	hubiéramos dormido	hubierais dormido	hubieran dormido	hubieran dormido	hubieran dormido
+past perfect subjunctive (-se)	hubiese dormido	hubieses dormido	hubiese dormido	hubiese dormido	hubiese dormido	hubiésemos dormido	hubieseis dormido	hubiesen dormido	hubiesen dormido	hubiesen dormido
+pluperfect	había dormido	habías dormido	había dormido	había dormido	había dormido	habíamos dormido	habíais dormido	habían dormido	habían dormido	habían dormido
+EMPEZAR | to start
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	empiezo	empiezas	empieza	empieza	empieza	empezamos	empezáis	empiezan	empiezan	empiezan
+preterite	empecé	empezaste	empezó	empezó	empezó	empezamos	empezasteis	empezaron	empezaron	empezaron
+imperfect	empezaba	empezabas	empezaba	empezaba	empezaba	empezábamos	empezabais	empezaban	empezaban	empezaban
+future	empezaré	empezarás	empezará	empezará	empezará	empezaremos	empezaréis	empezarán	empezarán	empezarán
+conditional	empezaría	empezarías	empezaría	empezaría	empezaría	empezaríamos	empezaríais	empezarían	empezarían	empezarían
+present perfect	he empezado	has empezado	ha empezado	ha empezado	ha empezado	hemos empezado	habéis empezado	han empezado	han empezado	han empezado
+future perfect	habré empezado	habrás empezado	habrá empezado	habrá empezado	habrá empezado	habremos empezado	habréis empezado	habrán empezado	habrán empezado	habrán empezado
+present progressive	estoy empezando	estás empezando	está empezando	está empezando	está empezando	estamos empezando	estáis empezando	están empezando	están empezando	están empezando
+past progressive	estaba empezando	estabas empezando	estaba empezando	estaba empezando	estaba empezando	estábamos empezando	estabais empezando	estaban empezando	estaban empezando	estaban empezando
+present subjunctive	empiece	empieces	empiece	empiece	empiece	empecemos	empecéis	empiecen	empiecen	empiecen
+imperfect subjunctive (-ra)	empezara	empezaras	empezara	empezara	empezara	empezáramos	empezarais	empezaran	empezaran	empezaran
+imperfect subjunctive (-se)	empezase	empezases	empezase	empezase	empezase	empezásemos	empezaseis	empezasen	empezasen	empezasen
+present perfect subjunctive	haya empezado	hayas empezado	haya empezado	haya empezado	haya empezado	hayamos empezado	hayáis empezado	hayan empezado	hayan empezado	hayan empezado
+past perfect subjunctive (-ra)	hubiera empezado	hubieras empezado	hubiera empezado	hubiera empezado	hubiera empezado	hubiéramos empezado	hubierais empezado	hubieran empezado	hubieran empezado	hubieran empezado
+past perfect subjunctive (-se)	hubiese empezado	hubieses empezado	hubiese empezado	hubiese empezado	hubiese empezado	hubiésemos empezado	hubieseis empezado	hubiesen empezado	hubiesen empezado	hubiesen empezado
+pluperfect	había empezado	habías empezado	había empezado	había empezado	había empezado	habíamos empezado	habíais empezado	habían empezado	habían empezado	habían empezado
+ESCRIBIR | to write
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	escribo	escribes	escribe	escribe	escribe	escribimos	escribís	escriben	escriben	escriben
+preterite	escribí	escribiste	escribió	escribió	escribió	escribimos	escribisteis	escribieron	escribieron	escribieron
+imperfect	escribía	escribías	escribía	escribía	escribía	escribíamos	escribíais	escribían	escribían	escribían
+future	escribiré	escribirás	escribirá	escribirá	escribirá	escribiremos	escribiréis	escribirán	escribirán	escribirán
+conditional	escribiría	escribirías	escribiría	escribiría	escribiría	escribiríamos	escribiríais	escribirían	escribirían	escribirían
+present perfect	he escrito	has escrito	ha escrito	ha escrito	ha escrito	hemos escrito	habéis escrito	han escrito	han escrito	han escrito
+future perfect	habré escrito	habrás escrito	habrá escrito	habrá escrito	habrá escrito	habremos escrito	habréis escrito	habrán escrito	habrán escrito	habrán escrito
+present progressive	estoy escribiendo	estás escribiendo	está escribiendo	está escribiendo	está escribiendo	estamos escribiendo	estáis escribiendo	están escribiendo	están escribiendo	están escribiendo
+past progressive	estaba escribiendo	estabas escribiendo	estaba escribiendo	estaba escribiendo	estaba escribiendo	estábamos escribiendo	estabais escribiendo	estaban escribiendo	estaban escribiendo	estaban escribiendo
+present subjunctive	escriba	escribas	escriba	escriba	escriba	escribamos	escribáis	escriban	escriban	escriban
+imperfect subjunctive (-ra)	escribiera	escribieras	escribiera	escribiera	escribiera	escribiéramos	escribierais	escribieran	escribieran	escribieran
+imperfect subjunctive (-se)	escribiese	escribieses	escribiese	escribiese	escribiese	escribiésemos	escribieseis	escribiesen	escribiesen	escribiesen
+present perfect subjunctive	haya escrito	hayas escrito	haya escrito	haya escrito	haya escrito	hayamos escrito	hayáis escrito	hayan escrito	hayan escrito	hayan escrito
+past perfect subjunctive (-ra)	hubiera escrito	hubieras escrito	hubiera escrito	hubiera escrito	hubiera escrito	hubiéramos escrito	hubierais escrito	hubieran escrito	hubieran escrito	hubieran escrito
+past perfect subjunctive (-se)	hubiese escrito	hubieses escrito	hubiese escrito	hubiese escrito	hubiese escrito	hubiésemos escrito	hubieseis escrito	hubiesen escrito	hubiesen escrito	hubiesen escrito
+pluperfect	había escrito	habías escrito	había escrito	había escrito	había escrito	habíamos escrito	habíais escrito	habían escrito	habían escrito	habían escrito
+ESTAR | to be (location)
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	estoy	estás	está	está	está	estamos	estáis	están	están	están
+preterite	estuve	estuviste	estuvo	estuvo	estuvo	estuvimos	estuvisteis	estuvieron	estuvieron	estuvieron
+imperfect	estaba	estabas	estaba	estaba	estaba	estábamos	estabais	estaban	estaban	estaban
+future	estaré	estarás	estará	estará	estará	estaremos	estaréis	estarán	estarán	estarán
+conditional	estaría	estarías	estaría	estaría	estaría	estaríamos	estaríais	estarían	estarían	estarían
+present perfect	he estado	has estado	ha estado	ha estado	ha estado	hemos estado	habéis estado	han estado	han estado	han estado
+future perfect	habré estado	habrás estado	habrá estado	habrá estado	habrá estado	habremos estado	habréis estado	habrán estado	habrán estado	habrán estado
+present progressive	estoy estando	estás estando	está estando	está estando	está estando	estamos estando	estáis estando	están estando	están estando	están estando
+past progressive	estaba estando	estabas estando	estaba estando	estaba estando	estaba estando	estábamos estando	estabais estando	estaban estando	estaban estando	estaban estando
+present subjunctive	esté	estés	esté	esté	esté	estemos	estéis	estén	estén	estén
+imperfect subjunctive (-ra)	estuviera	estuvieras	estuviera	estuviera	estuviera	estuviéramos	estuvierais	estuvieran	estuvieran	estuvieran
+imperfect subjunctive (-se)	estuviese	estuvieses	estuviese	estuviese	estuviese	estuviésemos	estuvieseis	estuviesen	estuviesen	estuviesen
+present perfect subjunctive	haya estado	hayas estado	haya estado	haya estado	haya estado	hayamos estado	hayáis estado	hayan estado	hayan estado	hayan estado
+past perfect subjunctive (-ra)	hubiera estado	hubieras estado	hubiera estado	hubiera estado	hubiera estado	hubiéramos estado	hubierais estado	hubieran estado	hubieran estado	hubieran estado
+past perfect subjunctive (-se)	hubiese estado	hubieses estado	hubiese estado	hubiese estado	hubiese estado	hubiésemos estado	hubieseis estado	hubiesen estado	hubiesen estado	hubiesen estado
+pluperfect	había estado	habías estado	había estado	había estado	había estado	habíamos estado	habíais estado	habían estado	habían estado	habían estado
+HABER | to have (helping verb)
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	he	has	ha	ha	ha	hemos	habéis	han	han	han
+preterite	hube	hubiste	hubo	hubo	hubo	hubimos	hubisteis	hubieron	hubieron	hubieron
+imperfect	había	habías	había	había	había	habíamos	habíais	habían	habían	habían
+future	habré	habrás	habrá	habrá	habrá	habremos	habréis	habrán	habrán	habrán
+conditional	habría	habrías	habría	habría	habría	habríamos	habríais	habrían	habrían	habrían
+present perfect	he habido	has habido	ha habido	ha habido	ha habido	hemos habido	habéis habido	han habido	han habido	han habido
+future perfect	habré habido	habrás habido	habrá habido	habrá habido	habrá habido	habremos habido	habréis habido	habrán habido	habrán habido	habrán habido
+present progressive	estoy habiendo	estás habiendo	está habiendo	está habiendo	está habiendo	estamos habiendo	estáis habiendo	están habiendo	están habiendo	están habiendo
+past progressive	estaba habiendo	estabas habiendo	estaba habiendo	estaba habiendo	estaba habiendo	estábamos habiendo	estabais habiendo	estaban habiendo	estaban habiendo	estaban habiendo
+present subjunctive	haya	hayas	haya	haya	haya	hayamos	hayáis	hayan	hayan	hayan
+imperfect subjunctive (-ra)	hubiera	hubieras	hubiera	hubiera	hubiera	hubiéramos	hubierais	hubieran	hubieran	hubieran
+imperfect subjunctive (-se)	hubiese	hubieses	hubiese	hubiese	hubiese	hubiésemos	hubieseis	hubiesen	hubiesen	hubiesen
+present perfect subjunctive	haya habido	hayas habido	haya habido	haya habido	haya habido	hayamos habido	hayáis habido	hayan habido	hayan habido	hayan habido
+past perfect subjunctive (-ra)	hubiera habido	hubieras habido	hubiera habido	hubiera habido	hubiera habido	hubiéramos habido	hubierais habido	hubieran habido	hubieran habido	hubieran habido
+past perfect subjunctive (-se)	hubiese habido	hubieses habido	hubiese habido	hubiese habido	hubiese habido	hubiésemos habido	hubieseis habido	hubiesen habido	hubiesen habido	hubiesen habido
+pluperfect	había habido	habías habido	había habido	había habido	había habido	habíamos habido	habíais habido	habían habido	habían habido	habían habido
+HABLAR | to talk
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	hablo	hablas	habla	habla	habla	hablamos	habláis	hablan	hablan	hablan
+preterite	hablé	hablaste	habló	habló	habló	hablamos	hablasteis	hablaron	hablaron	hablaron
+imperfect	hablaba	hablabas	hablaba	hablaba	hablaba	hablábamos	hablabais	hablaban	hablaban	hablaban
+future	hablaré	hablarás	hablará	hablará	hablará	hablaremos	hablaréis	hablarán	hablarán	hablarán
+conditional	hablaría	hablarías	hablaría	hablaría	hablaría	hablaríamos	hablaríais	hablarían	hablarían	hablarían
+present perfect	he hablado	has hablado	ha hablado	ha hablado	ha hablado	hemos hablado	habéis hablado	han hablado	han hablado	han hablado
+future perfect	habré hablado	habrás hablado	habrá hablado	habrá hablado	habrá hablado	habremos hablado	habréis hablado	habrán hablado	habrán hablado	habrán hablado
+present progressive	estoy hablando	estás hablando	está hablando	está hablando	está hablando	estamos hablando	estáis hablando	están hablando	están hablando	están hablando
+past progressive	estaba hablando	estabas hablando	estaba hablando	estaba hablando	estaba hablando	estábamos hablando	estabais hablando	estaban hablando	estaban hablando	estaban hablando
+present subjunctive	hable	hables	hable	hable	hable	hablemos	habléis	hablen	hablen	hablen
+imperfect subjunctive (-ra)	hablara	hablaras	hablara	hablara	hablara	habláramos	hablarais	hablaran	hablaran	hablaran
+imperfect subjunctive (-se)	hablase	hablases	hablase	hablase	hablase	hablásemos	hablaseis	hablasen	hablasen	hablasen
+present perfect subjunctive	haya hablado	hayas hablado	haya hablado	haya hablado	haya hablado	hayamos hablado	hayáis hablado	hayan hablado	hayan hablado	hayan hablado
+past perfect subjunctive (-ra)	hubiera hablado	hubieras hablado	hubiera hablado	hubiera hablado	hubiera hablado	hubiéramos hablado	hubierais hablado	hubieran hablado	hubieran hablado	hubieran hablado
+past perfect subjunctive (-se)	hubiese hablado	hubieses hablado	hubiese hablado	hubiese hablado	hubiese hablado	hubiésemos hablado	hubieseis hablado	hubiesen hablado	hubiesen hablado	hubiesen hablado
+pluperfect	había hablado	habías hablado	había hablado	había hablado	había hablado	habíamos hablado	habíais hablado	habían hablado	habían hablado	habían hablado
+HACER | to do/to make
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	hago	haces	hace	hace	hace	hacemos	hacéis	hacen	hacen	hacen
+preterite	hice	hiciste	hizo	hizo	hizo	hicimos	hicisteis	hicieron	hicieron	hicieron
+imperfect	hacía	hacías	hacía	hacía	hacía	hacíamos	hacíais	hacían	hacían	hacían
+future	haré	harás	hará	hará	hará	haremos	haréis	harán	harán	harán
+conditional	haría	harías	haría	haría	haría	haríamos	haríais	harían	harían	harían
+present perfect	he hecho	has hecho	ha hecho	ha hecho	ha hecho	hemos hecho	habéis hecho	han hecho	han hecho	han hecho
+future perfect	habré hecho	habrás hecho	habrá hecho	habrá hecho	habrá hecho	habremos hecho	habréis hecho	habrán hecho	habrán hecho	habrán hecho
+present progressive	estoy haciendo	estás haciendo	está haciendo	está haciendo	está haciendo	estamos haciendo	estáis haciendo	están haciendo	están haciendo	están haciendo
+past progressive	estaba haciendo	estabas haciendo	estaba haciendo	estaba haciendo	estaba haciendo	estábamos haciendo	estabais haciendo	estaban haciendo	estaban haciendo	estaban haciendo
+present subjunctive	haga	hagas	haga	haga	haga	hagamos	hagáis	hagan	hagan	hagan
+imperfect subjunctive (-ra)	hiciera	hicieras	hiciera	hiciera	hiciera	hiciéramos	hicierais	hicieran	hicieran	hicieran
+imperfect subjunctive (-se)	hiciese	hicieses	hiciese	hiciese	hiciese	hiciésemos	hicieseis	hiciesen	hiciesen	hiciesen
+present perfect subjunctive	haya hecho	hayas hecho	haya hecho	haya hecho	haya hecho	hayamos hecho	hayáis hecho	hayan hecho	hayan hecho	hayan hecho
+past perfect subjunctive (-ra)	hubiera hecho	hubieras hecho	hubiera hecho	hubiera hecho	hubiera hecho	hubiéramos hecho	hubierais hecho	hubieran hecho	hubieran hecho	hubieran hecho
+past perfect subjunctive (-se)	hubiese hecho	hubieses hecho	hubiese hecho	hubiese hecho	hubiese hecho	hubiésemos hecho	hubieseis hecho	hubiesen hecho	hubiesen hecho	hubiesen hecho
+pluperfect	había hecho	habías hecho	había hecho	había hecho	había hecho	habíamos hecho	habíais hecho	habían hecho	habían hecho	habían hecho
+IR | to go
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	voy	vas	va	va	va	vamos	vais	van	van	van
+preterite	fui	fuiste	fue	fue	fue	fuimos	fuisteis	fueron	fueron	fueron
+imperfect	iba	ibas	iba	iba	iba	íbamos	ibais	iban	iban	iban
+future	iré	irás	irá	irá	irá	iremos	iréis	irán	irán	irán
+conditional	iría	irías	iría	iría	iría	iríamos	iríais	irían	irían	irían
+present perfect	he ido	has ido	ha ido	ha ido	ha ido	hemos ido	habéis ido	han ido	han ido	han ido
+future perfect	habré ido	habrás ido	habrá ido	habrá ido	habrá ido	habremos ido	habréis ido	habrán ido	habrán ido	habrán ido
+present progressive	estoy yendo	estás yendo	está yendo	está yendo	está yendo	estamos yendo	estáis yendo	están yendo	están yendo	están yendo
+past progressive	estaba yendo	estabas yendo	estaba yendo	estaba yendo	estaba yendo	estábamos yendo	estabais yendo	estaban yendo	estaban yendo	estaban yendo
+present subjunctive	vaya	vayas	vaya	vaya	vaya	vayamos	vayáis	vayan	vayan	vayan
+imperfect subjunctive (-ra)	fuera	fueras	fuera	fuera	fuera	fuéramos	fuerais	fueran	fueran	fueran
+imperfect subjunctive (-se)	fuese	fueses	fuese	fuese	fuese	fuésemos	fueseis	fuesen	fuesen	fuesen
+present perfect subjunctive	haya ido	hayas ido	haya ido	haya ido	haya ido	hayamos ido	hayáis ido	hayan ido	hayan ido	hayan ido
+past perfect subjunctive (-ra)	hubiera ido	hubieras ido	hubiera ido	hubiera ido	hubiera ido	hubiéramos ido	hubierais ido	hubieran ido	hubieran ido	hubieran ido
+past perfect subjunctive (-se)	hubiese ido	hubieses ido	hubiese ido	hubiese ido	hubiese ido	hubiésemos ido	hubieseis ido	hubiesen ido	hubiesen ido	hubiesen ido
+pluperfect	había ido	habías ido	había ido	había ido	había ido	habíamos ido	habíais ido	habían ido	habían ido	habían ido
+JUGAR | to play
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	juego	juegas	juega	juega	juega	jugamos	jugáis	juegan	juegan	juegan
+preterite	jugué	jugaste	jugó	jugó	jugó	jugamos	jugasteis	jugaron	jugaron	jugaron
+imperfect	jugaba	jugabas	jugaba	jugaba	jugaba	jugábamos	jugabais	jugaban	jugaban	jugaban
+future	jugaré	jugarás	jugará	jugará	jugará	jugaremos	jugaréis	jugarán	jugarán	jugarán
+conditional	jugaría	jugarías	jugaría	jugaría	jugaría	jugaríamos	jugaríais	jugarían	jugarían	jugarían
+present perfect	he jugado	has jugado	ha jugado	ha jugado	ha jugado	hemos jugado	habéis jugado	han jugado	han jugado	han jugado
+future perfect	habré jugado	habrás jugado	habrá jugado	habrá jugado	habrá jugado	habremos jugado	habréis jugado	habrán jugado	habrán jugado	habrán jugado
+present progressive	estoy jugando	estás jugando	está jugando	está jugando	está jugando	estamos jugando	estáis jugando	están jugando	están jugando	están jugando
+past progressive	estaba jugando	estabas jugando	estaba jugando	estaba jugando	estaba jugando	estábamos jugando	estabais jugando	estaban jugando	estaban jugando	estaban jugando
+present subjunctive	juegue	juegues	juegue	juegue	juegue	juguemos	juguéis	jueguen	jueguen	jueguen
+imperfect subjunctive (-ra)	jugara	jugaras	jugara	jugara	jugara	jugáramos	jugarais	jugaran	jugaran	jugaran
+imperfect subjunctive (-se)	jugase	jugases	jugase	jugase	jugase	jugásemos	jugaseis	jugasen	jugasen	jugasen
+present perfect subjunctive	haya jugado	hayas jugado	haya jugado	haya jugado	haya jugado	hayamos jugado	hayáis jugado	hayan jugado	hayan jugado	hayan jugado
+past perfect subjunctive (-ra)	hubiera jugado	hubieras jugado	hubiera jugado	hubiera jugado	hubiera jugado	hubiéramos jugado	hubierais jugado	hubieran jugado	hubieran jugado	hubieran jugado
+past perfect subjunctive (-se)	hubiese jugado	hubieses jugado	hubiese jugado	hubiese jugado	hubiese jugado	hubiésemos jugado	hubieseis jugado	hubiesen jugado	hubiesen jugado	hubiesen jugado
+pluperfect	había jugado	habías jugado	había jugado	había jugado	había jugado	habíamos jugado	habíais jugado	habían jugado	habían jugado	habían jugado
+LEER | to read
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	leo	lees	lee	lee	lee	leemos	leéis	leen	leen	leen
+preterite	leí	leíste	leyó	leyó	leyó	leímos	leísteis	leyeron	leyeron	leyeron
+imperfect	leía	leías	leía	leía	leía	leíamos	leíais	leían	leían	leían
+future	leeré	leerás	leerá	leerá	leerá	leeremos	leeréis	leerán	leerán	leerán
+conditional	leería	leerías	leería	leería	leería	leeríamos	leeríais	leerían	leerían	leerían
+present perfect	he leído	has leído	ha leído	ha leído	ha leído	hemos leído	habéis leído	han leído	han leído	han leído
+future perfect	habré leído	habrás leído	habrá leído	habrá leído	habrá leído	habremos leído	habréis leído	habrán leído	habrán leído	habrán leído
+present progressive	estoy leyendo	estás leyendo	está leyendo	está leyendo	está leyendo	estamos leyendo	estáis leyendo	están leyendo	están leyendo	están leyendo
+past progressive	estaba leyendo	estabas leyendo	estaba leyendo	estaba leyendo	estaba leyendo	estábamos leyendo	estabais leyendo	estaban leyendo	estaban leyendo	estaban leyendo
+present subjunctive	lea	leas	lea	lea	lea	leamos	leáis	lean	lean	lean
+imperfect subjunctive (-ra)	leyera	leyeras	leyera	leyera	leyera	leyéramos	leyerais	leyeran	leyeran	leyeran
+imperfect subjunctive (-se)	leyese	leyeses	leyese	leyese	leyese	leyésemos	leyeseis	leyesen	leyesen	leyesen
+present perfect subjunctive	haya leído	hayas leído	haya leído	haya leído	haya leído	hayamos leído	hayáis leído	hayan leído	hayan leído	hayan leído
+past perfect subjunctive (-ra)	hubiera leído	hubieras leído	hubiera leído	hubiera leído	hubiera leído	hubiéramos leído	hubierais leído	hubieran leído	hubieran leído	hubieran leído
+past perfect subjunctive (-se)	hubiese leído	hubieses leído	hubiese leído	hubiese leído	hubiese leído	hubiésemos leído	hubieseis leído	hubiesen leído	hubiesen leído	hubiesen leído
+pluperfect	había leído	habías leído	había leído	había leído	había leído	habíamos leído	habíais leído	habían leído	habían leído	habían leído
+MONTAR | to get on
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	monto	montas	monta	monta	monta	montamos	montáis	montan	montan	montan
+preterite	monté	montaste	montó	montó	montó	montamos	montasteis	montaron	montaron	montaron
+imperfect	montaba	montabas	montaba	montaba	montaba	montábamos	montabais	montaban	montaban	montaban
+future	montaré	montarás	montará	montará	montará	montaremos	montaréis	montarán	montarán	montarán
+conditional	montaría	montarías	montaría	montaría	montaría	montaríamos	montaríais	montarían	montarían	montarían
+present perfect	he montado	has montado	ha montado	ha montado	ha montado	hemos montado	habéis montado	han montado	han montado	han montado
+future perfect	habré montado	habrás montado	habrá montado	habrá montado	habrá montado	habremos montado	habréis montado	habrán montado	habrán montado	habrán montado
+present progressive	estoy montando	estás montando	está montando	está montando	está montando	estamos montando	estáis montando	están montando	están montando	están montando
+past progressive	estaba montando	estabas montando	estaba montando	estaba montando	estaba montando	estábamos montando	estabais montando	estaban montando	estaban montando	estaban montando
+present subjunctive	monte	montes	monte	monte	monte	montemos	montéis	monten	monten	monten
+imperfect subjunctive (-ra)	montara	montaras	montara	montara	montara	montáramos	montarais	montaran	montaran	montaran
+imperfect subjunctive (-se)	montase	montases	montase	montase	montase	montásemos	montaseis	montasen	montasen	montasen
+present perfect subjunctive	haya montado	hayas montado	haya montado	haya montado	haya montado	hayamos montado	hayáis montado	hayan montado	hayan montado	hayan montado
+past perfect subjunctive (-ra)	hubiera montado	hubieras montado	hubiera montado	hubiera montado	hubiera montado	hubiéramos montado	hubierais montado	hubieran montado	hubieran montado	hubieran montado
+past perfect subjunctive (-se)	hubiese montado	hubieses montado	hubiese montado	hubiese montado	hubiese montado	hubiésemos montado	hubieseis montado	hubiesen montado	hubiesen montado	hubiesen montado
+pluperfect	había montado	habías montado	había montado	había montado	había montado	habíamos montado	habíais montado	habían montado	habían montado	habían montado
+MORIR | to die
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	muero	mueres	muere	muere	muere	morimos	morís	mueren	mueren	mueren
+preterite	morí	moriste	murió	murió	murió	morimos	moristeis	murieron	murieron	murieron
+imperfect	moría	morías	moría	moría	moría	moríamos	moríais	morían	morían	morían
+future	moriré	morirás	morirá	morirá	morirá	moriremos	moriréis	morirán	morirán	morirán
+conditional	moriría	morirías	moriría	moriría	moriría	moriríamos	moriríais	morirían	morirían	morirían
+present perfect	he muerto	has muerto	ha muerto	ha muerto	ha muerto	hemos muerto	habéis muerto	han muerto	han muerto	han muerto
+future perfect	habré muerto	habrás muerto	habrá muerto	habrá muerto	habrá muerto	habremos muerto	habréis muerto	habrán muerto	habrán muerto	habrán muerto
+present progressive	estoy muriendo	estás muriendo	está muriendo	está muriendo	está muriendo	estamos muriendo	estáis muriendo	están muriendo	están muriendo	están muriendo
+past progressive	estaba muriendo	estabas muriendo	estaba muriendo	estaba muriendo	estaba muriendo	estábamos muriendo	estabais muriendo	estaban muriendo	estaban muriendo	estaban muriendo
+present subjunctive	muera	mueras	muera	muera	muera	muramos	muráis	mueran	mueran	mueran
+imperfect subjunctive (-ra)	muriera	murieras	muriera	muriera	muriera	muriéramos	murierais	murieran	murieran	murieran
+imperfect subjunctive (-se)	muriese	murieses	muriese	muriese	muriese	muriésemos	murieseis	muriesen	muriesen	muriesen
+present perfect subjunctive	haya muerto	hayas muerto	haya muerto	haya muerto	haya muerto	hayamos muerto	hayáis muerto	hayan muerto	hayan muerto	hayan muerto
+past perfect subjunctive (-ra)	hubiera muerto	hubieras muerto	hubiera muerto	hubiera muerto	hubiera muerto	hubiéramos muerto	hubierais muerto	hubieran muerto	hubieran muerto	hubieran muerto
+past perfect subjunctive (-se)	hubiese muerto	hubieses muerto	hubiese muerto	hubiese muerto	hubiese muerto	hubiésemos muerto	hubieseis muerto	hubiesen muerto	hubiesen muerto	hubiesen muerto
+pluperfect	había muerto	habías muerto	había muerto	había muerto	había muerto	habíamos muerto	habíais muerto	habían muerto	habían muerto	habían muerto
+OÍR | to hear
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	oigo	oyes	oye	oye	oye	oímos	oís	oyen	oyen	oyen
+preterite	oí	oíste	oyó	oyó	oyó	oímos	oísteis	oyeron	oyeron	oyeron
+imperfect	oía	oías	oía	oía	oía	oíamos	oíais	oían	oían	oían
+future	oiré	oirás	oirá	oirá	oirá	oiremos	oiréis	oirán	oirán	oirán
+conditional	oiría	oirías	oiría	oiría	oiría	oiríamos	oiríais	oirían	oirían	oirían
+present perfect	he oído	has oído	ha oído	ha oído	ha oído	hemos oído	habéis oído	han oído	han oído	han oído
+future perfect	habré oído	habrás oído	habrá oído	habrá oído	habrá oído	habremos oído	habréis oído	habrán oído	habrán oído	habrán oído
+present progressive	estoy oyendo	estás oyendo	está oyendo	está oyendo	está oyendo	estamos oyendo	estáis oyendo	están oyendo	están oyendo	están oyendo
+past progressive	estaba oyendo	estabas oyendo	estaba oyendo	estaba oyendo	estaba oyendo	estábamos oyendo	estabais oyendo	estaban oyendo	estaban oyendo	estaban oyendo
+present subjunctive	oiga	oigas	oiga	oiga	oiga	oigamos	oigáis	oigan	oigan	oigan
+imperfect subjunctive (-ra)	oyera	oyeras	oyera	oyera	oyera	oyéramos	oyerais	oyeran	oyeran	oyeran
+imperfect subjunctive (-se)	oyese	oyeses	oyese	oyese	oyese	oyésemos	oyeseis	oyesen	oyesen	oyesen
+present perfect subjunctive	haya oído	hayas oído	haya oído	haya oído	haya oído	hayamos oído	hayáis oído	hayan oído	hayan oído	hayan oído
+past perfect subjunctive (-ra)	hubiera oído	hubieras oído	hubiera oído	hubiera oído	hubiera oído	hubiéramos oído	hubierais oído	hubieran oído	hubieran oído	hubieran oído
+past perfect subjunctive (-se)	hubiese oído	hubieses oído	hubiese oído	hubiese oído	hubiese oído	hubiésemos oído	hubieseis oído	hubiesen oído	hubiesen oído	hubiesen oído
+pluperfect	había oído	habías oído	había oído	había oído	había oído	habíamos oído	habíais oído	habían oído	habían oído	habían oído
+PODER | to be able to
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	puedo	puedes	puede	puede	puede	podemos	podéis	pueden	pueden	pueden
+preterite	pude	pudiste	pudo	pudo	pudo	pudimos	pudisteis	pudieron	pudieron	pudieron
+imperfect	podía	podías	podía	podía	podía	podíamos	podíais	podían	podían	podían
+future	podré	podrás	podrá	podrá	podrá	podremos	podréis	podrán	podrán	podrán
+conditional	podría	podrías	podría	podría	podría	podríamos	podríais	podrían	podrían	podrían
+present perfect	he podido	has podido	ha podido	ha podido	ha podido	hemos podido	habéis podido	han podido	han podido	han podido
+future perfect	habré podido	habrás podido	habrá podido	habrá podido	habrá podido	habremos podido	habréis podido	habrán podido	habrán podido	habrán podido
+present progressive	estoy pudiendo	estás pudiendo	está pudiendo	está pudiendo	está pudiendo	estamos pudiendo	estáis pudiendo	están pudiendo	están pudiendo	están pudiendo
+past progressive	estaba pudiendo	estabas pudiendo	estaba pudiendo	estaba pudiendo	estaba pudiendo	estábamos pudiendo	estabais pudiendo	estaban pudiendo	estaban pudiendo	estaban pudiendo
+present subjunctive	pueda	puedas	pueda	pueda	pueda	podamos	podáis	puedan	puedan	puedan
+imperfect subjunctive (-ra)	pudiera	pudieras	pudiera	pudiera	pudiera	pudiéramos	pudierais	pudieran	pudieran	pudieran
+imperfect subjunctive (-se)	pudiese	pudieses	pudiese	pudiese	pudiese	pudiésemos	pudieseis	pudiesen	pudiesen	pudiesen
+present perfect subjunctive	haya podido	hayas podido	haya podido	haya podido	haya podido	hayamos podido	hayáis podido	hayan podido	hayan podido	hayan podido
+past perfect subjunctive (-ra)	hubiera podido	hubieras podido	hubiera podido	hubiera podido	hubiera podido	hubiéramos podido	hubierais podido	hubieran podido	hubieran podido	hubieran podido
+past perfect subjunctive (-se)	hubiese podido	hubieses podido	hubiese podido	hubiese podido	hubiese podido	hubiésemos podido	hubieseis podido	hubiesen podido	hubiesen podido	hubiesen podido
+pluperfect	había podido	habías podido	había podido	había podido	había podido	habíamos podido	habíais podido	habían podido	habían podido	habían podido
+PONER | to put
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	pongo	pones	pone	pone	pone	ponemos	ponéis	ponen	ponen	ponen
+preterite	puse	pusiste	puso	puso	puso	pusimos	pusisteis	pusieron	pusieron	pusieron
+imperfect	ponía	ponías	ponía	ponía	ponía	poníamos	poníais	ponían	ponían	ponían
+future	pondré	pondrás	pondrá	pondrá	pondrá	pondremos	pondréis	pondrán	pondrán	pondrán
+conditional	pondría	pondrías	pondría	pondría	pondría	pondríamos	pondríais	pondrían	pondrían	pondrían
+present perfect	he puesto	has puesto	ha puesto	ha puesto	ha puesto	hemos puesto	habéis puesto	han puesto	han puesto	han puesto
+future perfect	habré puesto	habrás puesto	habrá puesto	habrá puesto	habrá puesto	habremos puesto	habréis puesto	habrán puesto	habrán puesto	habrán puesto
+present progressive	estoy poniendo	estás poniendo	está poniendo	está poniendo	está poniendo	estamos poniendo	estáis poniendo	están poniendo	están poniendo	están poniendo
+past progressive	estaba poniendo	estabas poniendo	estaba poniendo	estaba poniendo	estaba poniendo	estábamos poniendo	estabais poniendo	estaban poniendo	estaban poniendo	estaban poniendo
+present subjunctive	ponga	pongas	ponga	ponga	ponga	pongamos	pongáis	pongan	pongan	pongan
+imperfect subjunctive (-ra)	pusiera	pusieras	pusiera	pusiera	pusiera	pusiéramos	pusierais	pusieran	pusieran	pusieran
+imperfect subjunctive (-se)	pusiese	pusieses	pusiese	pusiese	pusiese	pusiésemos	pusieseis	pusiesen	pusiesen	pusiesen
+present perfect subjunctive	haya puesto	hayas puesto	haya puesto	haya puesto	haya puesto	hayamos puesto	hayáis puesto	hayan puesto	hayan puesto	hayan puesto
+past perfect subjunctive (-ra)	hubiera puesto	hubieras puesto	hubiera puesto	hubiera puesto	hubiera puesto	hubiéramos puesto	hubierais puesto	hubieran puesto	hubieran puesto	hubieran puesto
+past perfect subjunctive (-se)	hubiese puesto	hubieses puesto	hubiese puesto	hubiese puesto	hubiese puesto	hubiésemos puesto	hubieseis puesto	hubiesen puesto	hubiesen puesto	hubiesen puesto
+pluperfect	había puesto	habías puesto	había puesto	había puesto	había puesto	habíamos puesto	habíais puesto	habían puesto	habían puesto	habían puesto
+PRACTICAR | to practice
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	practico	practicas	practica	practica	practica	practicamos	practicáis	practican	practican	practican
+preterite	practiqué	practicaste	practicó	practicó	practicó	practicamos	practicasteis	practicaron	practicaron	practicaron
+imperfect	practicaba	practicabas	practicaba	practicaba	practicaba	practicábamos	practicabais	practicaban	practicaban	practicaban
+future	practicaré	practicarás	practicará	practicará	practicará	practicaremos	practicaréis	practicarán	practicarán	practicarán
+conditional	practicaría	practicarías	practicaría	practicaría	practicaría	practicaríamos	practicaríais	practicarían	practicarían	practicarían
+present perfect	he practicado	has practicado	ha practicado	ha practicado	ha practicado	hemos practicado	habéis practicado	han practicado	han practicado	han practicado
+future perfect	habré practicado	habrás practicado	habrá practicado	habrá practicado	habrá practicado	habremos practicado	habréis practicado	habrán practicado	habrán practicado	habrán practicado
+present progressive	estoy practicando	estás practicando	está practicando	está practicando	está practicando	estamos practicando	estáis practicando	están practicando	están practicando	están practicando
+past progressive	estaba practicando	estabas practicando	estaba practicando	estaba practicando	estaba practicando	estábamos practicando	estabais practicando	estaban practicando	estaban practicando	estaban practicando
+present subjunctive	practique	practiques	practique	practique	practique	practiquemos	practiquéis	practiquen	practiquen	practiquen
+imperfect subjunctive (-ra)	practicara	practicaras	practicara	practicara	practicara	practicáramos	practicarais	practicaran	practicaran	practicaran
+imperfect subjunctive (-se)	practicase	practicases	practicase	practicase	practicase	practicásemos	practicaseis	practicasen	practicasen	practicasen
+present perfect subjunctive	haya practicado	hayas practicado	haya practicado	haya practicado	haya practicado	hayamos practicado	hayáis practicado	hayan practicado	hayan practicado	hayan practicado
+past perfect subjunctive (-ra)	hubiera practicado	hubieras practicado	hubiera practicado	hubiera practicado	hubiera practicado	hubiéramos practicado	hubierais practicado	hubieran practicado	hubieran practicado	hubieran practicado
+past perfect subjunctive (-se)	hubiese practicado	hubieses practicado	hubiese practicado	hubiese practicado	hubiese practicado	hubiésemos practicado	hubieseis practicado	hubiesen practicado	hubiesen practicado	hubiesen practicado
+pluperfect	había practicado	habías practicado	había practicado	había practicado	había practicado	habíamos practicado	habíais practicado	habían practicado	habían practicado	habían practicado
+QUERER | to want/to love
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	quiero	quieres	quiere	quiere	quiere	queremos	queréis	quieren	quieren	quieren
+preterite	quise	quisiste	quiso	quiso	quiso	quisimos	quisisteis	quisieron	quisieron	quisieron
+imperfect	quería	querías	quería	quería	quería	queríamos	queríais	querían	querían	querían
+future	querré	querrás	querrá	querrá	querrá	querremos	querréis	querrán	querrán	querrán
+conditional	querría	querrías	querría	querría	querría	querríamos	querríais	querrían	querrían	querrían
+present perfect	he querido	has querido	ha querido	ha querido	ha querido	hemos querido	habéis querido	han querido	han querido	han querido
+future perfect	habré querido	habrás querido	habrá querido	habrá querido	habrá querido	habremos querido	habréis querido	habrán querido	habrán querido	habrán querido
+present progressive	estoy queriendo	estás queriendo	está queriendo	está queriendo	está queriendo	estamos queriendo	estáis queriendo	están queriendo	están queriendo	están queriendo
+past progressive	estaba queriendo	estabas queriendo	estaba queriendo	estaba queriendo	estaba queriendo	estábamos queriendo	estabais queriendo	estaban queriendo	estaban queriendo	estaban queriendo
+present subjunctive	quiera	quieras	quiera	quiera	quiera	queramos	queráis	quieran	quieran	quieran
+imperfect subjunctive (-ra)	quisiera	quisieras	quisiera	quisiera	quisiera	quisiéramos	quisierais	quisieran	quisieran	quisieran
+imperfect subjunctive (-se)	quisiese	quisieses	quisiese	quisiese	quisiese	quisiésemos	quisieseis	quisiesen	quisiesen	quisiesen
+present perfect subjunctive	haya querido	hayas querido	haya querido	haya querido	haya querido	hayamos querido	hayáis querido	hayan querido	hayan querido	hayan querido
+past perfect subjunctive (-ra)	hubiera querido	hubieras querido	hubiera querido	hubiera querido	hubiera querido	hubiéramos querido	hubierais querido	hubieran querido	hubieran querido	hubieran querido
+past perfect subjunctive (-se)	hubiese querido	hubieses querido	hubiese querido	hubiese querido	hubiese querido	hubiésemos querido	hubieseis querido	hubiesen querido	hubiesen querido	hubiesen querido
+pluperfect	había querido	habías querido	había querido	había querido	había querido	habíamos querido	habíais querido	habían querido	habían querido	habían querido
+ROMPER | to break
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	rompo	rompes	rompe	rompe	rompe	rompemos	rompéis	rompen	rompen	rompen
+preterite	rompí	rompiste	rompió	rompió	rompió	rompimos	rompisteis	rompieron	rompieron	rompieron
+imperfect	rompía	rompías	rompía	rompía	rompía	rompíamos	rompíais	rompían	rompían	rompían
+future	romperé	romperás	romperá	romperá	romperá	romperemos	romperéis	romperán	romperán	romperán
+conditional	rompería	romperías	rompería	rompería	rompería	romperíamos	romperíais	romperían	romperían	romperían
+present perfect	he roto	has roto	ha roto	ha roto	ha roto	hemos roto	habéis roto	han roto	han roto	han roto
+future perfect	habré roto	habrás roto	habrá roto	habrá roto	habrá roto	habremos roto	habréis roto	habrán roto	habrán roto	habrán roto
+present progressive	estoy rompiendo	estás rompiendo	está rompiendo	está rompiendo	está rompiendo	estamos rompiendo	estáis rompiendo	están rompiendo	están rompiendo	están rompiendo
+past progressive	estaba rompiendo	estabas rompiendo	estaba rompiendo	estaba rompiendo	estaba rompiendo	estábamos rompiendo	estabais rompiendo	estaban rompiendo	estaban rompiendo	estaban rompiendo
+present subjunctive	rompa	rompas	rompa	rompa	rompa	rompamos	rompáis	rompan	rompan	rompan
+imperfect subjunctive (-ra)	rompiera	rompieras	rompiera	rompiera	rompiera	rompiéramos	rompierais	rompieran	rompieran	rompieran
+imperfect subjunctive (-se)	rompiese	rompieses	rompiese	rompiese	rompiese	rompiésemos	rompieseis	rompiesen	rompiesen	rompiesen
+present perfect subjunctive	haya roto	hayas roto	haya roto	haya roto	haya roto	hayamos roto	hayáis roto	hayan roto	hayan roto	hayan roto
+past perfect subjunctive (-ra)	hubiera roto	hubieras roto	hubiera roto	hubiera roto	hubiera roto	hubiéramos roto	hubierais roto	hubieran roto	hubieran roto	hubieran roto
+past perfect subjunctive (-se)	hubiese roto	hubieses roto	hubiese roto	hubiese roto	hubiese roto	hubiésemos roto	hubieseis roto	hubiesen roto	hubiesen roto	hubiesen roto
+pluperfect	había roto	habías roto	había roto	había roto	había roto	habíamos roto	habíais roto	habían roto	habían roto	habían roto
+SABER | to know (how to)
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	sé	sabes	sabe	sabe	sabe	sabemos	sabéis	saben	saben	saben
+preterite	supe	supiste	supo	supo	supo	supimos	supisteis	supieron	supieron	supieron
+imperfect	sabía	sabías	sabía	sabía	sabía	sabíamos	sabíais	sabían	sabían	sabían
+future	sabré	sabrás	sabrá	sabrá	sabrá	sabremos	sabréis	sabrán	sabrán	sabrán
+conditional	sabría	sabrías	sabría	sabría	sabría	sabríamos	sabríais	sabrían	sabrían	sabrían
+present perfect	he sabido	has sabido	ha sabido	ha sabido	ha sabido	hemos sabido	habéis sabido	han sabido	han sabido	han sabido
+future perfect	habré sabido	habrás sabido	habrá sabido	habrá sabido	habrá sabido	habremos sabido	habréis sabido	habrán sabido	habrán sabido	habrán sabido
+present progressive	estoy sabiendo	estás sabiendo	está sabiendo	está sabiendo	está sabiendo	estamos sabiendo	estáis sabiendo	están sabiendo	están sabiendo	están sabiendo
+past progressive	estaba sabiendo	estabas sabiendo	estaba sabiendo	estaba sabiendo	estaba sabiendo	estábamos sabiendo	estabais sabiendo	estaban sabiendo	estaban sabiendo	estaban sabiendo
+present subjunctive	sepa	sepas	sepa	sepa	sepa	sepamos	sepáis	sepan	sepan	sepan
+imperfect subjunctive (-ra)	supiera	supieras	supiera	supiera	supiera	supiéramos	supierais	supieran	supieran	supieran
+imperfect subjunctive (-se)	supiese	supieses	supiese	supiese	supiese	supiésemos	supieseis	supiesen	supiesen	supiesen
+present perfect subjunctive	haya sabido	hayas sabido	haya sabido	haya sabido	haya sabido	hayamos sabido	hayáis sabido	hayan sabido	hayan sabido	hayan sabido
+past perfect subjunctive (-ra)	hubiera sabido	hubieras sabido	hubiera sabido	hubiera sabido	hubiera sabido	hubiéramos sabido	hubierais sabido	hubieran sabido	hubieran sabido	hubieran sabido
+past perfect subjunctive (-se)	hubiese sabido	hubieses sabido	hubiese sabido	hubiese sabido	hubiese sabido	hubiésemos sabido	hubieseis sabido	hubiesen sabido	hubiesen sabido	hubiesen sabido
+pluperfect	había sabido	habías sabido	había sabido	había sabido	había sabido	habíamos sabido	habíais sabido	habían sabido	habían sabido	habían sabido
+SALIR | to depart
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	salgo	sales	sale	sale	sale	salimos	salís	salen	salen	salen
+preterite	salí	saliste	salió	salió	salió	salimos	salisteis	salieron	salieron	salieron
+imperfect	salía	salías	salía	salía	salía	salíamos	salíais	salían	salían	salían
+future	saldré	saldrás	saldrá	saldrá	saldrá	saldremos	saldréis	saldrán	saldrán	saldrán
+conditional	saldría	saldrías	saldría	saldría	saldría	saldríamos	saldríais	saldrían	saldrían	saldrían
+present perfect	he salido	has salido	ha salido	ha salido	ha salido	hemos salido	habéis salido	han salido	han salido	han salido
+future perfect	habré salido	habrás salido	habrá salido	habrá salido	habrá salido	habremos salido	habréis salido	habrán salido	habrán salido	habrán salido
+present progressive	estoy saliendo	estás saliendo	está saliendo	está saliendo	está saliendo	estamos saliendo	estáis saliendo	están saliendo	están saliendo	están saliendo
+past progressive	estaba saliendo	estabas saliendo	estaba saliendo	estaba saliendo	estaba saliendo	estábamos saliendo	estabais saliendo	estaban saliendo	estaban saliendo	estaban saliendo
+present subjunctive	salga	salgas	salga	salga	salga	salgamos	salgáis	salgan	salgan	salgan
+imperfect subjunctive (-ra)	saliera	salieras	saliera	saliera	saliera	saliéramos	salierais	salieran	salieran	salieran
+imperfect subjunctive (-se)	saliese	salieses	saliese	saliese	saliese	saliésemos	salieseis	saliesen	saliesen	saliesen
+present perfect subjunctive	haya salido	hayas salido	haya salido	haya salido	haya salido	hayamos salido	hayáis salido	hayan salido	hayan salido	hayan salido
+past perfect subjunctive (-ra)	hubiera salido	hubieras salido	hubiera salido	hubiera salido	hubiera salido	hubiéramos salido	hubierais salido	hubieran salido	hubieran salido	hubieran salido
+past perfect subjunctive (-se)	hubiese salido	hubieses salido	hubiese salido	hubiese salido	hubiese salido	hubiésemos salido	hubieseis salido	hubiesen salido	hubiesen salido	hubiesen salido
+pluperfect	había salido	habías salido	había salido	había salido	había salido	habíamos salido	habíais salido	habían salido	habían salido	habían salido
+SEGUIR | to follow
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	sigo	sigues	sigue	sigue	sigue	seguimos	seguís	siguen	siguen	siguen
+preterite	seguí	seguiste	siguió	siguió	siguió	seguimos	seguisteis	siguieron	siguieron	siguieron
+imperfect	seguía	seguías	seguía	seguía	seguía	seguíamos	seguíais	seguían	seguían	seguían
+future	seguiré	seguirás	seguirá	seguirá	seguirá	seguiremos	seguiréis	seguirán	seguirán	seguirán
+conditional	seguiría	seguirías	seguiría	seguiría	seguiría	seguiríamos	seguiríais	seguirían	seguirían	seguirían
+present perfect	he seguido	has seguido	ha seguido	ha seguido	ha seguido	hemos seguido	habéis seguido	han seguido	han seguido	han seguido
+future perfect	habré seguido	habrás seguido	habrá seguido	habrá seguido	habrá seguido	habremos seguido	habréis seguido	habrán seguido	habrán seguido	habrán seguido
+present progressive	estoy siguiendo	estás siguiendo	está siguiendo	está siguiendo	está siguiendo	estamos siguiendo	estáis siguiendo	están siguiendo	están siguiendo	están siguiendo
+past progressive	estaba siguiendo	estabas siguiendo	estaba siguiendo	estaba siguiendo	estaba siguiendo	estábamos siguiendo	estabais siguiendo	estaban siguiendo	estaban siguiendo	estaban siguiendo
+present subjunctive	siga	sigas	siga	siga	siga	sigamos	sigáis	sigan	sigan	sigan
+imperfect subjunctive (-ra)	siguiera	siguieras	siguiera	siguiera	siguiera	siguiéramos	siguierais	siguieran	siguieran	siguieran
+imperfect subjunctive (-se)	siguiese	siguieses	siguiese	siguiese	siguiese	siguiésemos	siguieseis	siguiesen	siguiesen	siguiesen
+present perfect subjunctive	haya seguido	hayas seguido	haya seguido	haya seguido	haya seguido	hayamos seguido	hayáis seguido	hayan seguido	hayan seguido	hayan seguido
+past perfect subjunctive (-ra)	hubiera seguido	hubieras seguido	hubiera seguido	hubiera seguido	hubiera seguido	hubiéramos seguido	hubierais seguido	hubieran seguido	hubieran seguido	hubieran seguido
+past perfect subjunctive (-se)	hubiese seguido	hubieses seguido	hubiese seguido	hubiese seguido	hubiese seguido	hubiésemos seguido	hubieseis seguido	hubiesen seguido	hubiesen seguido	hubiesen seguido
+pluperfect	había seguido	habías seguido	había seguido	había seguido	había seguido	habíamos seguido	habíais seguido	habían seguido	habían seguido	habían seguido
+SENTIR | to feel ( to feel sorry)
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	siento	sientes	siente	siente	siente	sentimos	sentís	sienten	sienten	sienten
+preterite	sentí	sentiste	sintió	sintió	sintió	sentimos	sentisteis	sintieron	sintieron	sintieron
+imperfect	sentía	sentías	sentía	sentía	sentía	sentíamos	sentíais	sentían	sentían	sentían
+future	sentiré	sentirás	sentirá	sentirá	sentirá	sentiremos	sentiréis	sentirán	sentirán	sentirán
+conditional	sentiría	sentirías	sentiría	sentiría	sentiría	sentiríamos	sentiríais	sentirían	sentirían	sentirían
+present perfect	he sentido	has sentido	ha sentido	ha sentido	ha sentido	hemos sentido	habéis sentido	han sentido	han sentido	han sentido
+future perfect	habré sentido	habrás sentido	habrá sentido	habrá sentido	habrá sentido	habremos sentido	habréis sentido	habrán sentido	habrán sentido	habrán sentido
+present progressive	estoy sintiendo	estás sintiendo	está sintiendo	está sintiendo	está sintiendo	estamos sintiendo	estáis sintiendo	están sintiendo	están sintiendo	están sintiendo
+past progressive	estaba sintiendo	estabas sintiendo	estaba sintiendo	estaba sintiendo	estaba sintiendo	estábamos sintiendo	estabais sintiendo	estaban sintiendo	estaban sintiendo	estaban sintiendo
+present subjunctive	sienta	sientas	sienta	sienta	sienta	sintamos	sintáis	sientan	sientan	sientan
+imperfect subjunctive (-ra)	sintiera	sintieras	sintiera	sintiera	sintiera	sintiéramos	sintierais	sintieran	sintieran	sintieran
+imperfect subjunctive (-se)	sintiese	sintieses	sintiese	sintiese	sintiese	sintiésemos	sintieseis	sintiesen	sintiesen	sintiesen
+present perfect subjunctive	haya sentido	hayas sentido	haya sentido	haya sentido	haya sentido	hayamos sentido	hayáis sentido	hayan sentido	hayan sentido	hayan sentido
+past perfect subjunctive (-ra)	hubiera sentido	hubieras sentido	hubiera sentido	hubiera sentido	hubiera sentido	hubiéramos sentido	hubierais sentido	hubieran sentido	hubieran sentido	hubieran sentido
+past perfect subjunctive (-se)	hubiese sentido	hubieses sentido	hubiese sentido	hubiese sentido	hubiese sentido	hubiésemos sentido	hubieseis sentido	hubiesen sentido	hubiesen sentido	hubiesen sentido
+pluperfect	había sentido	habías sentido	había sentido	había sentido	había sentido	habíamos sentido	habíais sentido	habían sentido	habían sentido	habían sentido
+SER | to be (permanent)
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	soy	eres	es	es	es	somos	sois	son	son	son
+preterite	fui	fuiste	fue	fue	fue	fuimos	fuisteis	fueron	fueron	fueron
+imperfect	era	eras	era	era	era	éramos	erais	eran	eran	eran
+future	seré	serás	será	será	será	seremos	seréis	serán	serán	serán
+conditional	sería	serías	sería	sería	sería	seríamos	seríais	serían	serían	serían
+present perfect	he sido	has sido	ha sido	ha sido	ha sido	hemos sido	habéis sido	han sido	han sido	han sido
+future perfect	habré sido	habrás sido	habrá sido	habrá sido	habrá sido	habremos sido	habréis sido	habrán sido	habrán sido	habrán sido
+present progressive	estoy siendo	estás siendo	está siendo	está siendo	está siendo	estamos siendo	estáis siendo	están siendo	están siendo	están siendo
+past progressive	estaba siendo	estabas siendo	estaba siendo	estaba siendo	estaba siendo	estábamos siendo	estabais siendo	estaban siendo	estaban siendo	estaban siendo
+present subjunctive	sea	seas	sea	sea	sea	seamos	seáis	sean	sean	sean
+imperfect subjunctive (-ra)	fuera	fueras	fuera	fuera	fuera	fuéramos	fuerais	fueran	fueran	fueran
+imperfect subjunctive (-se)	fuese	fueses	fuese	fuese	fuese	fuésemos	fueseis	fuesen	fuesen	fuesen
+present perfect subjunctive	haya sido	hayas sido	haya sido	haya sido	haya sido	hayamos sido	hayáis sido	hayan sido	hayan sido	hayan sido
+past perfect subjunctive (-ra)	hubiera sido	hubieras sido	hubiera sido	hubiera sido	hubiera sido	hubiéramos sido	hubierais sido	hubieran sido	hubieran sido	hubieran sido
+past perfect subjunctive (-se)	hubiese sido	hubieses sido	hubiese sido	hubiese sido	hubiese sido	hubiésemos sido	hubieseis sido	hubiesen sido	hubiesen sido	hubiesen sido
+pluperfect	había sido	habías sido	había sido	había sido	había sido	habíamos sido	habíais sido	habían sido	habían sido	habían sido
+TENER | to have
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	tengo	tienes	tiene	tiene	tiene	tenemos	tenéis	tienen	tienen	tienen
+preterite	tuve	tuviste	tuvo	tuvo	tuvo	tuvimos	tuvisteis	tuvieron	tuvieron	tuvieron
+imperfect	tenía	tenías	tenía	tenía	tenía	teníamos	teníais	tenían	tenían	tenían
+future	tendré	tendrás	tendrá	tendrá	tendrá	tendremos	tendréis	tendrán	tendrán	tendrán
+conditional	tendría	tendrías	tendría	tendría	tendría	tendríamos	tendríais	tendrían	tendrían	tendrían
+present perfect	he tenido	has tenido	ha tenido	ha tenido	ha tenido	hemos tenido	habéis tenido	han tenido	han tenido	han tenido
+future perfect	habré tenido	habrás tenido	habrá tenido	habrá tenido	habrá tenido	habremos tenido	habréis tenido	habrán tenido	habrán tenido	habrán tenido
+present progressive	estoy teniendo	estás teniendo	está teniendo	está teniendo	está teniendo	estamos teniendo	estáis teniendo	están teniendo	están teniendo	están teniendo
+past progressive	estaba teniendo	estabas teniendo	estaba teniendo	estaba teniendo	estaba teniendo	estábamos teniendo	estabais teniendo	estaban teniendo	estaban teniendo	estaban teniendo
+present subjunctive	tenga	tengas	tenga	tenga	tenga	tengamos	tengáis	tengan	tengan	tengan
+imperfect subjunctive (-ra)	tuviera	tuvieras	tuviera	tuviera	tuviera	tuviéramos	tuvierais	tuvieran	tuvieran	tuvieran
+imperfect subjunctive (-se)	tuviese	tuvieses	tuviese	tuviese	tuviese	tuviésemos	tuvieseis	tuviesen	tuviesen	tuviesen
+present perfect subjunctive	haya tenido	hayas tenido	haya tenido	haya tenido	haya tenido	hayamos tenido	hayáis tenido	hayan tenido	hayan tenido	hayan tenido
+past perfect subjunctive (-ra)	hubiera tenido	hubieras tenido	hubiera tenido	hubiera tenido	hubiera tenido	hubiéramos tenido	hubierais tenido	hubieran tenido	hubieran tenido	hubieran tenido
+past perfect subjunctive (-se)	hubiese tenido	hubieses tenido	hubiese tenido	hubiese tenido	hubiese tenido	hubiésemos tenido	hubieseis tenido	hubiesen tenido	hubiesen tenido	hubiesen tenido
+pluperfect	había tenido	habías tenido	había tenido	había tenido	había tenido	habíamos tenido	habíais tenido	habían tenido	habían tenido	habían tenido
+TRAER | to bring
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	traigo	traes	trae	trae	trae	traemos	traéis	traen	traen	traen
+preterite	traje	trajiste	trajo	trajo	trajo	trajimos	trajisteis	trajeron	trajeron	trajeron
+imperfect	traía	traías	traía	traía	traía	traíamos	traíais	traían	traían	traían
+future	traeré	traerás	traerá	traerá	traerá	traeremos	traeréis	traerán	traerán	traerán
+conditional	traería	traerías	traería	traería	traería	traeríamos	traeríais	traerían	traerían	traerían
+present perfect	he traído	has traído	ha traído	ha traído	ha traído	hemos traído	habéis traído	han traído	han traído	han traído
+future perfect	habré traído	habrás traído	habrá traído	habrá traído	habrá traído	habremos traído	habréis traído	habrán traído	habrán traído	habrán traído
+present progressive	estoy trayendo	estás trayendo	está trayendo	está trayendo	está trayendo	estamos trayendo	estáis trayendo	están trayendo	están trayendo	están trayendo
+past progressive	estaba trayendo	estabas trayendo	estaba trayendo	estaba trayendo	estaba trayendo	estábamos trayendo	estabais trayendo	estaban trayendo	estaban trayendo	estaban trayendo
+present subjunctive	traiga	traigas	traiga	traiga	traiga	traigamos	traigáis	traigan	traigan	traigan
+imperfect subjunctive (-ra)	trajera	trajeras	trajera	trajera	trajera	trajéramos	trajerais	trajeran	trajeran	trajeran
+imperfect subjunctive (-se)	trajese	trajeses	trajese	trajese	trajese	trajésemos	trajeseis	trajesen	trajesen	trajesen
+present perfect subjunctive	haya traído	hayas traído	haya traído	haya traído	haya traído	hayamos traído	hayáis traído	hayan traído	hayan traído	hayan traído
+past perfect subjunctive (-ra)	hubiera traído	hubieras traído	hubiera traído	hubiera traído	hubiera traído	hubiéramos traído	hubierais traído	hubieran traído	hubieran traído	hubieran traído
+past perfect subjunctive (-se)	hubiese traído	hubieses traído	hubiese traído	hubiese traído	hubiese traído	hubiésemos traído	hubieseis traído	hubiesen traído	hubiesen traído	hubiesen traído
+pluperfect	había traído	habías traído	había traído	había traído	había traído	habíamos traído	habíais traído	habían traído	habían traído	habían traído
+VENIR | to come
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	vengo	vienes	viene	viene	viene	venimos	venís	vienen	vienen	vienen
+preterite	vine	viniste	vino	vino	vino	vinimos	vinisteis	vinieron	vinieron	vinieron
+imperfect	venía	venías	venía	venía	venía	veníamos	veníais	venían	venían	venían
+future	vendré	vendrás	vendrá	vendrá	vendrá	vendremos	vendréis	vendrán	vendrán	vendrán
+conditional	vendría	vendrías	vendría	vendría	vendría	vendríamos	vendríais	vendrían	vendrían	vendrían
+present perfect	he venido	has venido	ha venido	ha venido	ha venido	hemos venido	habéis venido	han venido	han venido	han venido
+future perfect	habré venido	habrás venido	habrá venido	habrá venido	habrá venido	habremos venido	habréis venido	habrán venido	habrán venido	habrán venido
+present progressive	estoy viniendo	estás viniendo	está viniendo	está viniendo	está viniendo	estamos viniendo	estáis viniendo	están viniendo	están viniendo	están viniendo
+past progressive	estaba viniendo	estabas viniendo	estaba viniendo	estaba viniendo	estaba viniendo	estábamos viniendo	estabais viniendo	estaban viniendo	estaban viniendo	estaban viniendo
+present subjunctive	venga	vengas	venga	venga	venga	vengamos	vengáis	vengan	vengan	vengan
+imperfect subjunctive (-ra)	viniera	vinieras	viniera	viniera	viniera	viniéramos	vinierais	vinieran	vinieran	vinieran
+imperfect subjunctive (-se)	viniese	vinieses	viniese	viniese	viniese	viniésemos	vinieseis	viniesen	viniesen	viniesen
+present perfect subjunctive	haya venido	hayas venido	haya venido	haya venido	haya venido	hayamos venido	hayáis venido	hayan venido	hayan venido	hayan venido
+past perfect subjunctive (-ra)	hubiera venido	hubieras venido	hubiera venido	hubiera venido	hubiera venido	hubiéramos venido	hubierais venido	hubieran venido	hubieran venido	hubieran venido
+past perfect subjunctive (-se)	hubiese venido	hubieses venido	hubiese venido	hubiese venido	hubiese venido	hubiésemos venido	hubieseis venido	hubiesen venido	hubiesen venido	hubiesen venido
+pluperfect	había venido	habías venido	había venido	había venido	había venido	habíamos venido	habíais venido	habían venido	habían venido	habían venido
+VESTIRSE | to get dressed
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	me visto	te vistes	se viste	se viste	se viste	nos vestimos	os vestís	se visten	se visten	se visten
+preterite	me vestí	te vestiste	se vistió	se vistió	se vistió	nos vestimos	os vestisteis	se vistieron	se vistieron	se vistieron
+imperfect	me vestía	te vestías	se vestía	se vestía	se vestía	nos vestíamos	os vestíais	se vestían	se vestían	se vestían
+future	me vestiré	te vestirás	se vestirá	se vestirá	se vestirá	nos vestiremos	os vestiréis	se vestirán	se vestirán	se vestirán
+conditional	me vestiría	te vestirías	se vestiría	se vestiría	se vestiría	nos vestiríamos	os vestiríais	se vestirían	se vestirían	se vestirían
+present perfect	me he vestido	te has vestido	se ha vestido	se ha vestido	se ha vestido	nos hemos vestido	os habéis vestido	se han vestido	se han vestido	se han vestido
+future perfect	me habré vestido	te habrás vestido	se habrá vestido	se habrá vestido	se habrá vestido	nos habremos vestido	os habréis vestido	se habrán vestido	se habrán vestido	se habrán vestido
+present progressive	me estoy vistiendo	te estás vistiendo	se está vistiendo	se está vistiendo	se está vistiendo	nos estamos vistiendo	os estáis vistiendo	se están vistiendo	se están vistiendo	se están vistiendo
+past progressive	me estaba vistiendo	te estabas vistiendo	se estaba vistiendo	se estaba vistiendo	se estaba vistiendo	nos estábamos vistiendo	os estabais vistiendo	se estaban vistiendo	se estaban vistiendo	se estaban vistiendo
+present subjunctive	me vista	te vistas	se vista	se vista	se vista	nos vistamos	os vistáis	se vistan	se vistan	se vistan
+imperfect subjunctive (-ra)	me vistiera	te vistieras	se vistiera	se vistiera	se vistiera	nos vistiéramos	os vistierais	se vistieran	se vistieran	se vistieran
+imperfect subjunctive (-se)	me vistiese	te vistieses	se vistiese	se vistiese	se vistiese	nos vistiésemos	os vistieseis	se vistiesen	se vistiesen	se vistiesen
+present perfect subjunctive	me haya vestido	te hayas vestido	se haya vestido	se haya vestido	se haya vestido	nos hayamos vestido	os hayáis vestido	se hayan vestido	se hayan vestido	se hayan vestido
+past perfect subjunctive (-ra)	me hubiera vestido	te hubieras vestido	se hubiera vestido	se hubiera vestido	se hubiera vestido	nos hubiéramos vestido	os hubierais vestido	se hubieran vestido	se hubieran vestido	se hubieran vestido
+past perfect subjunctive (-se)	me hubiese vestido	te hubieses vestido	se hubiese vestido	se hubiese vestido	se hubiese vestido	nos hubiésemos vestido	os hubieseis vestido	se hubiesen vestido	se hubiesen vestido	se hubiesen vestido
+pluperfect	me había vestido	te habías vestido	se había vestido	se había vestido	se había vestido	nos habíamos vestido	os habíais vestido	se habían vestido	se habían vestido	se habían vestido
+VIVIR | to live
+ 	yo	tú	él	ella	usted	nosotros	vosotros	ellos	ellas	ustedes
+present	vivo	vives	vive	vive	vive	vivimos	vivís	viven	viven	viven
+preterite	viví	viviste	vivió	vivió	vivió	vivimos	vivisteis	vivieron	vivieron	vivieron
+imperfect	vivía	vivías	vivía	vivía	vivía	vivíamos	vivíais	vivían	vivían	vivían
+future	viviré	vivirás	vivirá	vivirá	vivirá	viviremos	viviréis	vivirán	vivirán	vivirán
+conditional	viviría	vivirías	viviría	viviría	viviría	viviríamos	viviríais	vivirían	vivirían	vivirían
+present perfect	he vivido	has vivido	ha vivido	ha vivido	ha vivido	hemos vivido	habéis vivido	han vivido	han vivido	han vivido
+future perfect	habré vivido	habrás vivido	habrá vivido	habrá vivido	habrá vivido	habremos vivido	habréis vivido	habrán vivido	habrán vivido	habrán vivido
+present progressive	estoy viviendo	estás viviendo	está viviendo	está viviendo	está viviendo	estamos viviendo	estáis viviendo	están viviendo	están viviendo	están viviendo
+past progressive	estaba viviendo	estabas viviendo	estaba viviendo	estaba viviendo	estaba viviendo	estábamos viviendo	estabais viviendo	estaban viviendo	estaban viviendo	estaban viviendo
+present subjunctive	viva	vivas	viva	viva	viva	vivamos	viváis	vivan	vivan	vivan
+imperfect subjunctive (-ra)	viviera	vivieras	viviera	viviera	viviera	viviéramos	vivierais	vivieran	vivieran	vivieran
+imperfect subjunctive (-se)	viviese	vivieses	viviese	viviese	viviese	viviésemos	vivieseis	viviesen	viviesen	viviesen
+present perfect subjunctive	haya vivido	hayas vivido	haya vivido	haya vivido	haya vivido	hayamos vivido	hayáis vivido	hayan vivido	hayan vivido	hayan vivido
+past perfect subjunctive (-ra)	hubiera vivido	hubieras vivido	hubiera vivido	hubiera vivido	hubiera vivido	hubiéramos vivido	hubierais vivido	hubieran vivido	hubieran vivido	hubieran vivido
+past perfect subjunctive (-se)	hubiese vivido	hubieses vivido	hubiese vivido	hubiese vivido	hubiese vivido	hubiésemos vivido	hubieseis vivido	hubiesen vivido	hubiesen vivido	hubiesen vivido
+pluperfect	había vivido	habías vivido	había vivido	había vivido	había vivido	habíamos vivido	habíais vivido	habían vivido	habían vivido	habían vivido

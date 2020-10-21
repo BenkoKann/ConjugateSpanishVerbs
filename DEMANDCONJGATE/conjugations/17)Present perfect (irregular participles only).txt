@@ -1,0 +1,84 @@
+ABRIR | to open
+yo	he abierto	nosotros	hemos abierto
+tú	has abierto	vosotros	habéis abierto
+él	ha abierto	ellos	han abierto
+ella	ha abierto	ellas	han abierto
+usted	ha abierto	ustedes	han abierto
+CUBRIR | to cover
+yo	he cubierto	nosotros	hemos cubierto
+tú	has cubierto	vosotros	habéis cubierto
+él	ha cubierto	ellos	han cubierto
+ella	ha cubierto	ellas	han cubierto
+usted	ha cubierto	ustedes	han cubierto
+DECIR | to say
+yo	he dicho	nosotros	hemos dicho
+tú	has dicho	vosotros	habéis dicho
+él	ha dicho	ellos	han dicho
+ella	ha dicho	ellas	han dicho
+usted	ha dicho	ustedes	han dicho
+ESCRIBIR | to write
+yo	he escrito	nosotros	hemos escrito
+tú	has escrito	vosotros	habéis escrito
+él	ha escrito	ellos	han escrito
+ella	ha escrito	ellas	han escrito
+usted	ha escrito	ustedes	han escrito
+FREÍR | to fry
+yo	he frito	nosotros	hemos frito
+tú	has frito	vosotros	habéis frito
+él	ha frito	ellos	han frito
+ella	ha frito	ellas	han frito
+usted	ha frito	ustedes	han frito
+HACER | to do/to make
+yo	he hecho	nosotros	hemos hecho
+tú	has hecho	vosotros	habéis hecho
+él	ha hecho	ellos	han hecho
+ella	ha hecho	ellas	han hecho
+usted	ha hecho	ustedes	han hecho
+LEER | to read
+yo	he leído	nosotros	hemos leído
+tú	has leído	vosotros	habéis leído
+él	ha leído	ellos	han leído
+ella	ha leído	ellas	han leído
+usted	ha leído	ustedes	han leído
+MORIR | to die
+yo	he muerto	nosotros	hemos muerto
+tú	has muerto	vosotros	habéis muerto
+él	ha muerto	ellos	han muerto
+ella	ha muerto	ellas	han muerto
+usted	ha muerto	ustedes	han muerto
+OÍR | to hear
+yo	he oído	nosotros	hemos oído
+tú	has oído	vosotros	habéis oído
+él	ha oído	ellos	han oído
+ella	ha oído	ellas	han oído
+usted	ha oído	ustedes	han oído
+PONER | to put
+yo	he puesto	nosotros	hemos puesto
+tú	has puesto	vosotros	habéis puesto
+él	ha puesto	ellos	han puesto
+ella	ha puesto	ellas	han puesto
+usted	ha puesto	ustedes	han puesto
+RESOLVER | to resolve
+yo	he resuelto	nosotros	hemos resuelto
+tú	has resuelto	vosotros	habéis resuelto
+él	ha resuelto	ellos	han resuelto
+ella	ha resuelto	ellas	han resuelto
+usted	ha resuelto	ustedes	han resuelto
+ROMPER | to break
+yo	he roto	nosotros	hemos roto
+tú	has roto	vosotros	habéis roto
+él	ha roto	ellos	han roto
+ella	ha roto	ellas	han roto
+usted	ha roto	ustedes	han roto
+VER | to see
+yo	he visto	nosotros	hemos visto
+tú	has visto	vosotros	habéis visto
+él	ha visto	ellos	han visto
+ella	ha visto	ellas	han visto
+usted	ha visto	ustedes	han visto
+VOLVER | to go back/to do again
+yo	he vuelto	nosotros	hemos vuelto
+tú	has vuelto	vosotros	habéis vuelto
+él	ha vuelto	ellos	han vuelto
+ella	ha vuelto	ellas	han vuelto
+usted	ha vuelto	ustedes	han vuelto

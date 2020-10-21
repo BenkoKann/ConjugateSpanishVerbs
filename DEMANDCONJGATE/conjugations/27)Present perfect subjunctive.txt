@@ -1,0 +1,246 @@
+ABRIR | to open
+yo	haya abierto	nosotros	hayamos abierto
+tú	hayas abierto	vosotros	hayáis abierto
+él	haya abierto	ellos	hayan abierto
+ella	haya abierto	ellas	hayan abierto
+usted	haya abierto	ustedes	hayan abierto
+AGUANTAR | to endure/to hold
+yo	haya aguantado	nosotros	hayamos aguantado
+tú	hayas aguantado	vosotros	hayáis aguantado
+él	haya aguantado	ellos	hayan aguantado
+ella	haya aguantado	ellas	hayan aguantado
+usted	haya aguantado	ustedes	hayan aguantado
+APRENDER | to learn
+yo	haya aprendido	nosotros	hayamos aprendido
+tú	hayas aprendido	vosotros	hayáis aprendido
+él	haya aprendido	ellos	hayan aprendido
+ella	haya aprendido	ellas	hayan aprendido
+usted	haya aprendido	ustedes	hayan aprendido
+ASISTIR | to attend
+yo	haya asistido	nosotros	hayamos asistido
+tú	hayas asistido	vosotros	hayáis asistido
+él	haya asistido	ellos	hayan asistido
+ella	haya asistido	ellas	hayan asistido
+usted	haya asistido	ustedes	hayan asistido
+BEBER | to drink
+yo	haya bebido	nosotros	hayamos bebido
+tú	hayas bebido	vosotros	hayáis bebido
+él	haya bebido	ellos	hayan bebido
+ella	haya bebido	ellas	hayan bebido
+usted	haya bebido	ustedes	hayan bebido
+BORRAR | to erase
+yo	haya borrado	nosotros	hayamos borrado
+tú	hayas borrado	vosotros	hayáis borrado
+él	haya borrado	ellos	hayan borrado
+ella	haya borrado	ellas	hayan borrado
+usted	haya borrado	ustedes	hayan borrado
+CANTAR | to sing
+yo	haya cantado	nosotros	hayamos cantado
+tú	hayas cantado	vosotros	hayáis cantado
+él	haya cantado	ellos	hayan cantado
+ella	haya cantado	ellas	hayan cantado
+usted	haya cantado	ustedes	hayan cantado
+COMER | to eat
+yo	haya comido	nosotros	hayamos comido
+tú	hayas comido	vosotros	hayáis comido
+él	haya comido	ellos	hayan comido
+ella	haya comido	ellas	hayan comido
+usted	haya comido	ustedes	hayan comido
+COMPRENDER | to understand
+yo	haya comprendido	nosotros	hayamos comprendido
+tú	hayas comprendido	vosotros	hayáis comprendido
+él	haya comprendido	ellos	hayan comprendido
+ella	haya comprendido	ellas	hayan comprendido
+usted	haya comprendido	ustedes	hayan comprendido
+DAR | to give
+yo	haya dado	nosotros	hayamos dado
+tú	hayas dado	vosotros	hayáis dado
+él	haya dado	ellos	hayan dado
+ella	haya dado	ellas	hayan dado
+usted	haya dado	ustedes	hayan dado
+DECIR | to say
+yo	haya dicho	nosotros	hayamos dicho
+tú	hayas dicho	vosotros	hayáis dicho
+él	haya dicho	ellos	hayan dicho
+ella	haya dicho	ellas	hayan dicho
+usted	haya dicho	ustedes	hayan dicho
+DESPERTARSE | to wake up
+yo	me haya despertado	nosotros	nos hayamos despertado
+tú	te hayas despertado	vosotros	os hayáis despertado
+él	se haya despertado	ellos	se hayan despertado
+ella	se haya despertado	ellas	se hayan despertado
+usted	se haya despertado	ustedes	se hayan despertado
+ESCRIBIR | to write
+yo	haya escrito	nosotros	hayamos escrito
+tú	hayas escrito	vosotros	hayáis escrito
+él	haya escrito	ellos	hayan escrito
+ella	haya escrito	ellas	hayan escrito
+usted	haya escrito	ustedes	hayan escrito
+ESCUCHAR | to listen (to)
+yo	haya escuchado	nosotros	hayamos escuchado
+tú	hayas escuchado	vosotros	hayáis escuchado
+él	haya escuchado	ellos	hayan escuchado
+ella	haya escuchado	ellas	hayan escuchado
+usted	haya escuchado	ustedes	hayan escuchado
+ESTAR | to be (location)
+yo	haya estado	nosotros	hayamos estado
+tú	hayas estado	vosotros	hayáis estado
+él	haya estado	ellos	hayan estado
+ella	haya estado	ellas	hayan estado
+usted	haya estado	ustedes	hayan estado
+ESTUDIAR | to study
+yo	haya estudiado	nosotros	hayamos estudiado
+tú	hayas estudiado	vosotros	hayáis estudiado
+él	haya estudiado	ellos	hayan estudiado
+ella	haya estudiado	ellas	hayan estudiado
+usted	haya estudiado	ustedes	hayan estudiado
+HABLAR | to talk
+yo	haya hablado	nosotros	hayamos hablado
+tú	hayas hablado	vosotros	hayáis hablado
+él	haya hablado	ellos	hayan hablado
+ella	haya hablado	ellas	hayan hablado
+usted	haya hablado	ustedes	hayan hablado
+HACER | to do/to make
+yo	haya hecho	nosotros	hayamos hecho
+tú	hayas hecho	vosotros	hayáis hecho
+él	haya hecho	ellos	hayan hecho
+ella	haya hecho	ellas	hayan hecho
+usted	haya hecho	ustedes	hayan hecho
+IR | to go
+yo	haya ido	nosotros	hayamos ido
+tú	hayas ido	vosotros	hayáis ido
+él	haya ido	ellos	hayan ido
+ella	haya ido	ellas	hayan ido
+usted	haya ido	ustedes	hayan ido
+LAVAR | to wash
+yo	haya lavado	nosotros	hayamos lavado
+tú	hayas lavado	vosotros	hayáis lavado
+él	haya lavado	ellos	hayan lavado
+ella	haya lavado	ellas	hayan lavado
+usted	haya lavado	ustedes	hayan lavado
+LEER | to read
+yo	haya leído	nosotros	hayamos leído
+tú	hayas leído	vosotros	hayáis leído
+él	haya leído	ellos	hayan leído
+ella	haya leído	ellas	hayan leído
+usted	haya leído	ustedes	hayan leído
+LEVANTARSE | to get up
+yo	me haya levantado	nosotros	nos hayamos levantado
+tú	te hayas levantado	vosotros	os hayáis levantado
+él	se haya levantado	ellos	se hayan levantado
+ella	se haya levantado	ellas	se hayan levantado
+usted	se haya levantado	ustedes	se hayan levantado
+LIMPIAR | to clean
+yo	haya limpiado	nosotros	hayamos limpiado
+tú	hayas limpiado	vosotros	hayáis limpiado
+él	haya limpiado	ellos	hayan limpiado
+ella	haya limpiado	ellas	hayan limpiado
+usted	haya limpiado	ustedes	hayan limpiado
+LLEVAR | to wear/to bring
+yo	haya llevado	nosotros	hayamos llevado
+tú	hayas llevado	vosotros	hayáis llevado
+él	haya llevado	ellos	hayan llevado
+ella	haya llevado	ellas	hayan llevado
+usted	haya llevado	ustedes	hayan llevado
+MIRAR | to look
+yo	haya mirado	nosotros	hayamos mirado
+tú	hayas mirado	vosotros	hayáis mirado
+él	haya mirado	ellos	hayan mirado
+ella	haya mirado	ellas	hayan mirado
+usted	haya mirado	ustedes	hayan mirado
+MONTAR | to get on
+yo	haya montado	nosotros	hayamos montado
+tú	hayas montado	vosotros	hayáis montado
+él	haya montado	ellos	hayan montado
+ella	haya montado	ellas	hayan montado
+usted	haya montado	ustedes	hayan montado
+MORIR | to die
+yo	haya muerto	nosotros	hayamos muerto
+tú	hayas muerto	vosotros	hayáis muerto
+él	haya muerto	ellos	hayan muerto
+ella	haya muerto	ellas	hayan muerto
+usted	haya muerto	ustedes	hayan muerto
+OÍR | to hear
+yo	haya oído	nosotros	hayamos oído
+tú	hayas oído	vosotros	hayáis oído
+él	haya oído	ellos	hayan oído
+ella	haya oído	ellas	hayan oído
+usted	haya oído	ustedes	hayan oído
+PONER | to put
+yo	haya puesto	nosotros	hayamos puesto
+tú	hayas puesto	vosotros	hayáis puesto
+él	haya puesto	ellos	hayan puesto
+ella	haya puesto	ellas	hayan puesto
+usted	haya puesto	ustedes	hayan puesto
+QUERER | to want/to love
+yo	haya querido	nosotros	hayamos querido
+tú	hayas querido	vosotros	hayáis querido
+él	haya querido	ellos	hayan querido
+ella	haya querido	ellas	hayan querido
+usted	haya querido	ustedes	hayan querido
+QUITARSE | to take off
+yo	me haya quitado	nosotros	nos hayamos quitado
+tú	te hayas quitado	vosotros	os hayáis quitado
+él	se haya quitado	ellos	se hayan quitado
+ella	se haya quitado	ellas	se hayan quitado
+usted	se haya quitado	ustedes	se hayan quitado
+ROMPER | to break
+yo	haya roto	nosotros	hayamos roto
+tú	hayas roto	vosotros	hayáis roto
+él	haya roto	ellos	hayan roto
+ella	haya roto	ellas	hayan roto
+usted	haya roto	ustedes	hayan roto
+SACAR | to take out
+yo	haya sacado	nosotros	hayamos sacado
+tú	hayas sacado	vosotros	hayáis sacado
+él	haya sacado	ellos	hayan sacado
+ella	haya sacado	ellas	hayan sacado
+usted	haya sacado	ustedes	hayan sacado
+SALIR | to depart
+yo	haya salido	nosotros	hayamos salido
+tú	hayas salido	vosotros	hayáis salido
+él	haya salido	ellos	hayan salido
+ella	haya salido	ellas	hayan salido
+usted	haya salido	ustedes	hayan salido
+SER | to be (permanent)
+yo	haya sido	nosotros	hayamos sido
+tú	hayas sido	vosotros	hayáis sido
+él	haya sido	ellos	hayan sido
+ella	haya sido	ellas	hayan sido
+usted	haya sido	ustedes	hayan sido
+TOMAR | to take/to drink
+yo	haya tomado	nosotros	hayamos tomado
+tú	hayas tomado	vosotros	hayáis tomado
+él	haya tomado	ellos	hayan tomado
+ella	haya tomado	ellas	hayan tomado
+usted	haya tomado	ustedes	hayan tomado
+VENIR | to come
+yo	haya venido	nosotros	hayamos venido
+tú	hayas venido	vosotros	hayáis venido
+él	haya venido	ellos	hayan venido
+ella	haya venido	ellas	hayan venido
+usted	haya venido	ustedes	hayan venido
+VER | to see
+yo	haya visto	nosotros	hayamos visto
+tú	hayas visto	vosotros	hayáis visto
+él	haya visto	ellos	hayan visto
+ella	haya visto	ellas	hayan visto
+usted	haya visto	ustedes	hayan visto
+VESTIRSE | to get dressed
+yo	me haya vestido	nosotros	nos hayamos vestido
+tú	te hayas vestido	vosotros	os hayáis vestido
+él	se haya vestido	ellos	se hayan vestido
+ella	se haya vestido	ellas	se hayan vestido
+usted	se haya vestido	ustedes	se hayan vestido
+VIVIR | to live
+yo	haya vivido	nosotros	hayamos vivido
+tú	hayas vivido	vosotros	hayáis vivido
+él	haya vivido	ellos	hayan vivido
+ella	haya vivido	ellas	hayan vivido
+usted	haya vivido	ustedes	hayan vivido
+VOLVER | to go back/to do again
+yo	haya vuelto	nosotros	hayamos vuelto
+tú	hayas vuelto	vosotros	hayáis vuelto
+él	haya vuelto	ellos	hayan vuelto
+ella	haya vuelto	ellas	hayan vuelto
+usted	haya vuelto	ustedes	hayan vuelto

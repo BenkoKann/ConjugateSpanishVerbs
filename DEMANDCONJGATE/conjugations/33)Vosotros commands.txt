@@ -1,0 +1,80 @@
+ABRIR | to open
+vosotros	abrid/no abráis
+ACOSTARSE | to go to bed (lie down)
+vosotros	acostaos/no os acostéis
+ALMORZAR | to have lunch
+vosotros	almorzad/no almorcéis
+BEBER | to drink
+vosotros	bebed/no bebáis
+CALLARSE | to be silent
+vosotros	callaos/no os calléis
+CEPILLARSE | to brush oneself
+vosotros	cepillaos/no os cepilléis
+CERRAR | to close
+vosotros	cerrad/no cerréis
+COMER | to eat
+vosotros	comed/no comáis
+DECIR | to say
+vosotros	decid/no digáis
+DESPERTARSE | to wake up
+vosotros	despertaos/no os despertéis
+DUCHARSE | to take a shower
+vosotros	duchaos/no os duchéis
+ENTRAR | to enter
+vosotros	entrad/no entréis
+ESCOGER | to choose
+vosotros	escoged/no escojáis
+ESCRIBIR | to write
+vosotros	escribid/no escribáis
+FREGAR | to wash dishes
+vosotros	fregad/no freguéis
+HABLAR | to talk
+vosotros	hablad/no habléis
+HACER | to do/to make
+vosotros	haced/no hagáis
+IR | to go
+vosotros	id/no vayáis
+IRSE | to leave
+vosotros	idos/no os vayáis
+JUGAR | to play
+vosotros	jugad/no juguéis
+LEVANTARSE | to get up
+vosotros	levantaos/no os levantéis
+LIMPIAR | to clean
+vosotros	limpiad/no limpiéis
+MAQUILLARSE | to put on make-up
+vosotros	maquillaos/no os maquilléis
+MIRAR | to look
+vosotros	mirad/no miréis
+PEINARSE | to comb one's hair
+vosotros	peinaos/no os peinéis
+PENSAR | to think
+vosotros	pensad/no penséis
+PONERSE | to put on/to become (emotion)
+vosotros	poneos/no os pongáis
+QUITARSE | to take off
+vosotros	quitaos/no os quitéis
+SACAR | to take out
+vosotros	sacad/no saquéis
+SALIR | to depart
+vosotros	salid/no salgáis
+SECARSE | to dry oneself
+vosotros	secaos/no os sequéis
+SENTARSE | to sit down
+vosotros	sentaos/no os sentéis
+SER | to be (permanent)
+vosotros	sed/no seáis
+SUBIR | to go up/to rise
+vosotros	subid/no subáis
+TENER | to have
+vosotros	tened/no tengáis
+TOMAR | to take/to drink
+vosotros	tomad/no toméis
+VENIR | to come
+vosotros	venid/no vengáis
+VER | to see
+vosotros	ved/no veáis
+VESTIRSE | to get dressed
+vosotros	vestíos/no os vistáis
+VIVIR | to live
+vosotros	vivid/no viváis

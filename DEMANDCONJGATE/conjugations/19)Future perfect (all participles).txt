@@ -1,0 +1,246 @@
+ABRIR | to open
+yo	habré abierto	nosotros	habremos abierto
+tú	habrás abierto	vosotros	habréis abierto
+él	habrá abierto	ellos	habrán abierto
+ella	habrá abierto	ellas	habrán abierto
+usted	habrá abierto	ustedes	habrán abierto
+AGUANTAR | to endure/to hold
+yo	habré aguantado	nosotros	habremos aguantado
+tú	habrás aguantado	vosotros	habréis aguantado
+él	habrá aguantado	ellos	habrán aguantado
+ella	habrá aguantado	ellas	habrán aguantado
+usted	habrá aguantado	ustedes	habrán aguantado
+APRENDER | to learn
+yo	habré aprendido	nosotros	habremos aprendido
+tú	habrás aprendido	vosotros	habréis aprendido
+él	habrá aprendido	ellos	habrán aprendido
+ella	habrá aprendido	ellas	habrán aprendido
+usted	habrá aprendido	ustedes	habrán aprendido
+ASISTIR | to attend
+yo	habré asistido	nosotros	habremos asistido
+tú	habrás asistido	vosotros	habréis asistido
+él	habrá asistido	ellos	habrán asistido
+ella	habrá asistido	ellas	habrán asistido
+usted	habrá asistido	ustedes	habrán asistido
+BEBER | to drink
+yo	habré bebido	nosotros	habremos bebido
+tú	habrás bebido	vosotros	habréis bebido
+él	habrá bebido	ellos	habrán bebido
+ella	habrá bebido	ellas	habrán bebido
+usted	habrá bebido	ustedes	habrán bebido
+BORRAR | to erase
+yo	habré borrado	nosotros	habremos borrado
+tú	habrás borrado	vosotros	habréis borrado
+él	habrá borrado	ellos	habrán borrado
+ella	habrá borrado	ellas	habrán borrado
+usted	habrá borrado	ustedes	habrán borrado
+CANTAR | to sing
+yo	habré cantado	nosotros	habremos cantado
+tú	habrás cantado	vosotros	habréis cantado
+él	habrá cantado	ellos	habrán cantado
+ella	habrá cantado	ellas	habrán cantado
+usted	habrá cantado	ustedes	habrán cantado
+COMER | to eat
+yo	habré comido	nosotros	habremos comido
+tú	habrás comido	vosotros	habréis comido
+él	habrá comido	ellos	habrán comido
+ella	habrá comido	ellas	habrán comido
+usted	habrá comido	ustedes	habrán comido
+COMPRENDER | to understand
+yo	habré comprendido	nosotros	habremos comprendido
+tú	habrás comprendido	vosotros	habréis comprendido
+él	habrá comprendido	ellos	habrán comprendido
+ella	habrá comprendido	ellas	habrán comprendido
+usted	habrá comprendido	ustedes	habrán comprendido
+DAR | to give
+yo	habré dado	nosotros	habremos dado
+tú	habrás dado	vosotros	habréis dado
+él	habrá dado	ellos	habrán dado
+ella	habrá dado	ellas	habrán dado
+usted	habrá dado	ustedes	habrán dado
+DECIR | to say
+yo	habré dicho	nosotros	habremos dicho
+tú	habrás dicho	vosotros	habréis dicho
+él	habrá dicho	ellos	habrán dicho
+ella	habrá dicho	ellas	habrán dicho
+usted	habrá dicho	ustedes	habrán dicho
+DESPERTARSE | to wake up
+yo	me habré despertado	nosotros	nos habremos despertado
+tú	te habrás despertado	vosotros	os habréis despertado
+él	se habrá despertado	ellos	se habrán despertado
+ella	se habrá despertado	ellas	se habrán despertado
+usted	se habrá despertado	ustedes	se habrán despertado
+ESCRIBIR | to write
+yo	habré escrito	nosotros	habremos escrito
+tú	habrás escrito	vosotros	habréis escrito
+él	habrá escrito	ellos	habrán escrito
+ella	habrá escrito	ellas	habrán escrito
+usted	habrá escrito	ustedes	habrán escrito
+ESCUCHAR | to listen (to)
+yo	habré escuchado	nosotros	habremos escuchado
+tú	habrás escuchado	vosotros	habréis escuchado
+él	habrá escuchado	ellos	habrán escuchado
+ella	habrá escuchado	ellas	habrán escuchado
+usted	habrá escuchado	ustedes	habrán escuchado
+ESTAR | to be (location)
+yo	habré estado	nosotros	habremos estado
+tú	habrás estado	vosotros	habréis estado
+él	habrá estado	ellos	habrán estado
+ella	habrá estado	ellas	habrán estado
+usted	habrá estado	ustedes	habrán estado
+ESTUDIAR | to study
+yo	habré estudiado	nosotros	habremos estudiado
+tú	habrás estudiado	vosotros	habréis estudiado
+él	habrá estudiado	ellos	habrán estudiado
+ella	habrá estudiado	ellas	habrán estudiado
+usted	habrá estudiado	ustedes	habrán estudiado
+HABLAR | to talk
+yo	habré hablado	nosotros	habremos hablado
+tú	habrás hablado	vosotros	habréis hablado
+él	habrá hablado	ellos	habrán hablado
+ella	habrá hablado	ellas	habrán hablado
+usted	habrá hablado	ustedes	habrán hablado
+HACER | to do/to make
+yo	habré hecho	nosotros	habremos hecho
+tú	habrás hecho	vosotros	habréis hecho
+él	habrá hecho	ellos	habrán hecho
+ella	habrá hecho	ellas	habrán hecho
+usted	habrá hecho	ustedes	habrán hecho
+IR | to go
+yo	habré ido	nosotros	habremos ido
+tú	habrás ido	vosotros	habréis ido
+él	habrá ido	ellos	habrán ido
+ella	habrá ido	ellas	habrán ido
+usted	habrá ido	ustedes	habrán ido
+LAVAR | to wash
+yo	habré lavado	nosotros	habremos lavado
+tú	habrás lavado	vosotros	habréis lavado
+él	habrá lavado	ellos	habrán lavado
+ella	habrá lavado	ellas	habrán lavado
+usted	habrá lavado	ustedes	habrán lavado
+LEER | to read
+yo	habré leído	nosotros	habremos leído
+tú	habrás leído	vosotros	habréis leído
+él	habrá leído	ellos	habrán leído
+ella	habrá leído	ellas	habrán leído
+usted	habrá leído	ustedes	habrán leído
+LEVANTARSE | to get up
+yo	me habré levantado	nosotros	nos habremos levantado
+tú	te habrás levantado	vosotros	os habréis levantado
+él	se habrá levantado	ellos	se habrán levantado
+ella	se habrá levantado	ellas	se habrán levantado
+usted	se habrá levantado	ustedes	se habrán levantado
+LIMPIAR | to clean
+yo	habré limpiado	nosotros	habremos limpiado
+tú	habrás limpiado	vosotros	habréis limpiado
+él	habrá limpiado	ellos	habrán limpiado
+ella	habrá limpiado	ellas	habrán limpiado
+usted	habrá limpiado	ustedes	habrán limpiado
+LLEVAR | to wear/to bring
+yo	habré llevado	nosotros	habremos llevado
+tú	habrás llevado	vosotros	habréis llevado
+él	habrá llevado	ellos	habrán llevado
+ella	habrá llevado	ellas	habrán llevado
+usted	habrá llevado	ustedes	habrán llevado
+MIRAR | to look
+yo	habré mirado	nosotros	habremos mirado
+tú	habrás mirado	vosotros	habréis mirado
+él	habrá mirado	ellos	habrán mirado
+ella	habrá mirado	ellas	habrán mirado
+usted	habrá mirado	ustedes	habrán mirado
+MONTAR | to get on
+yo	habré montado	nosotros	habremos montado
+tú	habrás montado	vosotros	habréis montado
+él	habrá montado	ellos	habrán montado
+ella	habrá montado	ellas	habrán montado
+usted	habrá montado	ustedes	habrán montado
+MORIR | to die
+yo	habré muerto	nosotros	habremos muerto
+tú	habrás muerto	vosotros	habréis muerto
+él	habrá muerto	ellos	habrán muerto
+ella	habrá muerto	ellas	habrán muerto
+usted	habrá muerto	ustedes	habrán muerto
+OÍR | to hear
+yo	habré oído	nosotros	habremos oído
+tú	habrás oído	vosotros	habréis oído
+él	habrá oído	ellos	habrán oído
+ella	habrá oído	ellas	habrán oído
+usted	habrá oído	ustedes	habrán oído
+PONER | to put
+yo	habré puesto	nosotros	habremos puesto
+tú	habrás puesto	vosotros	habréis puesto
+él	habrá puesto	ellos	habrán puesto
+ella	habrá puesto	ellas	habrán puesto
+usted	habrá puesto	ustedes	habrán puesto
+QUERER | to want/to love
+yo	habré querido	nosotros	habremos querido
+tú	habrás querido	vosotros	habréis querido
+él	habrá querido	ellos	habrán querido
+ella	habrá querido	ellas	habrán querido
+usted	habrá querido	ustedes	habrán querido
+QUITARSE | to take off
+yo	me habré quitado	nosotros	nos habremos quitado
+tú	te habrás quitado	vosotros	os habréis quitado
+él	se habrá quitado	ellos	se habrán quitado
+ella	se habrá quitado	ellas	se habrán quitado
+usted	se habrá quitado	ustedes	se habrán quitado
+ROMPER | to break
+yo	habré roto	nosotros	habremos roto
+tú	habrás roto	vosotros	habréis roto
+él	habrá roto	ellos	habrán roto
+ella	habrá roto	ellas	habrán roto
+usted	habrá roto	ustedes	habrán roto
+SACAR | to take out
+yo	habré sacado	nosotros	habremos sacado
+tú	habrás sacado	vosotros	habréis sacado
+él	habrá sacado	ellos	habrán sacado
+ella	habrá sacado	ellas	habrán sacado
+usted	habrá sacado	ustedes	habrán sacado
+SALIR | to depart
+yo	habré salido	nosotros	habremos salido
+tú	habrás salido	vosotros	habréis salido
+él	habrá salido	ellos	habrán salido
+ella	habrá salido	ellas	habrán salido
+usted	habrá salido	ustedes	habrán salido
+SER | to be (permanent)
+yo	habré sido	nosotros	habremos sido
+tú	habrás sido	vosotros	habréis sido
+él	habrá sido	ellos	habrán sido
+ella	habrá sido	ellas	habrán sido
+usted	habrá sido	ustedes	habrán sido
+TOMAR | to take/to drink
+yo	habré tomado	nosotros	habremos tomado
+tú	habrás tomado	vosotros	habréis tomado
+él	habrá tomado	ellos	habrán tomado
+ella	habrá tomado	ellas	habrán tomado
+usted	habrá tomado	ustedes	habrán tomado
+VENIR | to come
+yo	habré venido	nosotros	habremos venido
+tú	habrás venido	vosotros	habréis venido
+él	habrá venido	ellos	habrán venido
+ella	habrá venido	ellas	habrán venido
+usted	habrá venido	ustedes	habrán venido
+VER | to see
+yo	habré visto	nosotros	habremos visto
+tú	habrás visto	vosotros	habréis visto
+él	habrá visto	ellos	habrán visto
+ella	habrá visto	ellas	habrán visto
+usted	habrá visto	ustedes	habrán visto
+VESTIRSE | to get dressed
+yo	me habré vestido	nosotros	nos habremos vestido
+tú	te habrás vestido	vosotros	os habréis vestido
+él	se habrá vestido	ellos	se habrán vestido
+ella	se habrá vestido	ellas	se habrán vestido
+usted	se habrá vestido	ustedes	se habrán vestido
+VIVIR | to live
+yo	habré vivido	nosotros	habremos vivido
+tú	habrás vivido	vosotros	habréis vivido
+él	habrá vivido	ellos	habrán vivido
+ella	habrá vivido	ellas	habrán vivido
+usted	habrá vivido	ustedes	habrán vivido
+VOLVER | to go back/to do again
+yo	habré vuelto	nosotros	habremos vuelto
+tú	habrás vuelto	vosotros	habréis vuelto
+él	habrá vuelto	ellos	habrán vuelto
+ella	habrá vuelto	ellas	habrán vuelto
+usted	habrá vuelto	ustedes	habrán vuelto

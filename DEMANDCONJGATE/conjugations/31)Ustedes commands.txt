@@ -1,0 +1,80 @@
+ABRIR | to open
+ustedes	abran/no abran
+ACOSTARSE | to go to bed (lie down)
+ustedes	acuéstense/no se acuesten
+ALMORZAR | to have lunch
+ustedes	almuercen/no almuercen
+BEBER | to drink
+ustedes	beban/no beban
+CALLARSE | to be silent
+ustedes	cállense/no se callen
+CEPILLARSE | to brush oneself
+ustedes	cepíllense/no se cepillen
+CERRAR | to close
+ustedes	cierren/no cierren
+COMER | to eat
+ustedes	coman/no coman
+DECIR | to say
+ustedes	digan/no digan
+DESPERTARSE | to wake up
+ustedes	despiértense/no se despierten
+DUCHARSE | to take a shower
+ustedes	dúchense/no se duchen
+ENTRAR | to enter
+ustedes	entren/no entren
+ESCOGER | to choose
+ustedes	escojan/no escojan
+ESCRIBIR | to write
+ustedes	escriban/no escriban
+FREGAR | to wash dishes
+ustedes	frieguen/no frieguen
+HABLAR | to talk
+ustedes	hablen/no hablen
+HACER | to do/to make
+ustedes	hagan/no hagan
+IR | to go
+ustedes	vayan/no vayan
+IRSE | to leave
+ustedes	váyanse/no se vayan
+JUGAR | to play
+ustedes	jueguen/no jueguen
+LEVANTARSE | to get up
+ustedes	levántense/no se levanten
+LIMPIAR | to clean
+ustedes	limpien/no limpien
+MAQUILLARSE | to put on make-up
+ustedes	maquíllense/no se maquillen
+MIRAR | to look
+ustedes	miren/no miren
+PEINARSE | to comb one's hair
+ustedes	péinense/no se peinen
+PENSAR | to think
+ustedes	piensen/no piensen
+PONERSE | to put on/to become (emotion)
+ustedes	pónganse/no se pongan
+QUITARSE | to take off
+ustedes	quítense/no se quiten
+SACAR | to take out
+ustedes	saquen/no saquen
+SALIR | to depart
+ustedes	salgan/no salgan
+SECARSE | to dry oneself
+ustedes	séquense/no se sequen
+SENTARSE | to sit down
+ustedes	siéntense/no se sienten
+SER | to be (permanent)
+ustedes	sean/no sean
+SUBIR | to go up/to rise
+ustedes	suban/no suban
+TENER | to have
+ustedes	tengan/no tengan
+TOMAR | to take/to drink
+ustedes	tomen/no tomen
+VENIR | to come
+ustedes	vengan/no vengan
+VER | to see
+ustedes	vean/no vean
+VESTIRSE | to get dressed
+ustedes	vístanse/no se vistan
+VIVIR | to live
+ustedes	vivan/no vivan

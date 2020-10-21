@@ -1,0 +1,80 @@
+ABRIR | to open
+tú	abre/no abras
+ACOSTARSE | to go to bed (lie down)
+tú	acuéstate/no te acuestes
+ALMORZAR | to have lunch
+tú	almuerza/no almuerces
+BEBER | to drink
+tú	bebe/no bebas
+CALLARSE | to be silent
+tú	cállate/no te calles
+CEPILLARSE | to brush oneself
+tú	cepíllate/no te cepilles
+CERRAR | to close
+tú	cierra/no cierres
+COMER | to eat
+tú	come/no comas
+DECIR | to say
+tú	di/no digas
+DESPERTARSE | to wake up
+tú	despiértate/no te despiertes
+DUCHARSE | to take a shower
+tú	dúchate/no te duches
+ENTRAR | to enter
+tú	entra/no entres
+ESCOGER | to choose
+tú	escoge/no escojas
+ESCRIBIR | to write
+tú	escribe/no escribas
+FREGAR | to wash dishes
+tú	friega/no friegues
+HABLAR | to talk
+tú	habla/no hables
+HACER | to do/to make
+tú	haz/no hagas
+IR | to go
+tú	ve/no vayas
+IRSE | to leave
+tú	vete/no te vayas
+JUGAR | to play
+tú	juega/no juegues
+LEVANTARSE | to get up
+tú	levántate/no te levantes
+LIMPIAR | to clean
+tú	limpia/no limpies
+MAQUILLARSE | to put on make-up
+tú	maquíllate/no te maquilles
+MIRAR | to look
+tú	mira/no mires
+PEINARSE | to comb one's hair
+tú	péinate/no te peines
+PENSAR | to think
+tú	piensa/no pienses
+PONERSE | to put on/to become (emotion)
+tú	ponte/no te pongas
+QUITARSE | to take off
+tú	quítate/no te quites
+SACAR | to take out
+tú	saca/no saques
+SALIR | to depart
+tú	sal/no salgas
+SECARSE | to dry oneself
+tú	sécate/no te seques
+SENTARSE | to sit down
+tú	siéntate/no te sientes
+SER | to be (permanent)
+tú	sé/no seas
+SUBIR | to go up/to rise
+tú	sube/no subas
+TENER | to have
+tú	ten/no tengas
+TOMAR | to take/to drink
+tú	toma/no tomes
+VENIR | to come
+tú	ven/no vengas
+VER | to see
+tú	ve/no veas
+VESTIRSE | to get dressed
+tú	vístete/no te vistas
+VIVIR | to live
+tú	vive/no vivas

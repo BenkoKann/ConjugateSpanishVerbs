@@ -1,0 +1,180 @@
+APRENDER | to learn
+yo	estoy aprendiendo	nosotros	estamos aprendiendo
+tú	estás aprendiendo	vosotros	estáis aprendiendo
+él	está aprendiendo	ellos	están aprendiendo
+ella	está aprendiendo	ellas	están aprendiendo
+usted	está aprendiendo	ustedes	están aprendiendo
+ASISTIR | to attend
+yo	estoy asistiendo	nosotros	estamos asistiendo
+tú	estás asistiendo	vosotros	estáis asistiendo
+él	está asistiendo	ellos	están asistiendo
+ella	está asistiendo	ellas	están asistiendo
+usted	está asistiendo	ustedes	están asistiendo
+BORRAR | to erase
+yo	estoy borrando	nosotros	estamos borrando
+tú	estás borrando	vosotros	estáis borrando
+él	está borrando	ellos	están borrando
+ella	está borrando	ellas	están borrando
+usted	está borrando	ustedes	están borrando
+CANTAR | to sing
+yo	estoy cantando	nosotros	estamos cantando
+tú	estás cantando	vosotros	estáis cantando
+él	está cantando	ellos	están cantando
+ella	está cantando	ellas	están cantando
+usted	está cantando	ustedes	están cantando
+COMER | to eat
+yo	estoy comiendo	nosotros	estamos comiendo
+tú	estás comiendo	vosotros	estáis comiendo
+él	está comiendo	ellos	están comiendo
+ella	está comiendo	ellas	están comiendo
+usted	está comiendo	ustedes	están comiendo
+COMPRENDER | to understand
+yo	estoy comprendiendo	nosotros	estamos comprendiendo
+tú	estás comprendiendo	vosotros	estáis comprendiendo
+él	está comprendiendo	ellos	están comprendiendo
+ella	está comprendiendo	ellas	están comprendiendo
+usted	está comprendiendo	ustedes	están comprendiendo
+CREER | to believe
+yo	estoy creyendo	nosotros	estamos creyendo
+tú	estás creyendo	vosotros	estáis creyendo
+él	está creyendo	ellos	están creyendo
+ella	está creyendo	ellas	están creyendo
+usted	está creyendo	ustedes	están creyendo
+DAR | to give
+yo	estoy dando	nosotros	estamos dando
+tú	estás dando	vosotros	estáis dando
+él	está dando	ellos	están dando
+ella	está dando	ellas	están dando
+usted	está dando	ustedes	están dando
+DESPERTARSE | to wake up
+yo	me estoy despertando	nosotros	nos estamos despertando
+tú	te estás despertando	vosotros	os estáis despertando
+él	se está despertando	ellos	se están despertando
+ella	se está despertando	ellas	se están despertando
+usted	se está despertando	ustedes	se están despertando
+DORMIR | to sleep
+yo	estoy durmiendo	nosotros	estamos durmiendo
+tú	estás durmiendo	vosotros	estáis durmiendo
+él	está durmiendo	ellos	están durmiendo
+ella	está durmiendo	ellas	están durmiendo
+usted	está durmiendo	ustedes	están durmiendo
+ESCUCHAR | to listen (to)
+yo	estoy escuchando	nosotros	estamos escuchando
+tú	estás escuchando	vosotros	estáis escuchando
+él	está escuchando	ellos	están escuchando
+ella	está escuchando	ellas	están escuchando
+usted	está escuchando	ustedes	están escuchando
+ESTAR | to be (location)
+yo	estoy estando	nosotros	estamos estando
+tú	estás estando	vosotros	estáis estando
+él	está estando	ellos	están estando
+ella	está estando	ellas	están estando
+usted	está estando	ustedes	están estando
+ESTUDIAR | to study
+yo	estoy estudiando	nosotros	estamos estudiando
+tú	estás estudiando	vosotros	estáis estudiando
+él	está estudiando	ellos	están estudiando
+ella	está estudiando	ellas	están estudiando
+usted	está estudiando	ustedes	están estudiando
+HABLAR | to talk
+yo	estoy hablando	nosotros	estamos hablando
+tú	estás hablando	vosotros	estáis hablando
+él	está hablando	ellos	están hablando
+ella	está hablando	ellas	están hablando
+usted	está hablando	ustedes	están hablando
+IR | to go
+yo	estoy yendo	nosotros	estamos yendo
+tú	estás yendo	vosotros	estáis yendo
+él	está yendo	ellos	están yendo
+ella	está yendo	ellas	están yendo
+usted	está yendo	ustedes	están yendo
+LEER | to read
+yo	estoy leyendo	nosotros	estamos leyendo
+tú	estás leyendo	vosotros	estáis leyendo
+él	está leyendo	ellos	están leyendo
+ella	está leyendo	ellas	están leyendo
+usted	está leyendo	ustedes	están leyendo
+LEVANTARSE | to get up
+yo	me estoy levantando	nosotros	nos estamos levantando
+tú	te estás levantando	vosotros	os estáis levantando
+él	se está levantando	ellos	se están levantando
+ella	se está levantando	ellas	se están levantando
+usted	se está levantando	ustedes	se están levantando
+MIRAR | to look
+yo	estoy mirando	nosotros	estamos mirando
+tú	estás mirando	vosotros	estáis mirando
+él	está mirando	ellos	están mirando
+ella	está mirando	ellas	están mirando
+usted	está mirando	ustedes	están mirando
+MONTAR | to get on
+yo	estoy montando	nosotros	estamos montando
+tú	estás montando	vosotros	estáis montando
+él	está montando	ellos	están montando
+ella	está montando	ellas	están montando
+usted	está montando	ustedes	están montando
+PEDIR | to ask for
+yo	estoy pidiendo	nosotros	estamos pidiendo
+tú	estás pidiendo	vosotros	estáis pidiendo
+él	está pidiendo	ellos	están pidiendo
+ella	está pidiendo	ellas	están pidiendo
+usted	está pidiendo	ustedes	están pidiendo
+QUERER | to want/to love
+yo	estoy queriendo	nosotros	estamos queriendo
+tú	estás queriendo	vosotros	estáis queriendo
+él	está queriendo	ellos	están queriendo
+ella	está queriendo	ellas	están queriendo
+usted	está queriendo	ustedes	están queriendo
+QUITARSE | to take off
+yo	me estoy quitando	nosotros	nos estamos quitando
+tú	te estás quitando	vosotros	os estáis quitando
+él	se está quitando	ellos	se están quitando
+ella	se está quitando	ellas	se están quitando
+usted	se está quitando	ustedes	se están quitando
+SALIR | to depart
+yo	estoy saliendo	nosotros	estamos saliendo
+tú	estás saliendo	vosotros	estáis saliendo
+él	está saliendo	ellos	están saliendo
+ella	está saliendo	ellas	están saliendo
+usted	está saliendo	ustedes	están saliendo
+SENTIR | to feel ( to feel sorry)
+yo	estoy sintiendo	nosotros	estamos sintiendo
+tú	estás sintiendo	vosotros	estáis sintiendo
+él	está sintiendo	ellos	están sintiendo
+ella	está sintiendo	ellas	están sintiendo
+usted	está sintiendo	ustedes	están sintiendo
+SER | to be (permanent)
+yo	estoy siendo	nosotros	estamos siendo
+tú	estás siendo	vosotros	estáis siendo
+él	está siendo	ellos	están siendo
+ella	está siendo	ellas	están siendo
+usted	está siendo	ustedes	están siendo
+TOMAR | to take/to drink
+yo	estoy tomando	nosotros	estamos tomando
+tú	estás tomando	vosotros	estáis tomando
+él	está tomando	ellos	están tomando
+ella	está tomando	ellas	están tomando
+usted	está tomando	ustedes	están tomando
+TRAER | to bring
+yo	estoy trayendo	nosotros	estamos trayendo
+tú	estás trayendo	vosotros	estáis trayendo
+él	está trayendo	ellos	están trayendo
+ella	está trayendo	ellas	están trayendo
+usted	está trayendo	ustedes	están trayendo
+VENIR | to come
+yo	estoy viniendo	nosotros	estamos viniendo
+tú	estás viniendo	vosotros	estáis viniendo
+él	está viniendo	ellos	están viniendo
+ella	está viniendo	ellas	están viniendo
+usted	está viniendo	ustedes	están viniendo
+VESTIRSE | to get dressed
+yo	me estoy vistiendo	nosotros	nos estamos vistiendo
+tú	te estás vistiendo	vosotros	os estáis vistiendo
+él	se está vistiendo	ellos	se están vistiendo
+ella	se está vistiendo	ellas	se están vistiendo
+usted	se está vistiendo	ustedes	se están vistiendo
+VIVIR | to live
+yo	estoy viviendo	nosotros	estamos viviendo
+tú	estás viviendo	vosotros	estáis viviendo
+él	está viviendo	ellos	están viviendo
+ella	está viviendo	ellas	están viviendo
+usted	está viviendo	ustedes	están viviendo

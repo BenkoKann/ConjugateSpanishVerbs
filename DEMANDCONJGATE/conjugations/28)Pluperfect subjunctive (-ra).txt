@@ -1,0 +1,246 @@
+ABRIR | to open
+yo	hubiera abierto	nosotros	hubiéramos abierto
+tú	hubieras abierto	vosotros	hubierais abierto
+él	hubiera abierto	ellos	hubieran abierto
+ella	hubiera abierto	ellas	hubieran abierto
+usted	hubiera abierto	ustedes	hubieran abierto
+AGUANTAR | to endure/to hold
+yo	hubiera aguantado	nosotros	hubiéramos aguantado
+tú	hubieras aguantado	vosotros	hubierais aguantado
+él	hubiera aguantado	ellos	hubieran aguantado
+ella	hubiera aguantado	ellas	hubieran aguantado
+usted	hubiera aguantado	ustedes	hubieran aguantado
+APRENDER | to learn
+yo	hubiera aprendido	nosotros	hubiéramos aprendido
+tú	hubieras aprendido	vosotros	hubierais aprendido
+él	hubiera aprendido	ellos	hubieran aprendido
+ella	hubiera aprendido	ellas	hubieran aprendido
+usted	hubiera aprendido	ustedes	hubieran aprendido
+ASISTIR | to attend
+yo	hubiera asistido	nosotros	hubiéramos asistido
+tú	hubieras asistido	vosotros	hubierais asistido
+él	hubiera asistido	ellos	hubieran asistido
+ella	hubiera asistido	ellas	hubieran asistido
+usted	hubiera asistido	ustedes	hubieran asistido
+BEBER | to drink
+yo	hubiera bebido	nosotros	hubiéramos bebido
+tú	hubieras bebido	vosotros	hubierais bebido
+él	hubiera bebido	ellos	hubieran bebido
+ella	hubiera bebido	ellas	hubieran bebido
+usted	hubiera bebido	ustedes	hubieran bebido
+BORRAR | to erase
+yo	hubiera borrado	nosotros	hubiéramos borrado
+tú	hubieras borrado	vosotros	hubierais borrado
+él	hubiera borrado	ellos	hubieran borrado
+ella	hubiera borrado	ellas	hubieran borrado
+usted	hubiera borrado	ustedes	hubieran borrado
+CANTAR | to sing
+yo	hubiera cantado	nosotros	hubiéramos cantado
+tú	hubieras cantado	vosotros	hubierais cantado
+él	hubiera cantado	ellos	hubieran cantado
+ella	hubiera cantado	ellas	hubieran cantado
+usted	hubiera cantado	ustedes	hubieran cantado
+COMER | to eat
+yo	hubiera comido	nosotros	hubiéramos comido
+tú	hubieras comido	vosotros	hubierais comido
+él	hubiera comido	ellos	hubieran comido
+ella	hubiera comido	ellas	hubieran comido
+usted	hubiera comido	ustedes	hubieran comido
+COMPRENDER | to understand
+yo	hubiera comprendido	nosotros	hubiéramos comprendido
+tú	hubieras comprendido	vosotros	hubierais comprendido
+él	hubiera comprendido	ellos	hubieran comprendido
+ella	hubiera comprendido	ellas	hubieran comprendido
+usted	hubiera comprendido	ustedes	hubieran comprendido
+DAR | to give
+yo	hubiera dado	nosotros	hubiéramos dado
+tú	hubieras dado	vosotros	hubierais dado
+él	hubiera dado	ellos	hubieran dado
+ella	hubiera dado	ellas	hubieran dado
+usted	hubiera dado	ustedes	hubieran dado
+DECIR | to say
+yo	hubiera dicho	nosotros	hubiéramos dicho
+tú	hubieras dicho	vosotros	hubierais dicho
+él	hubiera dicho	ellos	hubieran dicho
+ella	hubiera dicho	ellas	hubieran dicho
+usted	hubiera dicho	ustedes	hubieran dicho
+DESPERTARSE | to wake up
+yo	me hubiera despertado	nosotros	nos hubiéramos despertado
+tú	te hubieras despertado	vosotros	os hubierais despertado
+él	se hubiera despertado	ellos	se hubieran despertado
+ella	se hubiera despertado	ellas	se hubieran despertado
+usted	se hubiera despertado	ustedes	se hubieran despertado
+ESCRIBIR | to write
+yo	hubiera escrito	nosotros	hubiéramos escrito
+tú	hubieras escrito	vosotros	hubierais escrito
+él	hubiera escrito	ellos	hubieran escrito
+ella	hubiera escrito	ellas	hubieran escrito
+usted	hubiera escrito	ustedes	hubieran escrito
+ESCUCHAR | to listen (to)
+yo	hubiera escuchado	nosotros	hubiéramos escuchado
+tú	hubieras escuchado	vosotros	hubierais escuchado
+él	hubiera escuchado	ellos	hubieran escuchado
+ella	hubiera escuchado	ellas	hubieran escuchado
+usted	hubiera escuchado	ustedes	hubieran escuchado
+ESTAR | to be (location)
+yo	hubiera estado	nosotros	hubiéramos estado
+tú	hubieras estado	vosotros	hubierais estado
+él	hubiera estado	ellos	hubieran estado
+ella	hubiera estado	ellas	hubieran estado
+usted	hubiera estado	ustedes	hubieran estado
+ESTUDIAR | to study
+yo	hubiera estudiado	nosotros	hubiéramos estudiado
+tú	hubieras estudiado	vosotros	hubierais estudiado
+él	hubiera estudiado	ellos	hubieran estudiado
+ella	hubiera estudiado	ellas	hubieran estudiado
+usted	hubiera estudiado	ustedes	hubieran estudiado
+HABLAR | to talk
+yo	hubiera hablado	nosotros	hubiéramos hablado
+tú	hubieras hablado	vosotros	hubierais hablado
+él	hubiera hablado	ellos	hubieran hablado
+ella	hubiera hablado	ellas	hubieran hablado
+usted	hubiera hablado	ustedes	hubieran hablado
+HACER | to do/to make
+yo	hubiera hecho	nosotros	hubiéramos hecho
+tú	hubieras hecho	vosotros	hubierais hecho
+él	hubiera hecho	ellos	hubieran hecho
+ella	hubiera hecho	ellas	hubieran hecho
+usted	hubiera hecho	ustedes	hubieran hecho
+IR | to go
+yo	hubiera ido	nosotros	hubiéramos ido
+tú	hubieras ido	vosotros	hubierais ido
+él	hubiera ido	ellos	hubieran ido
+ella	hubiera ido	ellas	hubieran ido
+usted	hubiera ido	ustedes	hubieran ido
+LAVAR | to wash
+yo	hubiera lavado	nosotros	hubiéramos lavado
+tú	hubieras lavado	vosotros	hubierais lavado
+él	hubiera lavado	ellos	hubieran lavado
+ella	hubiera lavado	ellas	hubieran lavado
+usted	hubiera lavado	ustedes	hubieran lavado
+LEER | to read
+yo	hubiera leído	nosotros	hubiéramos leído
+tú	hubieras leído	vosotros	hubierais leído
+él	hubiera leído	ellos	hubieran leído
+ella	hubiera leído	ellas	hubieran leído
+usted	hubiera leído	ustedes	hubieran leído
+LEVANTARSE | to get up
+yo	me hubiera levantado	nosotros	nos hubiéramos levantado
+tú	te hubieras levantado	vosotros	os hubierais levantado
+él	se hubiera levantado	ellos	se hubieran levantado
+ella	se hubiera levantado	ellas	se hubieran levantado
+usted	se hubiera levantado	ustedes	se hubieran levantado
+LIMPIAR | to clean
+yo	hubiera limpiado	nosotros	hubiéramos limpiado
+tú	hubieras limpiado	vosotros	hubierais limpiado
+él	hubiera limpiado	ellos	hubieran limpiado
+ella	hubiera limpiado	ellas	hubieran limpiado
+usted	hubiera limpiado	ustedes	hubieran limpiado
+LLEVAR | to wear/to bring
+yo	hubiera llevado	nosotros	hubiéramos llevado
+tú	hubieras llevado	vosotros	hubierais llevado
+él	hubiera llevado	ellos	hubieran llevado
+ella	hubiera llevado	ellas	hubieran llevado
+usted	hubiera llevado	ustedes	hubieran llevado
+MIRAR | to look
+yo	hubiera mirado	nosotros	hubiéramos mirado
+tú	hubieras mirado	vosotros	hubierais mirado
+él	hubiera mirado	ellos	hubieran mirado
+ella	hubiera mirado	ellas	hubieran mirado
+usted	hubiera mirado	ustedes	hubieran mirado
+MONTAR | to get on
+yo	hubiera montado	nosotros	hubiéramos montado
+tú	hubieras montado	vosotros	hubierais montado
+él	hubiera montado	ellos	hubieran montado
+ella	hubiera montado	ellas	hubieran montado
+usted	hubiera montado	ustedes	hubieran montado
+MORIR | to die
+yo	hubiera muerto	nosotros	hubiéramos muerto
+tú	hubieras muerto	vosotros	hubierais muerto
+él	hubiera muerto	ellos	hubieran muerto
+ella	hubiera muerto	ellas	hubieran muerto
+usted	hubiera muerto	ustedes	hubieran muerto
+OÍR | to hear
+yo	hubiera oído	nosotros	hubiéramos oído
+tú	hubieras oído	vosotros	hubierais oído
+él	hubiera oído	ellos	hubieran oído
+ella	hubiera oído	ellas	hubieran oído
+usted	hubiera oído	ustedes	hubieran oído
+PONER | to put
+yo	hubiera puesto	nosotros	hubiéramos puesto
+tú	hubieras puesto	vosotros	hubierais puesto
+él	hubiera puesto	ellos	hubieran puesto
+ella	hubiera puesto	ellas	hubieran puesto
+usted	hubiera puesto	ustedes	hubieran puesto
+QUERER | to want/to love
+yo	hubiera querido	nosotros	hubiéramos querido
+tú	hubieras querido	vosotros	hubierais querido
+él	hubiera querido	ellos	hubieran querido
+ella	hubiera querido	ellas	hubieran querido
+usted	hubiera querido	ustedes	hubieran querido
+QUITARSE | to take off
+yo	me hubiera quitado	nosotros	nos hubiéramos quitado
+tú	te hubieras quitado	vosotros	os hubierais quitado
+él	se hubiera quitado	ellos	se hubieran quitado
+ella	se hubiera quitado	ellas	se hubieran quitado
+usted	se hubiera quitado	ustedes	se hubieran quitado
+ROMPER | to break
+yo	hubiera roto	nosotros	hubiéramos roto
+tú	hubieras roto	vosotros	hubierais roto
+él	hubiera roto	ellos	hubieran roto
+ella	hubiera roto	ellas	hubieran roto
+usted	hubiera roto	ustedes	hubieran roto
+SACAR | to take out
+yo	hubiera sacado	nosotros	hubiéramos sacado
+tú	hubieras sacado	vosotros	hubierais sacado
+él	hubiera sacado	ellos	hubieran sacado
+ella	hubiera sacado	ellas	hubieran sacado
+usted	hubiera sacado	ustedes	hubieran sacado
+SALIR | to depart
+yo	hubiera salido	nosotros	hubiéramos salido
+tú	hubieras salido	vosotros	hubierais salido
+él	hubiera salido	ellos	hubieran salido
+ella	hubiera salido	ellas	hubieran salido
+usted	hubiera salido	ustedes	hubieran salido
+SER | to be (permanent)
+yo	hubiera sido	nosotros	hubiéramos sido
+tú	hubieras sido	vosotros	hubierais sido
+él	hubiera sido	ellos	hubieran sido
+ella	hubiera sido	ellas	hubieran sido
+usted	hubiera sido	ustedes	hubieran sido
+TOMAR | to take/to drink
+yo	hubiera tomado	nosotros	hubiéramos tomado
+tú	hubieras tomado	vosotros	hubierais tomado
+él	hubiera tomado	ellos	hubieran tomado
+ella	hubiera tomado	ellas	hubieran tomado
+usted	hubiera tomado	ustedes	hubieran tomado
+VENIR | to come
+yo	hubiera venido	nosotros	hubiéramos venido
+tú	hubieras venido	vosotros	hubierais venido
+él	hubiera venido	ellos	hubieran venido
+ella	hubiera venido	ellas	hubieran venido
+usted	hubiera venido	ustedes	hubieran venido
+VER | to see
+yo	hubiera visto	nosotros	hubiéramos visto
+tú	hubieras visto	vosotros	hubierais visto
+él	hubiera visto	ellos	hubieran visto
+ella	hubiera visto	ellas	hubieran visto
+usted	hubiera visto	ustedes	hubieran visto
+VESTIRSE | to get dressed
+yo	me hubiera vestido	nosotros	nos hubiéramos vestido
+tú	te hubieras vestido	vosotros	os hubierais vestido
+él	se hubiera vestido	ellos	se hubieran vestido
+ella	se hubiera vestido	ellas	se hubieran vestido
+usted	se hubiera vestido	ustedes	se hubieran vestido
+VIVIR | to live
+yo	hubiera vivido	nosotros	hubiéramos vivido
+tú	hubieras vivido	vosotros	hubierais vivido
+él	hubiera vivido	ellos	hubieran vivido
+ella	hubiera vivido	ellas	hubieran vivido
+usted	hubiera vivido	ustedes	hubieran vivido
+VOLVER | to go back/to do again
+yo	hubiera vuelto	nosotros	hubiéramos vuelto
+tú	hubieras vuelto	vosotros	hubierais vuelto
+él	hubiera vuelto	ellos	hubieran vuelto
+ella	hubiera vuelto	ellas	hubieran vuelto
+usted	hubiera vuelto	ustedes	hubieran vuelto
